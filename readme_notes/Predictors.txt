@@ -1,0 +1,79 @@
+##### Individual cues analysis
+# AU1..2.ann
+# AU1+2+4
+# AU4.ann
+# AU4..9.ann
+# AU5.ann
+# blink.ann
+# HPb.ann
+# HT.ann
+# HPf.ann
+# HS.ann
+# Wiggle.ann
+# NM..BC.ann
+# NM.ann
+# nod.ann
+# HOEVEEL.ann
+# JIJ.ann
+# hold.ann
+# JA.ann
+# PO.ann
+# QS.ann
+# self..groom.ann
+# tag4.ann
+# HOE.ann
+# WAAROM.ann
+# repetition.ann
+# WAT.ann
+# JULLIE..TWEE.ann
+# tag3.ann
+# HOE..LANG.ann
+# AU4..5.ann
+# tag1.ann
+# tag2.ann
+# PO..JIJ.ann
+# fold..hands.ann
+# lenghtening.ann
+
+
+##### Grouped cues analysis
+# Brows_summary_raises
+# Brows_summary_frowns
+# Brows_summary_raiseandfrown
+# Head_summary_tilts
+# Head_summary_blinks
+# Head_summary_mvmts
+# Backchannel
+# Nonmanual_prosodic_cues
+# Manual_prosodic_cues
+# Question_words
+# Lexical_cues
+# Tag_cues
+# NonWHQuestion_words
+
+##### Other item factors
+# Duration
+# Question
+# Dyad
+# Signer
+
+##### Acquisition predictors:
+# Early vs. Late Learner
+# Age of sign onset
+# (Top) input type
+
+##### Other participant factors
+# Deaf
+# Age
+# Gender
+# Place
+# Education
+
+# Other:
+# Order
+
+##### Random effects:
+# Subject
+# Item
+# Signer
+

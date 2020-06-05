@@ -1,0 +1,252 @@
+Scenario - Test trials
+Logfile written - 01/23/2015 11:36:10
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+LL-31B	1	Video	instructions	-5486	0	1			0		other	0
+LL-31B	1	Response	2	-1702	3784	1
+LL-31B	2	Response	2	35736	36708	2
+LL-31B	3	Video	P20A.mpeg	41657	0	1			0		other	0
+LL-31B	4	Video	P20C.mpeg	95154	0	1			0		other	0
+LL-31B	4	Response	2	125673	30519	43
+LL-31B	6	Video	P7A.mpeg	137617	0	1			0		other	0
+LL-31B	7	Video	P7C.mpeg	179912	0	2			0		other	0
+LL-31B	7	Response	2	204654	24742	2
+LL-31B	9	Video	P17A.mpeg	216691	0	2			0		other	0
+LL-31B	9	Response	2	235965	19274	2
+LL-31B	10	Video	P17C.mpeg	251799	0	1			0		other	0
+LL-31B	12	Video	P1A.mpeg	328867	0	1			0		other	0
+LL-31B	13	Video	P1C.mpeg	462943	0	1			0		other	0
+LL-31B	13	Response	2	479987	17044	1
+LL-31B	15	Video	P11A.mpeg	492199	0	1			0		other	0
+LL-31B	15	Response	2	518636	26437	2
+LL-31B	16	Video	P11C.mpeg	537170	0	1			0		other	0
+LL-31B	16	Response	2	570512	33342	1
+LL-31B	18	Video	P13A.mpeg	582976	0	1			0		other	0
+LL-31B	19	Video	P13C.mpeg	623433	0	1			0		other	0
+LL-31B	19	Response	2	671113	47680	1
+LL-31B	21	Video	P15A.mpeg	683282	0	2			0		other	0
+LL-31B	22	Video	P15C.mpeg	730259	0	1			0		other	0
+LL-31B	22	Response	2	764596	34337	1
+LL-31B	24	Video	P19A.mpeg	776902	0	1			0		other	0
+LL-31B	25	Video	P19C.mpeg	830398	0	1			0		other	0
+LL-31B	25	Response	2	852260	21862	2
+LL-31B	27	Video	P5A.mpeg	864001	0	1			0		other	0
+LL-31B	28	Video	P5C.mpeg	921844	0	1			0		other	0
+LL-31B	28	Response	2	939884	18040	2
+LL-31B	30	Video	P12A.mpeg	951100	0	1			0		other	0
+LL-31B	31	Video	P12C.mpeg	1004597	0	1			0		other	0
+LL-31B	31	Response	2	1036104	31507	1
+LL-31B	33	Video	P6A.mpeg	1047394	0	1			0		other	0
+LL-31B	34	Video	P6C.mpeg	1085176	0	1			0		other	0
+LL-31B	34	Response	2	1101881	16705	1
+LL-31B	36	Video	P18A.mpeg	1112760	0	1			0		other	0
+LL-31B	37	Video	P18C.mpeg	1238143	0	1			0		other	0
+LL-31B	37	Response	2	1250815	12672	2
+LL-31B	39	Video	P3A.mpeg	1263219	0	2			0		other	0
+LL-31B	40	Video	P3C.mpeg	1355334	0	1			0		other	0
+LL-31B	40	Response	2	1378700	23366	1
+LL-31B	42	Video	P16A.mpeg	1390107	0	1			0		other	0
+LL-31B	43	Video	P16C.mpeg	1420032	0	1			0		other	0
+LL-31B	43	Response	2	1434267	14235	2
+LL-31B	45	Video	P10A.mpeg	1446278	0	1			0		other	0
+LL-31B	46	Video	P10C.mpeg	1559791	0	2			0		other	0
+LL-31B	46	Response	2	1598615	38824	44
+LL-31B	48	Video	P9A.mpeg	1610613	0	2			0		other	0
+LL-31B	49	Video	P9C.mpeg	1679490	0	1			0		other	0
+LL-31B	49	Response	2	1702313	22823	2
+LL-31B	51	Video	P8A.mpeg	1713260	0	1			0		other	0
+LL-31B	52	Video	P8C.mpeg	1739507	0	1			0		other	0
+LL-31B	52	Response	2	1752303	12796	2
+LL-31B	54	Video	P14A.mpeg	1764583	0	2			0		other	0
+LL-31B	55	Video	P14C.mpeg	1849844	0	1			0		other	0
+LL-31B	55	Response	2	1880785	30941	2
+LL-31B	57	Video	P2A.mpeg	1893142	0	2			0		other	0
+LL-31B	58	Video	P2C.mpeg	1995120	0	2			0		other	0
+LL-31B	58	Response	2	2013789	18669	2
+LL-31B	60	Video	P4A.mpeg	2026383	0	1			0		other	0
+LL-31B	61	Video	P4C.mpeg	2166644	0	1			0		other	0
+LL-31B	61	Response	2	2185029	18385	2
+LL-31B	63	Video	instructions	2194560	0	166			0		other	0
+LL-31B	64	Response	2	3200612	467740	1
+LL-31B	65	Video	42A.mpeg	3206652	0	1			0		other	0
+LL-31B	66	Video	42C.mpeg	3273189	0	1			0		other	0
+LL-31B	66	Response	2	3295614	22425	2
+LL-31B	68	Video	41A.mpeg	3308463	0	1			0		other	0
+LL-31B	69	Video	41C.mpeg	3368312	0	1			0		other	0
+LL-31B	69	Response	2	3381789	13477	2
+LL-31B	71	Video	54A.mpeg	3393723	0	1			0		other	0
+LL-31B	72	Video	54C.mpeg	3469454	0	2			0		other	0
+LL-31B	72	Response	2	3512398	42944	2
+LL-31B	74	Video	22A.mpeg	3523954	0	1			0		other	0
+LL-31B	75	Video	22C.mpeg	3571432	0	2			0		other	0
+LL-31B	75	Response	2	3575022	3590	1
+LL-31B	77	Video	3A.mpeg	3587147	0	1			0		other	0
+LL-31B	78	Video	3C.mpeg	3674413	0	2			0		other	0
+LL-31B	78	Response	2	3698241	23828	2
+LL-31B	80	Video	12A.mpeg	3710189	0	1			0		other	0
+LL-31B	81	Video	12C.mpeg	3747470	0	1			0		other	0
+LL-31B	81	Response	2	3769149	21679	18
+LL-31B	83	Video	28A.mpeg	3781741	0	1			0		other	0
+LL-31B	84	Video	28C.mpeg	3836575	0	1			0		other	0
+LL-31B	84	Response	2	3861454	24879	19
+LL-31B	86	Video	5A.mpeg	3873688	0	2			0		other	0
+LL-31B	87	Video	5C.mpeg	3940559	0	1			0		other	0
+LL-31B	87	Response	2	3957162	16603	18
+LL-31B	89	Video	51A.mpeg	3968979	0	1			0		other	0
+LL-31B	90	Video	51C.mpeg	4031169	0	1			0		other	0
+LL-31B	90	Response	2	4061133	29964	1
+LL-31B	92	Video	24A.mpeg	4073131	0	1			0		other	0
+LL-31B	93	Video	24C.mpeg	4122782	0	1			0		other	0
+LL-31B	93	Response	2	4146813	24031	1
+LL-31B	95	Video	25A.mpeg	4159060	0	1			0		other	0
+LL-31B	96	Video	25C.mpeg	4267223	0	1			0		other	0
+LL-31B	96	Response	2	4292590	25367	46
+LL-31B	98	Video	55A.mpeg	4305841	0	1			0		other	0
+LL-31B	99	Video	55C.mpeg	4399293	0	1			0		other	0
+LL-31B	99	Response	2	4429814	30521	2
+LL-31B	101	Video	20A.mpeg	4442090	0	1			0		other	0
+LL-31B	102	Video	20C.mpeg	4523505	0	2			0		other	0
+LL-31B	102	Response	2	4551369	27864	2
+LL-31B	104	Video	58A.mpeg	4562625	0	1			0		other	0
+LL-31B	105	Video	58C.mpeg	4592382	0	2			0		other	0
+LL-31B	105	Response	2	4605907	13525	2
+LL-31B	107	Video	38A.mpeg	4618295	0	1			0		other	0
+LL-31B	108	Video	38C.mpeg	4663767	0	1			0		other	0
+LL-31B	108	Response	2	4698470	34703	1
+LL-31B	110	Video	23A.mpeg	4710744	0	1			0		other	0
+LL-31B	111	Video	23C.mpeg	4827768	0	1			0		other	0
+LL-31B	111	Response	2	4844092	16324	1
+LL-31B	113	Video	27A.mpeg	4856856	0	2			0		other	0
+LL-31B	114	Video	27C.mpeg	4918879	0	1			0		other	0
+LL-31B	114	Response	2	4945020	26141	44
+LL-31B	116	Video	56A.mpeg	4957664	0	1			0		other	0
+LL-31B	117	Video	56C.mpeg	5066496	0	2			0		other	0
+LL-31B	117	Response	2	5085382	18886	2
+LL-31B	119	Video	40A.mpeg	5097926	0	1			0		other	0
+LL-31B	120	Video	40C.mpeg	5182183	0	2			0		other	0
+LL-31B	120	Response	2	5208023	25840	36
+LL-31B	122	Video	15A.mpeg	5220132	0	1			0		other	0
+LL-31B	123	Video	15C.mpeg	5274297	0	2			0		other	0
+LL-31B	123	Response	2	5293655	19358	1
+LL-31B	125	Video	14A.mpeg	5305225	0	1			0		other	0
+LL-31B	126	Video	14C.mpeg	5392659	0	1			0		other	0
+LL-31B	126	Response	2	5416535	23876	2
+LL-31B	128	Video	1A.mpeg	5429103	0	1			0		other	0
+LL-31B	129	Video	1C.mpeg	5542951	0	1			0		other	0
+LL-31B	129	Response	2	5556405	13454	2
+LL-31B	131	Video	50A.mpeg	5567693	0	1			0		other	0
+LL-31B	132	Video	50C.mpeg	5609822	0	1			0		other	0
+LL-31B	132	Response	2	5634042	24220	2
+LL-31B	134	Video	10A.mpeg	5645096	0	1			0		other	0
+LL-31B	135	Video	10C.mpeg	5679702	0	1			0		other	0
+LL-31B	135	Response	2	5689678	9976	2
+LL-31B	137	Video	7A.mpeg	5701936	0	1			0		other	0
+LL-31B	138	Video	7C.mpeg	5782014	0	1			0		other	0
+LL-31B	138	Response	2	5817620	35606	2
+LL-31B	140	Video	9A.mpeg	5830161	0	1			0		other	0
+LL-31B	141	Video	9C.mpeg	5876636	0	1			0		other	0
+LL-31B	141	Response	2	5935961	59325	2
+LL-31B	143	Video	13A.mpeg	5948021	0	1			0		other	0
+LL-31B	144	Video	13C.mpeg	5997672	0	1			0		other	0
+LL-31B	144	Response	2	6021725	24053	2
+LL-31B	146	Video	48A.mpeg	6033615	0	1			0		other	0
+LL-31B	147	Video	48C.mpeg	6062871	0	1			0		other	0
+LL-31B	147	Response	2	6075980	13109	2
+LL-31B	149	Video	46A.mpeg	6088282	0	1			0		other	0
+LL-31B	150	Video	46C.mpeg	6137098	0	1			0		other	0
+LL-31B	150	Response	2	6158715	21617	2
+LL-31B	152	Video	4A.mpeg	6171035	0	1			0		other	0
+LL-31B	153	Video	4C.mpeg	6294746	0	1			0		other	0
+LL-31B	153	Response	2	6307499	12753	1
+LL-31B	155	Response	2	6700735	382100	1
+LL-31B	157	Video	57A.mpeg	6706168	0	2			0		other	0
+LL-31B	158	Video	57C.mpeg	6754984	0	1			0		other	0
+LL-31B	158	Response	2	6766981	11997	1
+LL-31B	160	Video	53A.mpeg	6779559	0	1			0		other	0
+LL-31B	161	Video	53C.mpeg	6810487	0	1			0		other	0
+LL-31B	161	Response	2	6844734	34247	2
+LL-31B	163	Video	30A.mpeg	6856126	0	1			0		other	0
+LL-31B	164	Video	30C.mpeg	6901598	0	1			0		other	0
+LL-31B	164	Response	2	6916843	15245	2
+LL-31B	166	Video	60A.mpeg	6929517	0	1			0		other	0
+LL-31B	167	Video	60C.mpeg	6996555	0	1			0		other	0
+LL-31B	167	Response	2	7017854	21299	2
+LL-31B	169	Video	36A.mpeg	7030157	0	2			0		other	0
+LL-31B	170	Video	36C.mpeg	7081314	0	1			0		other	0
+LL-31B	170	Response	2	7110157	28843	2
+LL-31B	172	Video	43A.mpeg	7121603	0	1			0		other	0
+LL-31B	173	Video	43C.mpeg	7160054	0	1			0		other	0
+LL-31B	173	Response	2	7175889	15835	2
+LL-31B	175	Video	44A.mpeg	7188641	0	1			0		other	0
+LL-31B	176	Video	44C.mpeg	7253339	0	1			0		other	0
+LL-31B	176	Response	2	7273206	19867	2
+LL-31B	178	Video	49A.mpeg	7283765	0	1			0		other	0
+LL-31B	179	Video	49C.mpeg	7301486	0	1			0		other	0
+LL-31B	179	Response	2	7322253	20767	1
+LL-31B	181	Video	29A.mpeg	7333751	0	1			0		other	0
+LL-31B	182	Video	29C.mpeg	7381564	0	1			0		other	0
+LL-31B	182	Response	2	7403594	22030	2
+LL-31B	184	Video	21A.mpeg	7415668	0	1			0		other	0
+LL-31B	185	Video	21C.mpeg	7500594	0	1			0		other	0
+LL-31B	185	Response	2	7515638	15044	2
+LL-31B	187	Video	18A.mpeg	7528512	0	1			0		other	0
+LL-31B	188	Video	18C.mpeg	7625642	0	1			0		other	0
+LL-31B	188	Response	2	7657629	31987	2
+LL-31B	190	Video	39A.mpeg	7669944	0	1			0		other	0
+LL-31B	191	Video	39C.mpeg	7739824	0	1			0		other	0
+LL-31B	191	Response	2	7788062	48238	2
+LL-31B	193	Video	19A.mpeg	7800509	0	1			0		other	0
+LL-31B	194	Video	19C.mpeg	7965847	0	1			0		other	0
+LL-31B	194	Response	2	7986185	20338	2
+LL-31B	196	Video	52A.mpeg	7998279	0	2			0		other	0
+LL-31B	197	Video	52C.mpeg	8065986	0	1			0		other	0
+LL-31B	197	Response	2	8099541	33555	1
+LL-31B	199	Video	35A.mpeg	8112127	0	1			0		other	0
+LL-31B	200	Video	35C.mpeg	8180168	0	1			0		other	0
+LL-31B	200	Response	2	8194218	14050	1
+LL-31B	202	Video	6A.mpeg	8206582	0	31			0		other	0
+LL-31B	203	Video	6C.mpeg	8255398	0	1			0		other	0
+LL-31B	203	Response	2	8273269	17871	2
+LL-31B	205	Video	45A.mpeg	8285991	0	1			0		other	0
+LL-31B	206	Video	45C.mpeg	8323439	0	1			0		other	0
+LL-31B	206	Response	2	8340200	16761	2
+LL-31B	208	Video	11A.mpeg	8352528	0	1			0		other	0
+LL-31B	209	Video	11C.mpeg	8411875	0	2			0		other	0
+LL-31B	209	Response	2	8457357	45482	2
+LL-31B	211	Video	47A.mpeg	8468883	0	1			0		other	0
+LL-31B	212	Video	47C.mpeg	8517698	0	2			0		other	0
+LL-31B	212	Response	2	8539766	22068	2
+LL-31B	214	Video	16A.mpeg	8552471	0	1			0		other	0
+LL-31B	215	Video	16C.mpeg	8650270	0	1			0		other	0
+LL-31B	215	Response	2	8688977	38707	2
+LL-31B	217	Video	2A.mpeg	8700757	0	1			0		other	0
+LL-31B	218	Video	2C.mpeg	8815273	0	2			0		other	0
+LL-31B	218	Response	2	8845994	30721	2
+LL-31B	220	Video	34A.mpeg	8858405	0	1			0		other	0
+LL-31B	221	Video	34C.mpeg	8958544	0	1			0		other	0
+LL-31B	221	Response	2	8998971	40427	2
+LL-31B	223	Video	31A.mpeg	9011372	0	1			0		other	0
+LL-31B	224	Video	31C.mpeg	9084261	0	1			0		other	0
+LL-31B	224	Response	2	9113340	29079	1
+LL-31B	226	Video	26A.mpeg	9124551	0	1			0		other	0
+LL-31B	227	Video	26C.mpeg	9152302	0	34			0		other	0
+LL-31B	227	Response	2	9171752	19450	42
+LL-31B	229	Video	32A.mpeg	9182561	0	2			0		other	0
+LL-31B	230	Video	32C.mpeg	9207471	0	1			0		other	0
+LL-31B	230	Response	2	9228025	20554	1
+LL-31B	232	Video	59A.mpeg	9240237	0	2			0		other	0
+LL-31B	233	Video	59C.mpeg	9288050	0	1			0		other	0
+LL-31B	233	Response	2	9324807	36757	1
+LL-31B	235	Video	33A.mpeg	9336197	0	1			0		other	0
+LL-31B	236	Video	33C.mpeg	9385180	0	1			0		other	0
+LL-31B	236	Response	2	9405703	20523	43
+LL-31B	238	Video	37A.mpeg	9417779	0	2			0		other	0
+LL-31B	239	Video	37C.mpeg	9450379	0	1			0		other	0
+LL-31B	239	Response	2	9472888	22509	1
+LL-31B	241	Video	8A.mpeg	9483981	0	2			0		other	0
+LL-31B	242	Video	8C.mpeg	9561552	0	1			0		other	0
+LL-31B	242	Response	2	9583745	22193	2
+LL-31B	244	Video	17A.mpeg	9595656	0	1			0		other	0
+LL-31B	245	Video	17C.mpeg	9646979	0	1			0		other	0
+LL-31B	245	Response	2	9688729	41750	2

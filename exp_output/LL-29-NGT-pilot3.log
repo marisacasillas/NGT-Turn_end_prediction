@@ -1,0 +1,252 @@
+Scenario - Test trials
+Logfile written - 01/14/2015 18:29:33
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+LL-29B	1	Video	instructions	-4817	0	1			0		other	0
+LL-29B	1	Response	2	29773	34590	1
+LL-29B	2	Response	2	93784	62827	1
+LL-29B	3	Video	P10A.mpeg	100836	0	1			0		other	0
+LL-29B	4	Video	P10C.mpeg	214347	0	1			0		other	0
+LL-29B	4	Response	2	216811	2464	2
+LL-29B	6	Video	P11A.mpeg	229058	0	2			0		other	0
+LL-29B	7	Video	P11C.mpeg	274029	0	1			0		other	0
+LL-29B	7	Response	2	315183	41154	1
+LL-29B	9	Video	P18A.mpeg	326855	0	1			0		other	0
+LL-29B	10	Video	P18C.mpeg	452069	0	1			0		other	0
+LL-29B	10	Response	2	469073	17004	13
+LL-29B	12	Video	P7A.mpeg	481157	0	1			0		other	0
+LL-29B	13	Video	P7C.mpeg	523786	0	1			0		other	0
+LL-29B	13	Response	2	554799	31013	2
+LL-29B	15	Video	P14A.mpeg	567252	0	1			0		other	0
+LL-29B	16	Video	P14C.mpeg	652510	0	2			0		other	0
+LL-29B	16	Response	2	666743	14233	18
+LL-29B	18	Video	P17A.mpeg	678590	0	1			0		other	0
+LL-29B	19	Video	P17C.mpeg	713696	0	1			0		other	0
+LL-29B	19	Response	2	736169	22473	2
+LL-29B	21	Video	P15A.mpeg	748635	0	2			0		other	0
+LL-29B	22	Video	P15C.mpeg	795611	0	1			0		other	0
+LL-29B	22	Response	2	832396	36785	1
+LL-29B	24	Video	P13A.mpeg	845095	0	1			0		other	0
+LL-29B	25	Video	P13C.mpeg	885551	0	1			0		other	0
+LL-29B	25	Response	2	955442	69891	2
+LL-29B	27	Video	P6A.mpeg	967466	0	1			0		other	0
+LL-29B	28	Video	P6C.mpeg	1005080	0	2			0		other	0
+LL-29B	28	Response	2	1019126	14046	1
+LL-29B	30	Video	P19A.mpeg	1030658	0	1			0		other	0
+LL-29B	31	Video	P19C.mpeg	1084154	0	1			0		other	0
+LL-29B	31	Response	2	1097560	13406	48
+LL-29B	33	Video	P16A.mpeg	1109063	0	1			0		other	0
+LL-29B	34	Video	P16C.mpeg	1139154	0	1			0		other	0
+LL-29B	34	Response	2	1156641	17487	1
+LL-29B	36	Video	P12A.mpeg	1168410	0	1			0		other	0
+LL-29B	37	Video	P12C.mpeg	1222072	0	2			0		other	0
+LL-29B	37	Response	2	1257702	35630	2
+LL-29B	39	Video	P5A.mpeg	1269717	0	1			0		other	0
+LL-29B	40	Video	P5C.mpeg	1327559	0	1			0		other	0
+LL-29B	40	Response	2	1348822	21263	1
+LL-29B	42	Video	P1A.mpeg	1361663	0	1			0		other	0
+LL-29B	43	Video	P1C.mpeg	1495736	0	2			0		other	0
+LL-29B	43	Response	2	1511320	15584	2
+LL-29B	45	Video	P3A.mpeg	1522986	0	1			0		other	0
+LL-29B	46	Video	P3C.mpeg	1615099	0	1			0		other	0
+LL-29B	46	Response	2	1641044	25945	1
+LL-29B	48	Video	P20A.mpeg	1652880	0	1			0		other	0
+LL-29B	49	Video	P20C.mpeg	1706209	0	1			0		other	0
+LL-29B	49	Response	2	1736951	30742	2
+LL-29B	51	Video	P2A.mpeg	1750008	0	1			0		other	0
+LL-29B	52	Video	P2C.mpeg	1852151	0	2			0		other	0
+LL-29B	52	Response	2	1885386	33235	2
+LL-29B	54	Video	P9A.mpeg	1897790	0	1			0		other	0
+LL-29B	55	Video	P9C.mpeg	1966833	0	1			0		other	0
+LL-29B	55	Response	2	1978016	11183	2
+LL-29B	57	Video	P4A.mpeg	1990237	0	1			0		other	0
+LL-29B	58	Video	P4C.mpeg	2130329	0	1			0		other	0
+LL-29B	58	Response	2	2148977	18648	2
+LL-29B	60	Video	P8A.mpeg	2160086	0	1			0		other	0
+LL-29B	61	Video	P8C.mpeg	2186500	0	1			0		other	0
+LL-29B	61	Response	2	2206236	19736	41
+LL-29B	63	Video	instructions	2216424	0	1			0		other	0
+LL-29B	63	Response	2	2524585	308161	2
+LL-29B	64	Response	2	2842326	316965	1
+LL-29B	65	Video	30A.mpeg	2848676	0	1			0		other	0
+LL-29B	66	Video	30C.mpeg	2893980	0	2			0		other	0
+LL-29B	66	Response	2	2911275	17295	2
+LL-29B	68	Video	17A.mpeg	2923236	0	1			0		other	0
+LL-29B	69	Video	17C.mpeg	2974558	0	1			0		other	0
+LL-29B	69	Response	2	3018477	43919	3
+LL-29B	71	Video	6A.mpeg	3030227	0	1			0		other	0
+LL-29B	72	Video	6C.mpeg	3079209	0	1			0		other	0
+LL-29B	72	Response	2	3095949	16740	1
+LL-29B	74	Video	4A.mpeg	3108130	0	2			0		other	0
+LL-29B	75	Video	4C.mpeg	3231839	0	1			0		other	0
+LL-29B	75	Response	2	3244698	12859	2
+LL-29B	77	Video	13A.mpeg	3256414	0	1			0		other	0
+LL-29B	78	Video	13C.mpeg	3306064	0	2			0		other	0
+LL-29B	78	Response	2	3327570	21506	2
+LL-29B	80	Video	42A.mpeg	3338998	0	1			0		other	0
+LL-29B	81	Video	42C.mpeg	3405533	0	1			0		other	0
+LL-29B	81	Response	2	3422122	16589	2
+LL-29B	83	Video	46A.mpeg	3434287	0	1			0		other	0
+LL-29B	84	Video	46C.mpeg	3483102	0	1			0		other	0
+LL-29B	84	Response	2	3506766	23664	2
+LL-29B	86	Video	43A.mpeg	3518877	0	1			0		other	0
+LL-29B	87	Video	43C.mpeg	3557327	0	1			0		other	0
+LL-29B	87	Response	2	3572281	14954	1
+LL-29B	89	Video	27A.mpeg	3584911	0	1			0		other	0
+LL-29B	90	Video	27C.mpeg	3646932	0	2			0		other	0
+LL-29B	90	Response	2	3670412	23480	2
+LL-29B	92	Video	3A.mpeg	3683042	0	1			0		other	0
+LL-29B	93	Video	3C.mpeg	3770307	0	1			0		other	0
+LL-29B	93	Response	2	3790215	19908	2
+LL-29B	95	Video	54A.mpeg	3802906	0	1			0		other	0
+LL-29B	96	Video	54C.mpeg	3878636	0	1			0		other	0
+LL-29B	96	Response	2	3929005	50369	2
+LL-29B	98	Video	53A.mpeg	3940824	0	2			0		other	0
+LL-29B	99	Video	53C.mpeg	3972253	0	1			0		other	0
+LL-29B	99	Response	2	4004378	32125	2
+LL-29B	101	Video	15A.mpeg	4016721	0	2			0		other	0
+LL-29B	102	Video	15C.mpeg	4070886	0	1			0		other	0
+LL-29B	102	Response	2	4092287	21401	3
+LL-29B	104	Video	16A.mpeg	4104655	0	1			0		other	0
+LL-29B	105	Video	16C.mpeg	4202285	0	1			0		other	0
+LL-29B	105	Response	2	4222568	20283	2
+LL-29B	107	Video	23A.mpeg	4235218	0	1			0		other	0
+LL-29B	108	Video	23C.mpeg	4352407	0	1			0		other	0
+LL-29B	108	Response	2	4366196	13789	2
+LL-29B	110	Video	51A.mpeg	4378988	0	1			0		other	0
+LL-29B	111	Video	51C.mpeg	4441176	0	2			0		other	0
+LL-29B	111	Response	2	4487173	45997	2
+LL-29B	113	Video	50A.mpeg	4499019	0	1			0		other	0
+LL-29B	114	Video	50C.mpeg	4541147	0	1			0		other	0
+LL-29B	114	Response	2	4570978	29831	2
+LL-29B	116	Video	59A.mpeg	4583609	0	1			0		other	0
+LL-29B	117	Video	59C.mpeg	4631086	0	1			0		other	0
+LL-29B	117	Response	2	4650123	19037	2
+LL-29B	119	Video	24A.mpeg	4662849	0	1			0		other	0
+LL-29B	120	Video	24C.mpeg	4712500	0	1			0		other	0
+LL-29B	120	Response	2	4737616	25116	2
+LL-29B	122	Video	47A.mpeg	4749780	0	1			0		other	0
+LL-29B	123	Video	47C.mpeg	4798427	0	2			0		other	0
+LL-29B	123	Response	2	4822760	24333	2
+LL-29B	125	Video	44A.mpeg	4834704	0	1			0		other	0
+LL-29B	126	Video	44C.mpeg	4899568	0	1			0		other	0
+LL-29B	126	Response	2	4923193	23625	1
+LL-29B	128	Video	36A.mpeg	4935510	0	1			0		other	0
+LL-29B	129	Video	36C.mpeg	4986665	0	2			0		other	0
+LL-29B	129	Response	2	5042433	55768	1
+LL-29B	131	Video	49A.mpeg	5054037	0	1			0		other	0
+LL-29B	132	Video	49C.mpeg	5072426	0	1			0		other	0
+LL-29B	132	Response	2	5088859	16433	1
+LL-29B	134	Video	33A.mpeg	5100177	0	1			0		other	0
+LL-29B	135	Video	33C.mpeg	5149159	0	1			0		other	0
+LL-29B	135	Response	2	5167000	17841	44
+LL-29B	137	Video	14A.mpeg	5180086	0	1			0		other	0
+LL-29B	138	Video	14C.mpeg	5267351	0	1			0		other	0
+LL-29B	138	Response	2	5289920	22569	2
+LL-29B	140	Video	58A.mpeg	5301120	0	1			0		other	0
+LL-29B	141	Video	58C.mpeg	5330877	0	1			0		other	0
+LL-29B	141	Response	2	5342549	11672	2
+LL-29B	143	Video	26A.mpeg	5354448	0	2			0		other	0
+LL-29B	144	Video	26C.mpeg	5382366	0	2			0		other	0
+LL-29B	144	Response	2	5399282	16916	43
+LL-29B	146	Video	55A.mpeg	5412458	0	1			0		other	0
+LL-29B	147	Video	55C.mpeg	5506075	0	2			0		other	0
+LL-29B	147	Response	2	5544350	38275	2
+LL-29B	149	Video	45A.mpeg	5557732	0	1			0		other	0
+LL-29B	150	Video	45C.mpeg	5595346	0	1			0		other	0
+LL-29B	150	Response	2	5658870	63524	1
+LL-29B	152	Video	21A.mpeg	5670575	0	1			0		other	0
+LL-29B	153	Video	21C.mpeg	5755666	0	1			0		other	0
+LL-29B	153	Response	2	5771885	16219	2
+LL-29B	155	Response	2	5911874	128290	2
+LL-29B	157	Video	2A.mpeg	5917324	0	1			0		other	0
+LL-29B	158	Video	2C.mpeg	6031838	0	1			0		other	0
+LL-29B	158	Response	2	6063651	31813	2
+LL-29B	160	Video	57A.mpeg	6075470	0	1			0		other	0
+LL-29B	161	Video	57C.mpeg	6124452	0	1			0		other	0
+LL-29B	161	Response	2	6136661	12209	3
+LL-29B	163	Video	22A.mpeg	6148860	0	1			0		other	0
+LL-29B	164	Video	22C.mpeg	6196671	0	2			0		other	0
+LL-29B	164	Response	2	6208811	12140	1
+LL-29B	166	Video	10A.mpeg	6220577	0	1			0		other	0
+LL-29B	167	Video	10C.mpeg	6255182	0	2			0		other	0
+LL-29B	167	Response	2	6266374	11192	1
+LL-29B	169	Video	38A.mpeg	6278921	0	1			0		other	0
+LL-29B	170	Video	38C.mpeg	6324225	0	1			0		other	0
+LL-29B	170	Response	2	6347990	23765	34
+LL-29B	172	Video	11A.mpeg	6360168	0	1			0		other	0
+LL-29B	173	Video	11C.mpeg	6419347	0	2			0		other	0
+LL-29B	173	Response	2	6453737	34390	2
+LL-29B	175	Video	52A.mpeg	6465822	0	1			0		other	0
+LL-29B	176	Video	52C.mpeg	6533694	0	2			0		other	0
+LL-29B	176	Response	2	6567695	34001	2
+LL-29B	178	Video	41A.mpeg	6580002	0	1			0		other	0
+LL-29B	179	Video	41C.mpeg	6640184	0	1			0		other	0
+LL-29B	179	Response	2	6653410	13226	1
+LL-29B	181	Video	18A.mpeg	6666598	0	1			0		other	0
+LL-29B	182	Video	18C.mpeg	6763726	0	1			0		other	0
+LL-29B	182	Response	2	6796988	33262	2
+LL-29B	184	Video	34A.mpeg	6810535	0	1			0		other	0
+LL-29B	185	Video	34C.mpeg	6910672	0	1			0		other	0
+LL-29B	185	Response	2	6951811	41139	2
+LL-29B	187	Video	19A.mpeg	6964335	0	1			0		other	0
+LL-29B	188	Video	19C.mpeg	7129837	0	1			0		other	0
+LL-29B	188	Response	2	7149587	19750	1
+LL-29B	190	Video	31A.mpeg	7161600	0	1			0		other	0
+LL-29B	191	Video	31C.mpeg	7234655	0	1			0		other	0
+LL-29B	191	Response	2	7258417	23762	43
+LL-29B	193	Video	28A.mpeg	7271601	0	1			0		other	0
+LL-29B	194	Video	28C.mpeg	7326601	0	1			0		other	0
+LL-29B	194	Response	2	7372680	46079	2
+LL-29B	196	Video	5A.mpeg	7384778	0	1			0		other	0
+LL-29B	197	Video	5C.mpeg	7451814	0	2			0		other	0
+LL-29B	197	Response	2	7467604	15790	2
+LL-29B	199	Video	37A.mpeg	7479064	0	1			0		other	0
+LL-29B	200	Video	37C.mpeg	7511496	0	1			0		other	0
+LL-29B	200	Response	2	7537058	25562	1
+LL-29B	202	Video	29A.mpeg	7548775	0	1			0		other	0
+LL-29B	203	Video	29C.mpeg	7596587	0	1			0		other	0
+LL-29B	203	Response	2	7619460	22873	2
+LL-29B	205	Video	20A.mpeg	7631527	0	1			0		other	0
+LL-29B	206	Video	20C.mpeg	7712773	0	1			0		other	0
+LL-29B	206	Response	2	7737165	24392	2
+LL-29B	208	Video	9A.mpeg	7749551	0	2			0		other	0
+LL-29B	209	Video	9C.mpeg	7796193	0	1			0		other	0
+LL-29B	209	Response	2	7860205	64012	2
+LL-29B	211	Video	56A.mpeg	7872591	0	2			0		other	0
+LL-29B	212	Video	56C.mpeg	7981589	0	1			0		other	0
+LL-29B	212	Response	2	8001786	20197	35
+LL-29B	214	Video	8A.mpeg	8015024	0	1			0		other	0
+LL-29B	215	Video	8C.mpeg	8092927	0	1			0		other	0
+LL-29B	215	Response	2	8113953	21026	2
+LL-29B	217	Video	7A.mpeg	8126529	0	1			0		other	0
+LL-29B	218	Video	7C.mpeg	8206605	0	1			0		other	0
+LL-29B	218	Response	2	8253211	46606	3
+LL-29B	220	Video	32A.mpeg	8264280	0	2			0		other	0
+LL-29B	221	Video	32C.mpeg	8289022	0	1			0		other	0
+LL-29B	221	Response	2	8308298	19276	19
+LL-29B	223	Video	39A.mpeg	8321120	0	1			0		other	0
+LL-29B	224	Video	39C.mpeg	8391165	0	2			0		other	0
+LL-29B	224	Response	2	8442052	50887	18
+LL-29B	226	Video	35A.mpeg	8454859	0	1			0		other	0
+LL-29B	227	Video	35C.mpeg	8522899	0	1			0		other	0
+LL-29B	227	Response	2	8557219	34320	1
+LL-29B	229	Video	1A.mpeg	8569707	0	2			0		other	0
+LL-29B	230	Video	1C.mpeg	8683386	0	1			0		other	0
+LL-29B	230	Response	2	8697104	13718	18
+LL-29B	232	Video	25A.mpeg	8710802	0	2			0		other	0
+LL-29B	233	Video	25C.mpeg	8818964	0	1			0		other	0
+LL-29B	233	Response	2	8853775	34811	2
+LL-29B	235	Video	48A.mpeg	8865438	0	2			0		other	0
+LL-29B	236	Video	48C.mpeg	8895028	0	1			0		other	0
+LL-29B	236	Response	2	8922799	27771	2
+LL-29B	238	Video	12A.mpeg	8934816	0	1			0		other	0
+LL-29B	239	Video	12C.mpeg	8972430	0	1			0		other	0
+LL-29B	239	Response	2	8992823	20393	2
+LL-29B	241	Video	40A.mpeg	9005530	0	1			0		other	0
+LL-29B	242	Video	40C.mpeg	9089619	0	1			0		other	0
+LL-29B	242	Response	2	9120308	30689	1
+LL-29B	244	Video	60A.mpeg	9133084	0	1			0		other	0
+LL-29B	245	Video	60C.mpeg	9199954	0	1			0		other	0
+LL-29B	245	Response	2	9223018	23064	1

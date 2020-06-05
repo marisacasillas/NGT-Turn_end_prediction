@@ -1,0 +1,45 @@
+Scenario - Test trials
+Logfile written - 12/03/2014 18:33:50
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+LL-10C	1	Video	instructions	-5318	0	1			0		other	0
+LL-10C	1	Response	2	-3501	1817	1
+LL-10C	2	Response	2	493961	496939	2
+LL-10C	3	Video	P13A.mpeg	499566	0	1			0		other	0
+LL-10C	4	Video	P13C.mpeg	516952	0	2			0		other	0
+LL-10C	6	Video	P3A.mpeg	568945	0	2			0		other	0
+LL-10C	7	Video	P3C.mpeg	599372	0	2			0		other	0
+LL-10C	9	Video	P5A.mpeg	650530	0	1			0		other	0
+LL-10C	9	Response	2	730382	79852	1
+LL-10C	10	Video	P5C.mpeg	739470	0	1			0		other	0
+LL-10C	12	Video	P8A.mpeg	791463	0	1			0		other	0
+LL-10C	12	Response	2	840824	49361	2
+LL-10C	13	Video	P8C.mpeg	888929	0	1			0		other	0
+LL-10C	13	Response	2	954692	65763	1
+LL-10C	15	Video	P7A.mpeg	965832	0	1			0		other	0
+LL-10C	16	Video	P7C.mpeg	984890	0	2			0		other	0
+LL-10C	18	Video	P20A.mpeg	1047416	0	1			0		other	0
+LL-10C	19	Video	P20C.mpeg	1084029	0	1			0		other	0
+LL-10C	21	Video	P16A.mpeg	1161600	0	1			0		other	0
+LL-10C	21	Response	2	1230571	68971	2
+LL-10C	22	Video	P16C.mpeg	1231983	0	2			0		other	0
+LL-10C	22	Response	2	1290830	58847	2
+LL-10C	24	Video	P9A.mpeg	1303202	0	1			0		other	0
+LL-10C	25	Video	P9C.mpeg	1380272	0	2			0		other	0
+LL-10C	27	Video	P4A.mpeg	1428253	0	1			0		other	0
+LL-10C	28	Video	P4C.mpeg	1451658	0	2			0		other	0
+LL-10C	30	Video	P10A.mpeg	1509336	0	1			0		other	0
+LL-10C	31	Video	P10C.mpeg	1587242	0	1			0		other	0
+LL-10C	31	Response	2	1605436	18194	45
+LL-10C	33	Video	P6A.mpeg	1618505	0	1			0		other	0
+LL-10C	33	Response	2	1715861	97356	2
+LL-10C	34	Video	P6C.mpeg	1717810	0	1			0		other	0
+LL-10C	36	Video	P18A.mpeg	1766292	0	1			0		other	0
+LL-10C	37	Video	P18C.mpeg	1788861	0	2			0		other	0
+LL-10C	39	Video	P14A.mpeg	1840855	0	1			0		other	0
+LL-10C	40	Video	P14C.mpeg	1876130	0	1			0		other	0
+LL-10C	42	Video	P1A.mpeg	1950191	0	1			0		other	0
+LL-10C	43	Video	P1C.mpeg	1981621	0	1			0		other	0
+LL-10C	45	Video	P15A.mpeg	2025422	0	1			0		other	0
+LL-10C	45	Quit		2076896	51474

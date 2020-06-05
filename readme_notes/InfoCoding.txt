@@ -1,0 +1,17 @@
+Centered binary variables:
+- Question: Yes = 1; No = -1
+- MTCU: Yes = 1; No = -1
+- BP & HT (Dyad): MM = 1; YR = -1
+- Deaf: Yes = 1; No = -1
+- Gender:  F = 1; M = -1
+- Group:  EL = 1; LL = -1
+
+Factorized variables:
+- Signer (Mariko, Merel, Yassine, Rico)
+
+Numeric variables:
+- Top input code (1:3)
+- Age of sign onset
+- Turn duration
+- Trial
+- Age at test

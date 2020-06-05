@@ -1,0 +1,251 @@
+Scenario - Test trials
+Logfile written - 01/10/2015 16:40:02
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+EL-21	1	Video	instructions	-5319	0	2			0		other	0
+EL-21	2	Response	2	1462174	339046	1
+EL-21	3	Video	P12A.mpeg	1468183	0	1			0		other	0
+EL-21	4	Video	P12C.mpeg	1521680	0	1			0		other	0
+EL-21	4	Response	2	1577342	55662	1
+EL-21	6	Video	P17A.mpeg	1589387	0	1			0		other	0
+EL-21	7	Video	P17C.mpeg	1624661	0	1			0		other	0
+EL-21	7	Response	2	1646018	21357	45
+EL-21	9	Video	P9A.mpeg	1657762	0	1			0		other	0
+EL-21	10	Video	P9C.mpeg	1726639	0	2			0		other	0
+EL-21	10	Response	2	1750050	23411	18
+EL-21	12	Video	P20A.mpeg	1762750	0	1			0		other	0
+EL-21	13	Video	P20C.mpeg	1816079	0	2			0		other	0
+EL-21	13	Response	2	1837733	21654	2
+EL-21	15	Video	P19A.mpeg	1849515	0	1			0		other	0
+EL-21	16	Video	P19C.mpeg	1902845	0	1			0		other	0
+EL-21	16	Response	2	1915370	12525	2
+EL-21	18	Video	P11A.mpeg	1927587	0	1			0		other	0
+EL-21	19	Video	P11C.mpeg	1972223	0	1			0		other	0
+EL-21	19	Response	2	2017610	45387	2
+EL-21	21	Video	P3A.mpeg	2030067	0	1			0		other	0
+EL-21	22	Video	P3C.mpeg	2122181	0	2			0		other	0
+EL-21	22	Response	2	2148632	26451	2
+EL-21	24	Video	P2A.mpeg	2160967	0	1			0		other	0
+EL-21	25	Video	P2C.mpeg	2263112	0	1			0		other	0
+EL-21	25	Response	2	2289705	26593	2
+EL-21	27	Video	P5A.mpeg	2301061	0	1			0		other	0
+EL-21	28	Video	P5C.mpeg	2358570	0	2			0		other	0
+EL-21	28	Response	2	2376041	17471	2
+EL-21	30	Video	P1A.mpeg	2388328	0	1			0		other	0
+EL-21	31	Video	P1C.mpeg	2522237	0	1			0		other	0
+EL-21	31	Response	2	2535675	13438	2
+EL-21	33	Video	P13A.mpeg	2548150	0	1			0		other	0
+EL-21	34	Video	P13C.mpeg	2588607	0	1			0		other	0
+EL-21	34	Response	2	2657359	68752	1
+EL-21	36	Video	P14A.mpeg	2669688	0	1			0		other	0
+EL-21	37	Video	P14C.mpeg	2754948	0	1			0		other	0
+EL-21	37	Response	2	2778454	23506	1
+EL-21	39	Video	P7A.mpeg	2790223	0	1			0		other	0
+EL-21	40	Video	P7C.mpeg	2832519	0	1			0		other	0
+EL-21	40	Response	2	2863604	31085	2
+EL-21	42	Video	P15A.mpeg	2875316	0	1			0		other	0
+EL-21	43	Video	P15C.mpeg	2922126	0	1			0		other	0
+EL-21	43	Response	2	2955028	32902	1
+EL-21	45	Video	P10A.mpeg	2967598	0	1			0		other	0
+EL-21	46	Video	P10C.mpeg	3080944	0	2			0		other	0
+EL-21	46	Response	2	3120437	39493	2
+EL-21	48	Video	P18A.mpeg	3132101	0	1			0		other	0
+EL-21	49	Video	P18C.mpeg	3257484	0	1			0		other	0
+EL-21	49	Response	2	3273514	16030	2
+EL-21	51	Video	P6A.mpeg	3285068	0	1			0		other	0
+EL-21	52	Video	P6C.mpeg	3322683	0	1			0		other	0
+EL-21	52	Response	2	3337797	15114	1
+EL-21	54	Video	P8A.mpeg	3349097	0	1			0		other	0
+EL-21	55	Video	P8C.mpeg	3375177	0	1			0		other	0
+EL-21	55	Response	2	3391630	16453	1
+EL-21	57	Video	P4A.mpeg	3403931	0	2			0		other	0
+EL-21	58	Video	P4C.mpeg	3544026	0	1			0		other	0
+EL-21	58	Response	2	3562000	17974	2
+EL-21	60	Video	P16A.mpeg	3573449	0	2			0		other	0
+EL-21	61	Video	P16C.mpeg	3603374	0	1			0		other	0
+EL-21	61	Response	2	3617712	14338	1
+EL-21	63	Video	instructions	3627615	0	1			0		other	0
+EL-21	64	Response	2	4170123	4197	1
+EL-21	65	Video	37A.mpeg	4176124	0	1			0		other	0
+EL-21	66	Video	37C.mpeg	4208390	0	1			0		other	0
+EL-21	66	Response	2	4227382	18992	1
+EL-21	68	Video	39A.mpeg	4239652	0	1			0		other	0
+EL-21	69	Video	39C.mpeg	4309699	0	1			0		other	0
+EL-21	69	Response	2	4358936	49237	2
+EL-21	71	Video	57A.mpeg	4370552	0	1			0		other	0
+EL-21	72	Video	57C.mpeg	4419367	0	2			0		other	0
+EL-21	72	Response	2	4434414	15047	2
+EL-21	74	Video	40A.mpeg	4446617	0	2			0		other	0
+EL-21	74	Response	2	4529019	82402	2
+EL-21	75	Video	40C.mpeg	4530708	0	1			0		other	0
+EL-21	75	Response	2	4565508	34800	1
+EL-21	77	Video	31A.mpeg	4577685	0	1			0		other	0
+EL-21	78	Video	31C.mpeg	4650574	0	1			0		other	0
+EL-21	78	Response	2	4673171	22597	2
+EL-21	80	Video	19A.mpeg	4686183	0	1			0		other	0
+EL-21	81	Video	19C.mpeg	4851521	0	2			0		other	0
+EL-21	81	Response	2	4872306	20785	2
+EL-21	83	Video	16A.mpeg	4884790	0	1			0		other	0
+EL-21	84	Video	16C.mpeg	4982421	0	2			0		other	0
+EL-21	84	Response	2	5027114	44693	1
+EL-21	86	Video	15A.mpeg	5038927	0	2			0		other	0
+EL-21	87	Video	15C.mpeg	5093093	0	1			0		other	0
+EL-21	87	Response	2	5111993	18900	1
+EL-21	89	Video	35A.mpeg	5124857	0	1			0		other	0
+EL-21	90	Video	35C.mpeg	5192898	0	1			0		other	0
+EL-21	90	Response	2	5224506	31608	1
+EL-21	92	Video	23A.mpeg	5236364	0	1			0		other	0
+EL-21	93	Video	23C.mpeg	5353723	0	1			0		other	0
+EL-21	93	Response	2	5371651	17928	2
+EL-21	95	Video	47A.mpeg	5383313	0	1			0		other	0
+EL-21	96	Video	47C.mpeg	5431794	0	2			0		other	0
+EL-21	96	Response	2	5439478	7684	2
+EL-21	98	Video	30A.mpeg	5451187	0	1			0		other	0
+EL-21	99	Video	30C.mpeg	5496492	0	1			0		other	0
+EL-21	99	Response	2	5514982	18490	2
+EL-21	101	Video	29A.mpeg	5527253	0	1			0		other	0
+EL-21	102	Video	29C.mpeg	5574898	0	2			0		other	0
+EL-21	102	Response	2	5599813	24915	1
+EL-21	104	Video	45A.mpeg	5612179	0	1			0		other	0
+EL-21	105	Video	45C.mpeg	5649627	0	1			0		other	0
+EL-21	105	Response	2	5711911	62284	1
+EL-21	107	Video	43A.mpeg	5724355	0	1			0		other	0
+EL-21	108	Video	43C.mpeg	5762806	0	1			0		other	0
+EL-21	108	Response	2	5778118	15312	42
+EL-21	110	Video	54A.mpeg	5790557	0	2			0		other	0
+EL-21	111	Video	54C.mpeg	5866289	0	1			0		other	0
+EL-21	111	Response	2	5914838	48549	2
+EL-21	113	Video	9A.mpeg	5927476	0	1			0		other	0
+EL-21	114	Video	9C.mpeg	5973951	0	1			0		other	0
+EL-21	114	Response	2	6038822	64871	2
+EL-21	116	Video	8A.mpeg	6051522	0	1			0		other	0
+EL-21	117	Video	8C.mpeg	6129092	0	1			0		other	0
+EL-21	117	Response	2	6153308	24216	45
+EL-21	119	Video	11A.mpeg	6165369	0	2			0		other	0
+EL-21	120	Video	11C.mpeg	6224550	0	1			0		other	0
+EL-21	120	Response	2	6261222	36672	2
+EL-21	122	Video	4A.mpeg	6273533	0	1			0		other	0
+EL-21	123	Video	4C.mpeg	6397077	0	2			0		other	0
+EL-21	123	Response	2	6409853	12776	2
+EL-21	125	Video	32A.mpeg	6421318	0	1			0		other	0
+EL-21	126	Video	32C.mpeg	6446060	0	2			0		other	0
+EL-21	126	Response	2	6470473	24413	2
+EL-21	128	Video	7A.mpeg	6482839	0	2			0		other	0
+EL-21	129	Video	7C.mpeg	6562918	0	1			0		other	0
+EL-21	129	Response	2	6609007	46089	2
+EL-21	131	Video	51A.mpeg	6621262	0	2			0		other	0
+EL-21	132	Video	51C.mpeg	6683453	0	1			0		other	0
+EL-21	132	Response	2	6729111	45658	2
+EL-21	134	Video	53A.mpeg	6741296	0	1			0		other	0
+EL-21	135	Video	53C.mpeg	6772391	0	1			0		other	0
+EL-21	135	Response	2	6801256	28865	2
+EL-21	137	Video	38A.mpeg	6813684	0	1			0		other	0
+EL-21	138	Video	38C.mpeg	6858822	0	1			0		other	0
+EL-21	138	Response	2	6895122	36300	2
+EL-21	140	Video	52A.mpeg	6907303	0	1			0		other	0
+EL-21	141	Video	52C.mpeg	6974843	0	1			0		other	0
+EL-21	141	Response	2	7016177	41334	2
+EL-21	143	Video	20A.mpeg	7028507	0	1			0		other	0
+EL-21	144	Video	20C.mpeg	7109755	0	1			0		other	0
+EL-21	144	Response	2	7134963	25208	2
+EL-21	146	Video	42A.mpeg	7147036	0	1			0		other	0
+EL-21	147	Video	42C.mpeg	7213572	0	2			0		other	0
+EL-21	147	Response	2	7231137	17565	2
+EL-21	149	Video	12A.mpeg	7243163	0	1			0		other	0
+EL-21	150	Video	12C.mpeg	7280611	0	1			0		other	0
+EL-21	150	Response	2	7302836	22225	2
+EL-21	152	Video	26A.mpeg	7314380	0	2			0		other	0
+EL-21	153	Video	26C.mpeg	7342299	0	1			0		other	0
+EL-21	153	Response	2	7362284	19985	2
+EL-21	155	Response	2	7477447	104387	1
+EL-21	157	Video	58A.mpeg	7482895	0	2			0		other	0
+EL-21	158	Video	58C.mpeg	7512486	0	1			0		other	0
+EL-21	158	Response	2	7526450	13964	2
+EL-21	160	Video	10A.mpeg	7537897	0	1			0		other	0
+EL-21	161	Video	10C.mpeg	7572335	0	1			0		other	0
+EL-21	161	Response	2	7584075	11740	2
+EL-21	163	Video	3A.mpeg	7596409	0	1			0		other	0
+EL-21	164	Video	3C.mpeg	7683508	0	2			0		other	0
+EL-21	164	Response	2	7713996	30488	2
+EL-21	166	Video	49A.mpeg	7724968	0	2			0		other	0
+EL-21	167	Video	49C.mpeg	7742522	0	1			0		other	0
+EL-21	167	Response	2	7759448	16926	1
+EL-21	169	Video	28A.mpeg	7771778	0	1			0		other	0
+EL-21	170	Video	28C.mpeg	7826612	0	1			0		other	0
+EL-21	170	Response	2	7859504	32892	49
+EL-21	172	Video	44A.mpeg	7871917	0	2			0		other	0
+EL-21	173	Video	44C.mpeg	7936782	0	1			0		other	0
+EL-21	173	Response	2	7970035	33253	2
+EL-21	175	Video	1A.mpeg	7981920	0	1			0		other	0
+EL-21	176	Video	1C.mpeg	8095601	0	1			0		other	0
+EL-21	176	Response	2	8111988	16387	2
+EL-21	178	Video	60A.mpeg	8123854	0	1			0		other	0
+EL-21	179	Video	60C.mpeg	8190558	0	1			0		other	0
+EL-21	179	Response	2	8213105	22547	2
+EL-21	181	Video	41A.mpeg	8224829	0	1			0		other	0
+EL-21	182	Video	41C.mpeg	8284679	0	1			0		other	0
+EL-21	182	Response	2	8303299	18620	2
+EL-21	184	Video	36A.mpeg	8315607	0	1			0		other	0
+EL-21	185	Video	36C.mpeg	8366763	0	1			0		other	0
+EL-21	185	Response	2	8392829	26066	2
+EL-21	187	Video	25A.mpeg	8405214	0	1			0		other	0
+EL-21	188	Video	25C.mpeg	8513210	0	2			0		other	0
+EL-21	188	Response	2	8546719	33509	2
+EL-21	190	Video	55A.mpeg	8559519	0	1			0		other	0
+EL-21	191	Video	55C.mpeg	8652636	0	2			0		other	0
+EL-21	191	Response	2	8710631	57995	2
+EL-21	193	Video	14A.mpeg	8722684	0	1			0		other	0
+EL-21	194	Video	14C.mpeg	8809783	0	1			0		other	0
+EL-21	194	Response	2	8835667	25884	2
+EL-21	196	Video	56A.mpeg	8847231	0	1			0		other	0
+EL-21	197	Video	56C.mpeg	8956064	0	1			0		other	0
+EL-21	197	Response	2	8978390	22326	2
+EL-21	199	Video	18A.mpeg	8991338	0	1			0		other	0
+EL-21	200	Video	18C.mpeg	9088468	0	1			0		other	0
+EL-21	200	Response	2	9120206	31738	1
+EL-21	202	Video	22A.mpeg	9132101	0	2			0		other	0
+EL-21	203	Video	22C.mpeg	9180081	0	2			0		other	0
+EL-21	203	Response	2	9192176	12095	2
+EL-21	205	Video	5A.mpeg	9204489	0	2			0		other	0
+EL-21	206	Video	5C.mpeg	9271193	0	1			0		other	0
+EL-21	206	Response	2	9289886	18693	2
+EL-21	208	Video	33A.mpeg	9301619	0	2			0		other	0
+EL-21	209	Video	33C.mpeg	9350268	0	1			0		other	0
+EL-21	209	Response	2	9369544	19276	2
+EL-21	211	Video	27A.mpeg	9382199	0	1			0		other	0
+EL-21	212	Video	27C.mpeg	9444055	0	1			0		other	0
+EL-21	212	Response	2	9469387	25332	2
+EL-21	214	Video	50A.mpeg	9480834	0	1			0		other	0
+EL-21	215	Video	50C.mpeg	9522795	0	2			0		other	0
+EL-21	215	Response	2	9541568	18773	2
+EL-21	217	Video	2A.mpeg	9553890	0	1			0		other	0
+EL-21	218	Video	2C.mpeg	9668407	0	1			0		other	0
+EL-21	218	Response	2	9681221	12814	2
+EL-21	220	Video	21A.mpeg	9693484	0	1			0		other	0
+EL-21	221	Video	21C.mpeg	9778410	0	1			0		other	0
+EL-21	221	Response	2	9793887	15477	1
+EL-21	223	Video	24A.mpeg	9805994	0	1			0		other	0
+EL-21	224	Video	24C.mpeg	9855646	0	1			0		other	0
+EL-21	224	Response	2	9879953	24307	2
+EL-21	226	Video	46A.mpeg	9891756	0	1			0		other	0
+EL-21	227	Video	46C.mpeg	9940405	0	1			0		other	0
+EL-21	227	Response	2	9966080	25675	1
+EL-21	229	Video	17A.mpeg	9978020	0	1			0		other	0
+EL-21	230	Video	17C.mpeg	10029176	0	1			0		other	0
+EL-21	230	Response	2	10074553	45377	1
+EL-21	232	Video	6A.mpeg	10086351	0	1			0		other	0
+EL-21	233	Video	6C.mpeg	10135334	0	1			0		other	0
+EL-21	233	Response	2	10152437	17103	2
+EL-21	235	Video	13A.mpeg	10164255	0	2			0		other	0
+EL-21	236	Video	13C.mpeg	10213907	0	1			0		other	0
+EL-21	236	Response	2	10221758	7851	2
+EL-21	238	Video	34A.mpeg	10234470	0	1			0		other	0
+EL-21	239	Video	34C.mpeg	10334442	0	1			0		other	0
+EL-21	239	Response	2	10376849	42407	2
+EL-21	241	Video	48A.mpeg	10388608	0	1			0		other	0
+EL-21	242	Video	48C.mpeg	10417697	0	1			0		other	0
+EL-21	242	Response	2	10448591	30894	2
+EL-21	244	Video	59A.mpeg	10460494	0	1			0		other	0
+EL-21	245	Video	59C.mpeg	10508140	0	1			0		other	0
+EL-21	245	Response	2	10528093	19953	1

@@ -1,0 +1,253 @@
+Scenario - Test trials
+Logfile written - 01/14/2015 11:38:32
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+LL-25B	1	Video	instructions	-5151	0	1			0		other	0
+LL-25B	1	Response	2	5401	10552	2
+LL-25B	2	Response	2	916380	910165	2
+LL-25B	3	Video	P12A.mpeg	923003	0	2			0		other	0
+LL-25B	4	Video	P12C.mpeg	964964	0	1			0		other	0
+LL-25B	4	Response	2	1033899	68935	34
+LL-25B	6	Video	P5A.mpeg	1047047	0	1			0		other	0
+LL-25B	7	Video	P5C.mpeg	1135984	0	2			0		other	0
+LL-25B	7	Response	2	1160269	24285	2
+LL-25B	9	Video	P1A.mpeg	1172094	0	1			0		other	0
+LL-25B	10	Video	P1C.mpeg	1203523	0	1			0		other	0
+LL-25B	10	Response	2	1220708	17185	2
+LL-25B	12	Video	P8A.mpeg	1233782	0	1			0		other	0
+LL-25B	13	Video	P8C.mpeg	1331412	0	1			0		other	0
+LL-25B	13	Response	2	1367035	35623	2
+LL-25B	15	Video	P15A.mpeg	1380060	0	1			0		other	0
+LL-25B	16	Video	P15C.mpeg	1474012	0	1			0		other	0
+LL-25B	16	Response	2	1500225	26213	2
+LL-25B	18	Video	P13A.mpeg	1511459	0	2			0		other	0
+LL-25B	19	Video	P13C.mpeg	1528846	0	1			0		other	0
+LL-25B	19	Response	2	1553402	24556	2
+LL-25B	21	Video	P18A.mpeg	1564788	0	1			0		other	0
+LL-25B	22	Video	P18C.mpeg	1587357	0	1			0		other	0
+LL-25B	22	Response	2	1610615	23258	2
+LL-25B	24	Video	P19A.mpeg	1623300	0	1			0		other	0
+LL-25B	24	Response	2	1726925	103625	2
+LL-25B	25	Video	P19C.mpeg	1729957	0	1			0		other	0
+LL-25B	25	Response	2	1763932	33975	1
+LL-25B	27	Video	P10A.mpeg	1776265	0	1			0		other	0
+LL-25B	28	Video	P10C.mpeg	1854503	0	1			0		other	0
+LL-25B	28	Response	2	1873473	18970	43
+LL-25B	30	Video	P14A.mpeg	1885096	0	1			0		other	0
+LL-25B	31	Video	P14C.mpeg	1920370	0	1			0		other	0
+LL-25B	31	Response	2	1965003	44633	2
+LL-25B	33	Video	P6A.mpeg	1978045	0	1			0		other	0
+LL-25B	34	Video	P6C.mpeg	2077347	0	1			0		other	0
+LL-25B	34	Response	2	2113435	36088	1
+LL-25B	36	Video	P11A.mpeg	2125326	0	1			0		other	0
+LL-25B	37	Video	P11C.mpeg	2152241	0	2			0		other	0
+LL-25B	37	Response	2	2205812	53571	3
+LL-25B	39	Video	P2A.mpeg	2218443	0	1			0		other	0
+LL-25B	40	Video	P2C.mpeg	2264917	0	1			0		other	0
+LL-25B	40	Response	2	2312394	47477	1
+LL-25B	42	Video	P7A.mpeg	2323596	0	1			0		other	0
+LL-25B	43	Video	P7C.mpeg	2342654	0	1			0		other	0
+LL-25B	43	Response	2	2371223	28569	45
+LL-25B	45	Video	P3A.mpeg	2382776	0	1			0		other	0
+LL-25B	46	Video	P3C.mpeg	2413202	0	1			0		other	0
+LL-25B	46	Response	2	2435851	22649	2
+LL-25B	48	Video	P20A.mpeg	2448141	0	1			0		other	0
+LL-25B	49	Video	P20C.mpeg	2484920	0	1			0		other	0
+LL-25B	49	Response	2	2533748	48828	1
+LL-25B	51	Video	P9A.mpeg	2546273	0	1			0		other	0
+LL-25B	52	Video	P9C.mpeg	2623341	0	1			0		other	0
+LL-25B	52	Response	2	2644568	21227	1
+LL-25B	54	Video	P17A.mpeg	2656608	0	2			0		other	0
+LL-25B	55	Video	P17C.mpeg	2714451	0	1			0		other	0
+LL-25B	55	Response	2	2734689	20238	34
+LL-25B	57	Video	P4A.mpeg	2746214	0	1			0		other	0
+LL-25B	58	Video	P4C.mpeg	2769452	0	1			0		other	0
+LL-25B	58	Response	2	2799235	29783	2
+LL-25B	60	Video	P16A.mpeg	2812081	0	1			0		other	0
+LL-25B	61	Video	P16C.mpeg	2882629	0	1			0		other	0
+LL-25B	61	Response	2	2929999	47370	2
+LL-25B	63	Video	instructions	2939869	0	1			0		other	0
+LL-25B	64	Response	2	3602615	124508	2
+LL-25B	65	Video	2A.mpeg	3608837	0	2			0		other	0
+LL-25B	66	Video	2C.mpeg	3641604	0	1			0		other	0
+LL-25B	66	Response	2	3659993	18389	2
+LL-25B	68	Video	42A.mpeg	3672030	0	1			0		other	0
+LL-25B	69	Video	42C.mpeg	3708808	0	1			0		other	0
+LL-25B	69	Response	2	3740624	31816	2
+LL-25B	71	Video	24A.mpeg	3752106	0	2			0		other	0
+LL-25B	72	Video	24C.mpeg	3797745	0	1			0		other	0
+LL-25B	72	Response	2	3814558	16813	2
+LL-25B	74	Video	59A.mpeg	3827335	0	1			0		other	0
+LL-25B	75	Video	59C.mpeg	3946698	0	1			0		other	0
+LL-25B	75	Response	2	3976493	29795	2
+LL-25B	77	Video	50A.mpeg	3988659	0	1			0		other	0
+LL-25B	78	Video	50C.mpeg	4022930	0	1			0		other	0
+LL-25B	78	Response	2	4038028	15098	2
+LL-25B	80	Video	48A.mpeg	4050347	0	1			0		other	0
+LL-25B	81	Video	48C.mpeg	4119724	0	2			0		other	0
+LL-25B	81	Response	2	4171972	52248	2
+LL-25B	83	Video	55A.mpeg	4184087	0	1			0		other	0
+LL-25B	84	Video	55C.mpeg	4230394	0	1			0		other	0
+LL-25B	84	Response	2	4247589	17195	2
+LL-25B	86	Video	28A.mpeg	4259315	0	2			0		other	0
+LL-25B	87	Video	28C.mpeg	4289240	0	1			0		other	0
+LL-25B	87	Response	2	4319736	30496	5
+LL-25B	89	Video	32A.mpeg	4331535	0	1			0		other	0
+LL-25B	90	Video	32C.mpeg	4361627	0	1			0		other	0
+LL-25B	90	Response	2	4381059	19432	2
+LL-25B	92	Video	17A.mpeg	4393056	0	1			0		other	0
+LL-25B	93	Video	17C.mpeg	4431171	0	2			0		other	0
+LL-25B	93	Response	2	4442558	11387	19
+LL-25B	95	Video	1A.mpeg	4454242	0	1			0		other	0
+LL-25B	96	Video	1C.mpeg	4489181	0	1			0		other	0
+LL-25B	96	Response	2	4508991	19810	3
+LL-25B	98	Video	37A.mpeg	4520610	0	1			0		other	0
+LL-25B	99	Video	37C.mpeg	4560063	0	2			0		other	0
+LL-25B	99	Response	2	4578437	18374	2
+LL-25B	101	Video	22A.mpeg	4589988	0	1			0		other	0
+LL-25B	102	Video	22C.mpeg	4642146	0	1			0		other	0
+LL-25B	102	Response	2	4659761	17615	2
+LL-25B	104	Video	26A.mpeg	4671736	0	1			0		other	0
+LL-25B	105	Video	26C.mpeg	4744625	0	1			0		other	0
+LL-25B	105	Response	2	4767360	22735	2
+LL-25B	107	Video	4A.mpeg	4779063	0	1			0		other	0
+LL-25B	108	Video	4C.mpeg	4798121	0	1			0		other	0
+LL-25B	108	Response	2	4846793	48672	41
+LL-25B	110	Video	30A.mpeg	4858972	0	2			0		other	0
+LL-25B	111	Video	30C.mpeg	4916648	0	1			0		other	0
+LL-25B	111	Response	2	4936347	19699	2
+LL-25B	113	Video	44A.mpeg	4947742	0	2			0		other	0
+LL-25B	114	Video	44C.mpeg	4986193	0	1			0		other	0
+LL-25B	114	Response	2	5004314	18121	2
+LL-25B	116	Video	60A.mpeg	5016953	0	1			0		other	0
+LL-25B	117	Video	60C.mpeg	5067774	0	1			0		other	0
+LL-25B	117	Response	2	5096107	28333	1
+LL-25B	119	Video	20A.mpeg	5107227	0	1			0		other	0
+LL-25B	120	Video	20C.mpeg	5132638	0	1			0		other	0
+LL-25B	120	Response	2	5156098	23460	19
+LL-25B	122	Video	58A.mpeg	5169082	0	1			0		other	0
+LL-25B	123	Video	58C.mpeg	5298475	0	2			0		other	0
+LL-25B	123	Response	2	5336053	37578	3
+LL-25B	125	Video	57A.mpeg	5349297	0	1			0		other	0
+LL-25B	126	Video	57C.mpeg	5451942	0	1			0		other	0
+LL-25B	126	Response	2	5478928	26986	2
+LL-25B	128	Video	27A.mpeg	5490727	0	1			0		other	0
+LL-25B	129	Video	27C.mpeg	5561275	0	1			0		other	0
+LL-25B	129	Response	2	5605302	44027	2
+LL-25B	131	Video	39A.mpeg	5617780	0	1			0		other	0
+LL-25B	132	Video	39C.mpeg	5669270	0	1			0		other	0
+LL-25B	132	Response	2	5687284	18014	1
+LL-25B	134	Video	21A.mpeg	5699528	0	2			0		other	0
+LL-25B	135	Video	21C.mpeg	5754362	0	1			0		other	0
+LL-25B	135	Response	2	5784277	29915	2
+LL-25B	137	Video	12A.mpeg	5796323	0	1			0		other	0
+LL-25B	138	Video	12C.mpeg	5827752	0	1			0		other	0
+LL-25B	138	Response	2	5846631	18879	2
+LL-25B	140	Video	23A.mpeg	5858512	0	1			0		other	0
+LL-25B	141	Video	23C.mpeg	5902646	0	1			0		other	0
+LL-25B	141	Response	2	5922397	19751	19
+LL-25B	143	Video	13A.mpeg	5934744	0	1			0		other	0
+LL-25B	144	Video	13C.mpeg	5990915	0	1			0		other	0
+LL-25B	144	Response	2	6004481	13566	2
+LL-25B	146	Video	41A.mpeg	6016158	0	1			0		other	0
+LL-25B	147	Video	41C.mpeg	6049091	0	2			0		other	0
+LL-25B	147	Response	2	6070329	21238	1
+LL-25B	149	Video	16A.mpeg	6082694	0	1			0		other	0
+LL-25B	150	Video	16C.mpeg	6161099	0	1			0		other	0
+LL-25B	150	Response	2	6173372	12273	3
+LL-25B	152	Video	33A.mpeg	6184838	0	1			0		other	0
+LL-25B	153	Video	33C.mpeg	6241844	0	1			0		other	0
+LL-25B	153	Response	2	6260443	18599	43
+LL-25B	155	Response	2	6307010	34238	2
+LL-25B	157	Video	35A.mpeg	6312392	0	1			0		other	0
+LL-25B	158	Video	35C.mpeg	6356861	0	1			0		other	0
+LL-25B	158	Response	2	6399876	43015	43
+LL-25B	160	Video	19A.mpeg	6412363	0	1			0		other	0
+LL-25B	161	Video	19C.mpeg	6469370	0	1			0		other	0
+LL-25B	161	Response	2	6504608	35238	2
+LL-25B	163	Video	14A.mpeg	6516346	0	1			0		other	0
+LL-25B	164	Video	14C.mpeg	6549948	0	1			0		other	0
+LL-25B	164	Response	2	6569518	19570	2
+LL-25B	166	Video	46A.mpeg	6581377	0	1			0		other	0
+LL-25B	167	Video	46C.mpeg	6641058	0	1			0		other	0
+LL-25B	167	Response	2	6669023	27965	1
+LL-25B	169	Video	29A.mpeg	6681013	0	1			0		other	0
+LL-25B	170	Video	29C.mpeg	6748552	0	1			0		other	0
+LL-25B	170	Response	2	6779989	31437	2
+LL-25B	172	Video	52A.mpeg	6792184	0	2			0		other	0
+LL-25B	173	Video	52C.mpeg	6839829	0	2			0		other	0
+LL-25B	173	Response	2	6871961	32132	2
+LL-25B	175	Video	53A.mpeg	6884131	0	1			0		other	0
+LL-25B	176	Video	53C.mpeg	6943311	0	1			0		other	0
+LL-25B	176	Response	2	6956720	13409	3
+LL-25B	178	Video	5A.mpeg	6968053	0	1			0		other	0
+LL-25B	179	Video	5C.mpeg	6995135	0	1			0		other	0
+LL-25B	179	Response	2	7019722	24587	2
+LL-25B	181	Video	9A.mpeg	7031579	0	1			0		other	0
+LL-25B	182	Video	9C.mpeg	7076716	0	2			0		other	0
+LL-25B	182	Response	2	7099957	23241	2
+LL-25B	184	Video	7A.mpeg	7111823	0	1			0		other	0
+LL-25B	185	Video	7C.mpeg	7164650	0	2			0		other	0
+LL-25B	185	Response	2	7182262	17612	1
+LL-25B	187	Video	31A.mpeg	7194909	0	1			0		other	0
+LL-25B	188	Video	31C.mpeg	7298725	0	1			0		other	0
+LL-25B	188	Response	2	7316229	17504	2
+LL-25B	190	Video	45A.mpeg	7328649	0	1			0		other	0
+LL-25B	191	Video	45C.mpeg	7384653	0	1			0		other	0
+LL-25B	191	Response	2	7403882	19229	1
+LL-25B	193	Video	34A.mpeg	7415915	0	1			0		other	0
+LL-25B	194	Video	34C.mpeg	7478104	0	1			0		other	0
+LL-25B	194	Response	2	7509363	31259	2
+LL-25B	196	Video	3A.mpeg	7520733	0	1			0		other	0
+LL-25B	197	Video	3C.mpeg	7549320	0	1			0		other	0
+LL-25B	197	Response	2	7565395	16075	2
+LL-25B	199	Video	43A.mpeg	7577238	0	2			0		other	0
+LL-25B	200	Video	43C.mpeg	7614351	0	1			0		other	0
+LL-25B	200	Response	2	7632315	17964	2
+LL-25B	202	Video	47A.mpeg	7643774	0	1			0		other	0
+LL-25B	203	Video	47C.mpeg	7684230	0	2			0		other	0
+LL-25B	203	Response	2	7710000	25770	19
+LL-25B	205	Video	51A.mpeg	7721511	0	1			0		other	0
+LL-25B	206	Video	51C.mpeg	7765645	0	1			0		other	0
+LL-25B	206	Response	2	7781589	15944	2
+LL-25B	208	Video	56A.mpeg	7793229	0	1			0		other	0
+LL-25B	209	Video	56C.mpeg	7814961	0	2			0		other	0
+LL-25B	209	Response	2	7831895	16934	2
+LL-25B	211	Video	40A.mpeg	7843715	0	2			0		other	0
+LL-25B	212	Video	40C.mpeg	7890692	0	1			0		other	0
+LL-25B	212	Response	2	7910701	20009	1
+LL-25B	214	Video	54A.mpeg	7923458	0	1			0		other	0
+LL-25B	215	Video	54C.mpeg	8002532	0	1			0		other	0
+LL-25B	215	Response	2	8039306	36774	2
+LL-25B	217	Video	8A.mpeg	8052183	0	1			0		other	0
+LL-25B	218	Video	8C.mpeg	8114539	0	1			0		other	0
+LL-25B	218	Response	2	8125209	10670	2
+LL-25B	220	Video	49A.mpeg	8137275	0	1			0		other	0
+LL-25B	221	Video	49C.mpeg	8194950	0	1			0		other	0
+LL-25B	221	Response	2	8212448	17498	37
+LL-25B	223	Video	38A.mpeg	8224206	0	1			0		other	0
+LL-25B	224	Video	38C.mpeg	8263994	0	1			0		other	0
+LL-25B	224	Response	2	8291645	27651	1
+LL-25B	226	Video	18A.mpeg	8303613	0	2			0		other	0
+LL-25B	227	Video	18C.mpeg	8359618	0	1			0		other	0
+LL-25B	227	Response	2	8369747	10129	46
+LL-25B	229	Video	36A.mpeg	8381518	0	1			0		other	0
+LL-25B	229	Response	2	8432775	51257	2
+LL-25B	230	Video	36C.mpeg	8433509	0	1			0		other	0
+LL-25B	230	Response	2	8458391	24882	2
+LL-25B	232	Video	6A.mpeg	8470120	0	1			0		other	0
+LL-25B	233	Video	6C.mpeg	8503054	0	1			0		other	0
+LL-25B	233	Response	2	8545204	42150	2
+LL-25B	235	Video	15A.mpeg	8557051	0	1			0		other	0
+LL-25B	236	Video	15C.mpeg	8583967	0	1			0		other	0
+LL-25B	236	Response	2	8600547	16580	2
+LL-25B	238	Video	11A.mpeg	8612553	0	2			0		other	0
+LL-25B	239	Video	11C.mpeg	8649834	0	1			0		other	0
+LL-25B	239	Response	2	8660422	10588	18
+LL-25B	241	Video	10A.mpeg	8672904	0	1			0		other	0
+LL-25B	242	Video	10C.mpeg	8723390	0	2			0		other	0
+LL-25B	242	Response	2	8757432	34042	2
+LL-25B	244	Video	25A.mpeg	8769531	0	1			0		other	0
+LL-25B	245	Video	25C.mpeg	8841583	0	1			0		other	0
+LL-25B	245	Response	2	8874404	32821	2

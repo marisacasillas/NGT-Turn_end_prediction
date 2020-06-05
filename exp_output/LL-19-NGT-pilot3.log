@@ -1,0 +1,254 @@
+Scenario - Test trials
+Logfile written - 01/08/2015 16:36:01
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+LL-19	1	Video	instructions	-5151	0	1			0		other	0
+LL-19	2	Response	2	1158163	35025	1
+LL-19	3	Video	P19A.mpeg	1165268	0	1			0		other	0
+LL-19	4	Video	P19C.mpeg	1272095	0	1			0		other	0
+LL-19	5	Response	2	1320105	531	2
+LL-19	6	Video	P15A.mpeg	1331444	0	1			0		other	0
+LL-19	7	Video	P15C.mpeg	1425231	0	1			0		other	0
+LL-19	7	Response	2	1453683	28452	2
+LL-19	9	Video	P8A.mpeg	1467193	0	1			0		other	0
+LL-19	10	Video	P8C.mpeg	1564825	0	1			0		other	0
+LL-19	10	Response	2	1640513	75688	33
+LL-19	12	Video	P12A.mpeg	1652594	0	1			0		other	0
+LL-19	13	Video	P12C.mpeg	1694055	0	1			0		other	0
+LL-19	13	Response	2	1765552	71497	2
+LL-19	15	Video	P5A.mpeg	1777979	0	1			0		other	0
+LL-19	16	Video	P5C.mpeg	1866918	0	1			0		other	0
+LL-19	16	Response	2	1899937	33019	2
+LL-19	18	Video	P3A.mpeg	1911889	0	1			0		other	0
+LL-19	19	Video	P3C.mpeg	1942483	0	1			0		other	0
+LL-19	19	Response	2	1970753	28270	1
+LL-19	21	Video	P7A.mpeg	1982271	0	1			0		other	0
+LL-19	22	Video	P7C.mpeg	2001162	0	2			0		other	0
+LL-19	22	Response	2	2033173	32011	2
+LL-19	24	Video	P11A.mpeg	2045298	0	1			0		other	0
+LL-19	25	Video	P11C.mpeg	2072213	0	2			0		other	0
+LL-19	25	Response	2	2129296	57083	49
+LL-19	27	Video	P17A.mpeg	2141091	0	1			0		other	0
+LL-19	28	Video	P17C.mpeg	2198601	0	1			0		other	0
+LL-19	28	Response	2	2215497	16896	3
+LL-19	30	Video	P18A.mpeg	2226520	0	1			0		other	0
+LL-19	31	Video	P18C.mpeg	2249089	0	1			0		other	0
+LL-19	31	Response	2	2264674	15585	2
+LL-19	33	Video	P9A.mpeg	2276673	0	2			0		other	0
+LL-19	33	Response	2	2343345	66672	47
+LL-19	34	Video	P9C.mpeg	2353241	0	2			0		other	0
+LL-19	34	Response	2	2382467	29226	1
+LL-19	36	Video	P16A.mpeg	2394702	0	1			0		other	0
+LL-19	37	Video	P16C.mpeg	2465251	0	2			0		other	0
+LL-19	37	Response	2	2514346	49095	3
+LL-19	39	Video	P1A.mpeg	2526104	0	2			0		other	0
+LL-19	40	Video	P1C.mpeg	2557534	0	1			0		other	0
+LL-19	40	Response	2	2575681	18147	1
+LL-19	42	Video	P14A.mpeg	2587459	0	1			0		other	0
+LL-19	43	Video	P14C.mpeg	2622734	0	1			0		other	0
+LL-19	43	Response	2	2624683	1949	1
+LL-19	45	Video	P2A.mpeg	2636777	0	1			0		other	0
+LL-19	45	Response	2	2659948	23171	2
+LL-19	46	Video	P2C.mpeg	2683253	0	1			0		other	0
+LL-19	46	Response	2	2730771	47518	2
+LL-19	48	Video	P13A.mpeg	2741932	0	2			0		other	0
+LL-19	49	Video	P13C.mpeg	2759319	0	1			0		other	0
+LL-19	49	Response	2	2791121	31802	34
+LL-19	51	Video	P20A.mpeg	2803789	0	1			0		other	0
+LL-19	52	Video	P20C.mpeg	2840568	0	1			0		other	0
+LL-19	52	Response	2	2891245	50677	2
+LL-19	54	Video	P6A.mpeg	2904598	0	1			0		other	0
+LL-19	55	Video	P6C.mpeg	3003902	0	1			0		other	0
+LL-19	55	Response	2	3025585	21683	1
+LL-19	57	Video	P10A.mpeg	3038006	0	2			0		other	0
+LL-19	58	Video	P10C.mpeg	3116079	0	1			0		other	0
+LL-19	58	Response	2	3137324	21245	1
+LL-19	60	Video	P4A.mpeg	3149013	0	1			0		other	0
+LL-19	61	Video	P4C.mpeg	3172586	0	1			0		other	0
+LL-19	61	Response	2	3204022	31436	1
+LL-19	63	Video	instructions	3214213	0	1			0		other	0
+LL-19	64	Response	2	3763541	11012	1
+LL-19	65	Video	28A.mpeg	3769749	0	1			0		other	0
+LL-19	66	Video	28C.mpeg	3799841	0	1			0		other	0
+LL-19	66	Response	2	3811232	11391	18
+LL-19	68	Video	50A.mpeg	3823748	0	1			0		other	0
+LL-19	69	Video	50C.mpeg	3857685	0	1			0		other	0
+LL-19	69	Response	2	3888857	31172	1
+LL-19	71	Video	10A.mpeg	3901319	0	1			0		other	0
+LL-19	72	Video	10C.mpeg	3951807	0	1			0		other	0
+LL-19	72	Response	2	3985492	33685	42
+LL-19	74	Video	12A.mpeg	3997112	0	1			0		other	0
+LL-19	75	Video	12C.mpeg	4028876	0	1			0		other	0
+LL-19	75	Response	2	4056776	27900	2
+LL-19	77	Video	35A.mpeg	4069835	0	1			0		other	0
+LL-19	78	Video	35C.mpeg	4114304	0	2			0		other	0
+LL-19	78	Response	2	4116780	2476	18
+LL-19	80	Video	40A.mpeg	4128682	0	1			0		other	0
+LL-19	81	Video	40C.mpeg	4175492	0	1			0		other	0
+LL-19	81	Response	2	4196307	20815	2
+LL-19	83	Video	57A.mpeg	4208259	0	1			0		other	0
+LL-19	84	Video	57C.mpeg	4310907	0	1			0		other	0
+LL-19	84	Response	2	4312631	1724	1
+LL-19	86	Video	15A.mpeg	4324114	0	1			0		other	0
+LL-19	87	Video	15C.mpeg	4351532	0	1			0		other	0
+LL-19	87	Response	2	4371685	20153	2
+LL-19	89	Video	58A.mpeg	4384299	0	1			0		other	0
+LL-19	90	Video	58C.mpeg	4513528	0	1			0		other	0
+LL-19	90	Response	2	4521839	8311	2
+LL-19	92	Video	24A.mpeg	4534091	0	1			0		other	0
+LL-19	93	Video	24C.mpeg	4579898	0	1			0		other	0
+LL-19	93	Response	2	4604599	24701	1
+LL-19	95	Video	18A.mpeg	4617012	0	1			0		other	0
+LL-19	96	Video	18C.mpeg	4673017	0	1			0		other	0
+LL-19	96	Response	2	4684936	11919	2
+LL-19	98	Video	39A.mpeg	4697592	0	1			0		other	0
+LL-19	99	Video	39C.mpeg	4748916	0	1			0		other	0
+LL-19	99	Response	2	4768066	19150	2
+LL-19	101	Video	33A.mpeg	4780011	0	1			0		other	0
+LL-19	102	Video	33C.mpeg	4837019	0	2			0		other	0
+LL-19	102	Response	2	4856223	19204	2
+LL-19	104	Video	7A.mpeg	4868616	0	1			0		other	0
+LL-19	105	Video	7C.mpeg	4921612	0	1			0		other	0
+LL-19	105	Response	2	4943363	21751	1
+LL-19	107	Video	27A.mpeg	4955549	0	1			0		other	0
+LL-19	107	Response	2	4992341	36792	2
+LL-19	108	Video	27C.mpeg	5025932	0	1			0		other	0
+LL-19	108	Response	2	5055359	29427	2
+LL-19	110	Video	55A.mpeg	5067225	0	1			0		other	0
+LL-19	111	Video	55C.mpeg	5113701	0	1			0		other	0
+LL-19	111	Response	2	5134983	21282	1
+LL-19	113	Video	46A.mpeg	5147471	0	1			0		other	0
+LL-19	114	Video	46C.mpeg	5207154	0	1			0		other	0
+LL-19	114	Response	2	5218786	11632	2
+LL-19	116	Video	3A.mpeg	5230391	0	2			0		other	0
+LL-19	117	Video	3C.mpeg	5259146	0	1			0		other	0
+LL-19	117	Response	2	5274097	14951	2
+LL-19	119	Video	34A.mpeg	5286062	0	1			0		other	0
+LL-19	120	Video	34C.mpeg	5348253	0	1			0		other	0
+LL-19	120	Response	2	5381554	33301	44
+LL-19	122	Video	23A.mpeg	5393893	0	1			0		other	0
+LL-19	123	Video	23C.mpeg	5438028	0	1			0		other	0
+LL-19	123	Response	2	5465097	27069	2
+LL-19	125	Video	1A.mpeg	5476813	0	1			0		other	0
+LL-19	126	Video	1C.mpeg	5511754	0	1			0		other	0
+LL-19	126	Response	2	5513101	1347	45
+LL-19	128	Video	13A.mpeg	5525295	0	1			0		other	0
+LL-19	129	Video	13C.mpeg	5581467	0	2			0		other	0
+LL-19	129	Response	2	5595563	14096	43
+LL-19	131	Video	41A.mpeg	5607380	0	1			0		other	0
+LL-19	132	Video	41C.mpeg	5640649	0	1			0		other	0
+LL-19	132	Response	2	5641854	1205	3
+LL-19	134	Video	45A.mpeg	5653689	0	1			0		other	0
+LL-19	135	Video	45C.mpeg	5709694	0	1			0		other	0
+LL-19	135	Response	2	5712655	2961	2
+LL-19	137	Video	38A.mpeg	5724740	0	1			0		other	0
+LL-19	138	Video	38C.mpeg	5764361	0	1			0		other	0
+LL-19	138	Response	2	5796254	31893	2
+LL-19	140	Video	54A.mpeg	5808496	0	2			0		other	0
+LL-19	141	Video	54C.mpeg	5887238	0	1			0		other	0
+LL-19	141	Response	2	5895774	8536	44
+LL-19	143	Video	36A.mpeg	5907466	0	2			0		other	0
+LL-19	144	Video	36C.mpeg	5959292	0	1			0		other	0
+LL-19	144	Response	2	5972967	13675	2
+LL-19	146	Video	59A.mpeg	5985037	0	2			0		other	0
+LL-19	147	Video	59C.mpeg	6104403	0	1			0		other	0
+LL-19	147	Response	2	6120680	16277	1
+LL-19	149	Video	26A.mpeg	6133659	0	2			0		other	0
+LL-19	150	Video	26C.mpeg	6206382	0	2			0		other	0
+LL-19	150	Response	2	6234186	27804	43
+LL-19	152	Video	21A.mpeg	6246171	0	1			0		other	0
+LL-19	153	Video	21C.mpeg	6301340	0	1			0		other	0
+LL-19	153	Response	2	6333817	32477	1
+LL-19	155	Response	2	6659287	313143	2
+LL-19	157	Video	42A.mpeg	6664787	0	1			0		other	0
+LL-19	158	Video	42C.mpeg	6701734	0	1			0		other	0
+LL-19	158	Response	2	6734960	33226	1
+LL-19	160	Video	60A.mpeg	6747875	0	1			0		other	0
+LL-19	161	Video	60C.mpeg	6798865	0	1			0		other	0
+LL-19	161	Response	2	6899238	100373	2
+LL-19	163	Video	25A.mpeg	6911878	0	1			0		other	0
+LL-19	163	Response	2	6962750	50872	2
+LL-19	164	Video	25C.mpeg	6983932	0	1			0		other	0
+LL-19	164	Response	2	7004543	20611	44
+LL-19	166	Video	52A.mpeg	7016532	0	1			0		other	0
+LL-19	167	Video	52C.mpeg	7064345	0	1			0		other	0
+LL-19	167	Response	2	7098544	34199	2
+LL-19	169	Video	16A.mpeg	7111155	0	1			0		other	0
+LL-19	170	Video	16C.mpeg	7189060	0	1			0		other	0
+LL-19	170	Response	2	7205183	16123	2
+LL-19	172	Video	30A.mpeg	7217815	0	1			0		other	0
+LL-19	173	Video	30C.mpeg	7275325	0	1			0		other	0
+LL-19	173	Response	2	7294273	18948	2
+LL-19	175	Video	43A.mpeg	7306253	0	1			0		other	0
+LL-19	176	Video	43C.mpeg	7343534	0	1			0		other	0
+LL-19	176	Response	2	7376047	32513	1
+LL-19	178	Video	11A.mpeg	7388003	0	1			0		other	0
+LL-19	179	Video	11C.mpeg	7425451	0	2			0		other	0
+LL-19	179	Response	2	7439555	14104	1
+LL-19	181	Video	22A.mpeg	7451698	0	2			0		other	0
+LL-19	182	Video	22C.mpeg	7503858	0	1			0		other	0
+LL-19	182	Response	2	7519791	15933	1
+LL-19	184	Video	9A.mpeg	7532446	0	1			0		other	0
+LL-19	185	Video	9C.mpeg	7577584	0	1			0		other	0
+LL-19	185	Response	2	7615431	37847	2
+LL-19	187	Video	17A.mpeg	7627069	0	1			0		other	0
+LL-19	188	Video	17C.mpeg	7665353	0	1			0		other	0
+LL-19	188	Response	2	7695570	30217	2
+LL-19	190	Video	29A.mpeg	7707984	0	1			0		other	0
+LL-19	191	Video	29C.mpeg	7775691	0	1			0		other	0
+LL-19	191	Response	2	7810838	35147	1
+LL-19	193	Video	44A.mpeg	7823170	0	1			0		other	0
+LL-19	194	Video	44C.mpeg	7861788	0	2			0		other	0
+LL-19	194	Response	2	7883796	22008	2
+LL-19	196	Video	14A.mpeg	7895391	0	2			0		other	0
+LL-19	197	Video	14C.mpeg	7929162	0	1			0		other	0
+LL-19	197	Response	2	7951800	22638	2
+LL-19	199	Video	48A.mpeg	7964436	0	2			0		other	0
+LL-19	200	Video	48C.mpeg	8033648	0	2			0		other	0
+LL-19	200	Response	2	8088195	54547	18
+LL-19	202	Video	37A.mpeg	8100186	0	1			0		other	0
+LL-19	203	Video	37C.mpeg	8139974	0	2			0		other	0
+LL-19	203	Response	2	8158640	18666	2
+LL-19	205	Video	47A.mpeg	8171237	0	1			0		other	0
+LL-19	206	Video	47C.mpeg	8211861	0	1			0		other	0
+LL-19	206	Response	2	8237155	25294	2
+LL-19	208	Video	2A.mpeg	8248641	0	1			0		other	0
+LL-19	209	Video	2C.mpeg	8281575	0	1			0		other	0
+LL-19	209	Response	2	8306485	24910	18
+LL-19	211	Video	51A.mpeg	8318354	0	1			0		other	0
+LL-19	212	Video	51C.mpeg	8362490	0	1			0		other	0
+LL-19	212	Response	2	8379050	16560	43
+LL-19	214	Video	56A.mpeg	8390910	0	1			0		other	0
+LL-19	215	Video	56C.mpeg	8412978	0	1			0		other	0
+LL-19	215	Response	2	8430825	17847	2
+LL-19	217	Video	5A.mpeg	8442067	0	1			0		other	0
+LL-19	218	Video	5C.mpeg	8469150	0	1			0		other	0
+LL-19	218	Response	2	8494305	25155	2
+LL-19	220	Video	19A.mpeg	8506431	0	1			0		other	0
+LL-19	221	Video	19C.mpeg	8563271	0	2			0		other	0
+LL-19	221	Response	2	8601456	38185	1
+LL-19	223	Video	4A.mpeg	8613258	0	1			0		other	0
+LL-19	224	Video	4C.mpeg	8632484	0	1			0		other	0
+LL-19	224	Response	2	8658621	26137	2
+LL-19	226	Video	32A.mpeg	8670099	0	1			0		other	0
+LL-19	227	Video	32C.mpeg	8700525	0	2			0		other	0
+LL-19	227	Response	2	8719803	19278	2
+LL-19	229	Video	20A.mpeg	8731955	0	1			0		other	0
+LL-19	230	Video	20C.mpeg	8757366	0	1			0		other	0
+LL-19	230	Response	2	8782641	25275	2
+LL-19	232	Video	31A.mpeg	8795483	0	1			0		other	0
+LL-19	233	Video	31C.mpeg	8899301	0	1			0		other	0
+LL-19	233	Response	2	8913893	14592	2
+LL-19	235	Video	49A.mpeg	8925883	0	1			0		other	0
+LL-19	236	Video	49C.mpeg	8983727	0	1			0		other	0
+LL-19	236	Response	2	9009271	25544	2
+LL-19	238	Video	6A.mpeg	9021175	0	1			0		other	0
+LL-19	239	Video	6C.mpeg	9053942	0	1			0		other	0
+LL-19	239	Response	2	9095620	41678	1
+LL-19	241	Video	8A.mpeg	9108108	0	1			0		other	0
+LL-19	242	Video	8C.mpeg	9170633	0	1			0		other	0
+LL-19	242	Response	2	9182622	11989	2
+LL-19	244	Video	53A.mpeg	9195041	0	1			0		other	0
+LL-19	245	Video	53C.mpeg	9254055	0	1			0		other	0
+LL-19	245	Response	2	9268513	14458	2

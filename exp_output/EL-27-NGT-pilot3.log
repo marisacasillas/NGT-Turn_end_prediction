@@ -1,0 +1,250 @@
+Scenario - Test trials
+Logfile written - 01/15/2015 13:22:40
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+EL-27B	1	Video	instructions	-4984	0	1			0		other	0
+EL-27B	1	Response	2	9290	14274	2
+EL-27B	2	Response	2	237903	228010	2
+EL-27B	3	Video	P17A.mpeg	244108	0	1			0		other	0
+EL-27B	4	Video	P17C.mpeg	301617	0	1			0		other	0
+EL-27B	4	Response	2	317277	15660	2
+EL-27B	6	Video	P4A.mpeg	328030	0	1			0		other	0
+EL-27B	7	Video	P4C.mpeg	351435	0	1			0		other	0
+EL-27B	7	Response	2	382243	30808	1
+EL-27B	9	Video	P10A.mpeg	393898	0	1			0		other	0
+EL-27B	10	Video	P10C.mpeg	472137	0	1			0		other	0
+EL-27B	10	Response	2	487747	15610	1
+EL-27B	12	Video	P5A.mpeg	500055	0	1			0		other	0
+EL-27B	12	Response	2	587626	87571	1
+EL-27B	13	Video	P5C.mpeg	588993	0	1			0		other	0
+EL-27B	13	Response	2	617144	28151	18
+EL-27B	15	Video	P12A.mpeg	630453	0	1			0		other	0
+EL-27B	16	Video	P12C.mpeg	672080	0	1			0		other	0
+EL-27B	16	Response	2	673333	1253	1
+EL-27B	18	Video	P11A.mpeg	685788	0	1			0		other	0
+EL-27B	19	Video	P11C.mpeg	712871	0	1			0		other	0
+EL-27B	19	Response	2	753412	40541	1
+EL-27B	21	Video	P7A.mpeg	764863	0	1			0		other	0
+EL-27B	22	Video	P7C.mpeg	783921	0	1			0		other	0
+EL-27B	22	Response	2	810759	26838	2
+EL-27B	24	Video	P2A.mpeg	823040	0	1			0		other	0
+EL-27B	25	Video	P2C.mpeg	869682	0	2			0		other	0
+EL-27B	25	Response	2	918939	49257	1
+EL-27B	27	Video	P16A.mpeg	931036	0	1			0		other	0
+EL-27B	28	Video	P16C.mpeg	1001585	0	1			0		other	0
+EL-27B	28	Response	2	1049691	48106	2
+EL-27B	30	Video	P1A.mpeg	1061768	0	1			0		other	0
+EL-27B	31	Video	P1C.mpeg	1093197	0	2			0		other	0
+EL-27B	31	Response	2	1111239	18042	1
+EL-27B	33	Video	P9A.mpeg	1123791	0	1			0		other	0
+EL-27B	34	Video	P9C.mpeg	1200692	0	1			0		other	0
+EL-27B	34	Response	2	1221630	20938	1
+EL-27B	36	Video	P6A.mpeg	1234294	0	2			0		other	0
+EL-27B	37	Video	P6C.mpeg	1333765	0	1			0		other	0
+EL-27B	37	Response	2	1354941	21176	2
+EL-27B	39	Video	P18A.mpeg	1366030	0	1			0		other	0
+EL-27B	40	Video	P18C.mpeg	1388598	0	2			0		other	0
+EL-27B	40	Response	2	1413019	24421	2
+EL-27B	42	Video	P19A.mpeg	1425544	0	2			0		other	0
+EL-27B	43	Video	P19C.mpeg	1532203	0	1			0		other	0
+EL-27B	43	Response	2	1562919	30716	1
+EL-27B	45	Video	P13A.mpeg	1574164	0	2			0		other	0
+EL-27B	46	Video	P13C.mpeg	1591551	0	1			0		other	0
+EL-27B	46	Response	2	1614491	22940	2
+EL-27B	48	Video	P15A.mpeg	1626825	0	1			0		other	0
+EL-27B	48	Response	2	1719516	92691	2
+EL-27B	49	Video	P15C.mpeg	1720444	0	1			0		other	0
+EL-27B	49	Response	2	1748641	28197	2
+EL-27B	51	Video	P20A.mpeg	1760399	0	1			0		other	0
+EL-27B	52	Video	P20C.mpeg	1797011	0	1			0		other	0
+EL-27B	52	Response	2	1846689	49678	2
+EL-27B	54	Video	P8A.mpeg	1859535	0	1			0		other	0
+EL-27B	54	Response	2	1944855	85320	1
+EL-27B	55	Video	P8C.mpeg	1957166	0	1			0		other	0
+EL-27B	55	Response	2	2030464	73298	44
+EL-27B	57	Video	P14A.mpeg	2042760	0	1			0		other	0
+EL-27B	58	Video	P14C.mpeg	2078035	0	1			0		other	0
+EL-27B	58	Response	2	2127256	49221	2
+EL-27B	60	Video	P3A.mpeg	2138887	0	1			0		other	0
+EL-27B	61	Video	P3C.mpeg	2169313	0	1			0		other	0
+EL-27B	63	Video	instructions	2218296	0	1			0		other	0
+EL-27B	64	Response	2	2808423	51652	1
+EL-27B	65	Video	47A.mpeg	2814949	0	1			0		other	0
+EL-27B	66	Video	47C.mpeg	2855405	0	2			0		other	0
+EL-27B	66	Response	2	2877216	21811	45
+EL-27B	68	Video	44A.mpeg	2888506	0	2			0		other	0
+EL-27B	69	Video	44C.mpeg	2926957	0	1			0		other	0
+EL-27B	69	Response	2	2945625	18668	2
+EL-27B	71	Video	25A.mpeg	2958219	0	1			0		other	0
+EL-27B	71	Response	2	3006946	48727	48
+EL-27B	72	Video	25C.mpeg	3030439	0	1			0		other	0
+EL-27B	72	Response	2	3048859	18420	2
+EL-27B	74	Video	57A.mpeg	3061367	0	1			0		other	0
+EL-27B	75	Video	57C.mpeg	3163846	0	2			0		other	0
+EL-27B	75	Response	2	3192139	28293	1
+EL-27B	77	Video	1A.mpeg	3203634	0	1			0		other	0
+EL-27B	78	Video	1C.mpeg	3238574	0	1			0		other	0
+EL-27B	78	Response	2	3257833	19259	2
+EL-27B	80	Video	5A.mpeg	3269000	0	1			0		other	0
+EL-27B	81	Video	5C.mpeg	3295916	0	1			0		other	0
+EL-27B	83	Video	49A.mpeg	3348911	0	1			0		other	0
+EL-27B	84	Video	49C.mpeg	3406419	0	2			0		other	0
+EL-27B	84	Response	2	3425153	18734	42
+EL-27B	86	Video	23A.mpeg	3437849	0	1			0		other	0
+EL-27B	87	Video	23C.mpeg	3482150	0	2			0		other	0
+EL-27B	89	Video	16A.mpeg	3535814	0	1			0		other	0
+EL-27B	90	Video	16C.mpeg	3613885	0	2			0		other	0
+EL-27B	90	Response	2	3627867	13982	2
+EL-27B	92	Video	20A.mpeg	3639296	0	1			0		other	0
+EL-27B	93	Video	20C.mpeg	3664874	0	2			0		other	0
+EL-27B	93	Response	2	3696924	32050	1
+EL-27B	95	Video	37A.mpeg	3708842	0	1			0		other	0
+EL-27B	96	Video	37C.mpeg	3748630	0	1			0		other	0
+EL-27B	96	Response	2	3761193	12563	2
+EL-27B	98	Video	54A.mpeg	3774041	0	1			0		other	0
+EL-27B	99	Video	54C.mpeg	3852948	0	1			0		other	0
+EL-27B	101	Video	52A.mpeg	3917645	0	1			0		other	0
+EL-27B	102	Video	52C.mpeg	3965458	0	1			0		other	0
+EL-27B	102	Response	2	4003362	37904	43
+EL-27B	104	Video	7A.mpeg	4015945	0	1			0		other	0
+EL-27B	105	Video	7C.mpeg	4068940	0	1			0		other	0
+EL-27B	107	Video	3A.mpeg	4116084	0	1			0		other	0
+EL-27B	108	Video	3C.mpeg	4145005	0	2			0		other	0
+EL-27B	110	Video	6A.mpeg	4187134	0	1			0		other	0
+EL-27B	111	Video	6C.mpeg	4220068	0	1			0		other	0
+EL-27B	113	Video	53A.mpeg	4292288	0	1			0		other	0
+EL-27B	113	Response	2	4350547	58259	2
+EL-27B	114	Video	53C.mpeg	4351301	0	2			0		other	0
+EL-27B	116	Video	26A.mpeg	4392594	0	1			0		other	0
+EL-27B	117	Video	26C.mpeg	4465316	0	1			0		other	0
+EL-27B	117	Response	2	4489568	24252	2
+EL-27B	119	Video	56A.mpeg	4501259	0	1			0		other	0
+EL-27B	120	Video	56C.mpeg	4523493	0	1			0		other	0
+EL-27B	122	Video	21A.mpeg	4569968	0	1			0		other	0
+EL-27B	122	Response	2	4617108	47140	2
+EL-27B	123	Video	21C.mpeg	4624802	0	1			0		other	0
+EL-27B	125	Video	28A.mpeg	4682979	0	2			0		other	0
+EL-27B	126	Video	28C.mpeg	4713238	0	2			0		other	0
+EL-27B	128	Video	50A.mpeg	4765398	0	1			0		other	0
+EL-27B	129	Video	50C.mpeg	4799669	0	1			0		other	0
+EL-27B	129	Response	2	4832568	32899	2
+EL-27B	131	Video	59A.mpeg	4844974	0	1			0		other	0
+EL-27B	131	Response	2	4963216	118242	18
+EL-27B	132	Video	59C.mpeg	4964338	0	1			0		other	0
+EL-27B	132	Response	2	4993774	29436	2
+EL-27B	134	Video	15A.mpeg	5005630	0	1			0		other	0
+EL-27B	135	Video	15C.mpeg	5033047	0	1			0		other	0
+EL-27B	137	Video	48A.mpeg	5084203	0	1			0		other	0
+EL-27B	138	Video	48C.mpeg	5153581	0	2			0		other	0
+EL-27B	138	Response	2	5212690	59109	2
+EL-27B	140	Video	39A.mpeg	5225133	0	1			0		other	0
+EL-27B	141	Video	39C.mpeg	5276456	0	1			0		other	0
+EL-27B	141	Response	2	5294566	18110	2
+EL-27B	143	Video	34A.mpeg	5307217	0	1			0		other	0
+EL-27B	144	Video	34C.mpeg	5369239	0	1			0		other	0
+EL-27B	146	Video	43A.mpeg	5430593	0	1			0		other	0
+EL-27B	147	Video	43C.mpeg	5468041	0	1			0		other	0
+EL-27B	147	Response	2	5478928	10887	1
+EL-27B	149	Video	42A.mpeg	5491947	0	1			0		other	0
+EL-27B	150	Video	42C.mpeg	5528893	0	1			0		other	0
+EL-27B	150	Response	2	5564501	35608	2
+EL-27B	152	Video	27A.mpeg	5576872	0	2			0		other	0
+EL-27B	153	Video	27C.mpeg	5647421	0	1			0		other	0
+EL-27B	153	Response	2	5680330	32909	1
+EL-27B	155	Response	2	6742645	1049919	1
+EL-27B	157	Video	29A.mpeg	6748111	0	2			0		other	0
+EL-27B	158	Video	29C.mpeg	6815985	0	1			0		other	0
+EL-27B	158	Response	2	6849591	33606	2
+EL-27B	160	Video	35A.mpeg	6861624	0	1			0		other	0
+EL-27B	160	Response	2	6899082	37458	44
+EL-27B	161	Video	35C.mpeg	6906093	0	1			0		other	0
+EL-27B	163	Video	32A.mpeg	6976140	0	1			0		other	0
+EL-27B	164	Video	32C.mpeg	7006232	0	1			0		other	0
+EL-27B	164	Response	2	7019476	13244	1
+EL-27B	166	Video	45A.mpeg	7030974	0	1			0		other	0
+EL-27B	166	Response	2	7084993	54019	1
+EL-27B	167	Video	45C.mpeg	7087145	0	2			0		other	0
+EL-27B	167	Response	2	7107643	20498	1
+EL-27B	169	Video	24A.mpeg	7119411	0	1			0		other	0
+EL-27B	169	Response	2	7140447	21036	48
+EL-27B	169	Response	2	7158719	39308	2
+EL-27B	170	Video	24C.mpeg	7165217	0	1			0		other	0
+EL-27B	170	Response	2	7190826	25609	2
+EL-27B	172	Video	18A.mpeg	7202999	0	1			0		other	0
+EL-27B	172	Response	2	7225814	22815	1
+EL-27B	173	Video	18C.mpeg	7259170	0	1			0		other	0
+EL-27B	173	Response	2	7284841	25671	1
+EL-27B	175	Video	40A.mpeg	7296283	0	1			0		other	0
+EL-27B	176	Video	40C.mpeg	7343260	0	1			0		other	0
+EL-27B	176	Response	2	7363412	20152	2
+EL-27B	178	Video	30A.mpeg	7374689	0	1			0		other	0
+EL-27B	178	Response	2	7430788	56099	1
+EL-27B	179	Video	30C.mpeg	7432699	0	2			0		other	0
+EL-27B	179	Response	2	7458720	26021	2
+EL-27B	181	Video	55A.mpeg	7470648	0	2			0		other	0
+EL-27B	182	Video	55C.mpeg	7517124	0	1			0		other	0
+EL-27B	182	Response	2	7518784	1660	1
+EL-27B	184	Video	58A.mpeg	7531334	0	1			0		other	0
+EL-27B	185	Video	58C.mpeg	7660561	0	1			0		other	0
+EL-27B	185	Response	2	7700375	39814	2
+EL-27B	187	Video	12A.mpeg	7712386	0	1			0		other	0
+EL-27B	188	Video	12C.mpeg	7743815	0	1			0		other	0
+EL-27B	188	Response	2	7760853	17038	2
+EL-27B	190	Video	60A.mpeg	7773238	0	1			0		other	0
+EL-27B	191	Video	60C.mpeg	7824227	0	1			0		other	0
+EL-27B	191	Response	2	7924575	100348	1
+EL-27B	193	Video	14A.mpeg	7937071	0	1			0		other	0
+EL-27B	194	Video	14C.mpeg	7970674	0	1			0		other	0
+EL-27B	194	Response	2	7994804	24130	1
+EL-27B	196	Video	46A.mpeg	8006951	0	1			0		other	0
+EL-27B	197	Video	46C.mpeg	8066800	0	1			0		other	0
+EL-27B	197	Response	2	8077377	10577	18
+EL-27B	199	Video	19A.mpeg	8089369	0	1			0		other	0
+EL-27B	200	Video	19C.mpeg	8146042	0	1			0		other	0
+EL-27B	200	Response	2	8182221	36179	2
+EL-27B	202	Video	17A.mpeg	8193854	0	1			0		other	0
+EL-27B	203	Video	17C.mpeg	8232138	0	1			0		other	0
+EL-27B	203	Response	2	8261356	29218	2
+EL-27B	205	Video	8A.mpeg	8273430	0	1			0		other	0
+EL-27B	206	Video	8C.mpeg	8335954	0	2			0		other	0
+EL-27B	206	Response	2	8344595	8641	2
+EL-27B	208	Video	13A.mpeg	8356684	0	1			0		other	0
+EL-27B	209	Video	13C.mpeg	8413023	0	1			0		other	0
+EL-27B	209	Response	2	8427971	14948	2
+EL-27B	211	Video	41A.mpeg	8439102	0	1			0		other	0
+EL-27B	212	Video	41C.mpeg	8472203	0	1			0		other	0
+EL-27B	212	Response	2	8480959	8756	11
+EL-27B	214	Video	11A.mpeg	8492264	0	2			0		other	0
+EL-27B	215	Video	11C.mpeg	8529712	0	1			0		other	0
+EL-27B	215	Response	2	8543828	14116	2
+EL-27B	217	Video	4A.mpeg	8555123	0	1			0		other	0
+EL-27B	218	Video	4C.mpeg	8574181	0	1			0		other	0
+EL-27B	218	Response	2	8606291	32110	2
+EL-27B	220	Video	36A.mpeg	8618148	0	1			0		other	0
+EL-27B	221	Video	36C.mpeg	8669973	0	1			0		other	0
+EL-27B	221	Response	2	8682935	12962	29
+EL-27B	223	Video	2A.mpeg	8694715	0	1			0		other	0
+EL-27B	224	Video	2C.mpeg	8727315	0	1			0		other	0
+EL-27B	224	Response	2	8746050	18735	1
+EL-27B	226	Video	10A.mpeg	8757239	0	1			0		other	0
+EL-27B	227	Video	10C.mpeg	8807727	0	1			0		other	0
+EL-27B	227	Response	2	8839298	31571	2
+EL-27B	229	Video	22A.mpeg	8850858	0	1			0		other	0
+EL-27B	230	Video	22C.mpeg	8903017	0	1			0		other	0
+EL-27B	230	Response	2	8918023	15006	2
+EL-27B	232	Video	33A.mpeg	8929598	0	1			0		other	0
+EL-27B	233	Video	33C.mpeg	8986438	0	1			0		other	0
+EL-27B	233	Response	2	9010771	24333	2
+EL-27B	235	Video	31A.mpeg	9023551	0	2			0		other	0
+EL-27B	236	Video	31C.mpeg	9127368	0	1			0		other	0
+EL-27B	236	Response	2	9142804	15436	1
+EL-27B	238	Video	51A.mpeg	9153949	0	1			0		other	0
+EL-27B	238	Response	2	9195928	41979	1
+EL-27B	239	Video	51C.mpeg	9198084	0	1			0		other	0
+EL-27B	241	Video	38A.mpeg	9244057	0	1			0		other	0
+EL-27B	242	Video	38C.mpeg	9283845	0	2			0		other	0
+EL-27B	242	Response	2	9311751	27906	2
+EL-27B	244	Video	9A.mpeg	9323132	0	1			0		other	0
+EL-27B	245	Video	9C.mpeg	9368437	0	1			0		other	0
+EL-27B	245	Response	2	9404994	36557	2

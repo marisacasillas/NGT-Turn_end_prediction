@@ -1,0 +1,256 @@
+Scenario - Test trials
+Logfile written - 01/10/2015 10:26:18
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+EL-16C	1	Video	instructions	-5151	0	1			0		other	0
+EL-16C	1	Response	2	12039	17190	1
+EL-16C	2	Response	2	22042	9306	2
+EL-16C	3	Video	P20A.mpeg	28116	0	1			0		other	0
+EL-16C	4	Video	P20C.mpeg	65062	0	1			0		other	0
+EL-16C	4	Response	2	119533	54471	2
+EL-16C	6	Video	P18A.mpeg	131264	0	2			0		other	0
+EL-16C	7	Video	P18C.mpeg	153833	0	2			0		other	0
+EL-16C	7	Response	2	182209	28376	2
+EL-16C	9	Video	P16A.mpeg	194458	0	1			0		other	0
+EL-16C	10	Video	P16C.mpeg	265174	0	1			0		other	0
+EL-16C	10	Response	2	268862	3688	18
+EL-16C	12	Video	P11A.mpeg	280721	0	1			0		other	0
+EL-16C	13	Video	P11C.mpeg	307637	0	1			0		other	0
+EL-16C	13	Response	2	365178	57541	2
+EL-16C	15	Video	P7A.mpeg	377015	0	2			0		other	0
+EL-16C	16	Video	P7C.mpeg	396074	0	1			0		other	0
+EL-16C	16	Response	2	397318	1244	2
+EL-16C	18	Video	P15A.mpeg	409949	0	2			0		other	0
+EL-16C	19	Video	P15C.mpeg	503903	0	1			0		other	0
+EL-16C	19	Response	2	505948	2045	2
+EL-16C	21	Video	P17A.mpeg	517779	0	1			0		other	0
+EL-16C	22	Video	P17C.mpeg	575288	0	1			0		other	0
+EL-16C	22	Response	2	612659	37371	2
+EL-16C	24	Video	P5A.mpeg	625441	0	1			0		other	0
+EL-16C	25	Video	P5C.mpeg	714380	0	1			0		other	0
+EL-16C	25	Response	2	737249	22869	2
+EL-16C	27	Video	P13A.mpeg	748651	0	1			0		other	0
+EL-16C	28	Video	P13C.mpeg	766037	0	2			0		other	0
+EL-16C	28	Response	2	792840	26803	2
+EL-16C	30	Video	P9A.mpeg	804823	0	1			0		other	0
+EL-16C	31	Video	P9C.mpeg	882059	0	1			0		other	0
+EL-16C	31	Response	2	883832	1773	18
+EL-16C	33	Video	P10A.mpeg	895767	0	1			0		other	0
+EL-16C	34	Video	P10C.mpeg	973839	0	1			0		other	0
+EL-16C	34	Response	2	1001992	28153	1
+EL-16C	36	Video	P1A.mpeg	1013627	0	1			0		other	0
+EL-16C	37	Video	P1C.mpeg	1045057	0	1			0		other	0
+EL-16C	37	Response	2	1061798	16741	2
+EL-16C	39	Video	P6A.mpeg	1074146	0	1			0		other	0
+EL-16C	39	Response	2	1172350	98204	31
+EL-16C	40	Video	P6C.mpeg	1173616	0	1			0		other	0
+EL-16C	40	Response	2	1196391	22775	2
+EL-16C	42	Video	P2A.mpeg	1208891	0	1			0		other	0
+EL-16C	43	Video	P2C.mpeg	1255533	0	1			0		other	0
+EL-16C	43	Response	2	1319605	64072	2
+EL-16C	45	Video	P3A.mpeg	1331432	0	1			0		other	0
+EL-16C	46	Video	P3C.mpeg	1362025	0	1			0		other	0
+EL-16C	46	Response	2	1387299	25274	1
+EL-16C	48	Video	P4A.mpeg	1398303	0	1			0		other	0
+EL-16C	49	Video	P4C.mpeg	1421708	0	1			0		other	0
+EL-16C	49	Response	2	1454553	32845	2
+EL-16C	51	Video	P19A.mpeg	1468016	0	1			0		other	0
+EL-16C	52	Video	P19C.mpeg	1574842	0	1			0		other	0
+EL-16C	52	Response	2	1607977	33135	2
+EL-16C	54	Video	P8A.mpeg	1621652	0	1			0		other	0
+EL-16C	54	Response	2	1718448	96796	484
+EL-16C	55	Video	P8C.mpeg	1719116	0	2			0		other	0
+EL-16C	55	Response	2	1794953	75837	2
+EL-16C	57	Video	P14A.mpeg	1807553	0	2			0		other	0
+EL-16C	58	Video	P14C.mpeg	1842828	0	1			0		other	0
+EL-16C	58	Response	2	1893008	50180	43
+EL-16C	60	Video	P12A.mpeg	1906522	0	2			0		other	0
+EL-16C	61	Video	P12C.mpeg	1948317	0	1			0		other	0
+EL-16C	61	Response	2	2018554	70237	1
+EL-16C	63	Video	instructions	2028562	0	2			0		other	0
+EL-16C	63	Response	2	2117973	89411	2
+EL-16C	64	Response	2	2188167	68661	1
+EL-16C	65	Video	8A.mpeg	2195071	0	1			0		other	0
+EL-16C	66	Video	8C.mpeg	2257428	0	1			0		other	0
+EL-16C	66	Response	2	2302255	44827	1
+EL-16C	68	Video	18A.mpeg	2314268	0	2			0		other	0
+EL-16C	69	Video	18C.mpeg	2370273	0	1			0		other	0
+EL-16C	69	Response	2	2416831	46558	2
+EL-16C	71	Video	46A.mpeg	2429119	0	1			0		other	0
+EL-16C	71	Response	2	2488075	58956	1
+EL-16C	72	Video	46C.mpeg	2488969	0	1			0		other	0
+EL-16C	72	Response	2	2520124	31155	2
+EL-16C	74	Video	25A.mpeg	2531933	0	2			0		other	0
+EL-16C	75	Video	25C.mpeg	2603987	0	1			0		other	0
+EL-16C	75	Response	2	2622781	18794	2
+EL-16C	77	Video	49A.mpeg	2634915	0	1			0		other	0
+EL-16C	78	Video	49C.mpeg	2692925	0	2			0		other	0
+EL-16C	78	Response	2	2712937	20012	1
+EL-16C	80	Video	2A.mpeg	2724020	0	2			0		other	0
+EL-16C	81	Video	2C.mpeg	2756787	0	1			0		other	0
+EL-16C	81	Response	2	2758386	1599	2
+EL-16C	83	Video	7A.mpeg	2769994	0	1			0		other	0
+EL-16C	84	Video	7C.mpeg	2822989	0	2			0		other	0
+EL-16C	84	Response	2	2844037	21048	2
+EL-16C	86	Video	14A.mpeg	2855589	0	1			0		other	0
+EL-16C	87	Video	14C.mpeg	2889025	0	1			0		other	0
+EL-16C	87	Response	2	2914111	25086	1
+EL-16C	89	Video	58A.mpeg	2926807	0	1			0		other	0
+EL-16C	90	Video	58C.mpeg	3056202	0	1			0		other	0
+EL-16C	90	Response	2	3096332	40130	2
+EL-16C	92	Video	22A.mpeg	3108863	0	1			0		other	0
+EL-16C	93	Video	22C.mpeg	3161022	0	2			0		other	0
+EL-16C	93	Response	2	3179619	18597	1
+EL-16C	95	Video	47A.mpeg	3191449	0	1			0		other	0
+EL-16C	96	Video	47C.mpeg	3231906	0	1			0		other	0
+EL-16C	96	Response	2	3257622	25716	1
+EL-16C	98	Video	30A.mpeg	3269688	0	1			0		other	0
+EL-16C	99	Video	30C.mpeg	3327364	0	1			0		other	0
+EL-16C	99	Response	2	3346547	19183	1
+EL-16C	101	Video	1A.mpeg	3358125	0	1			0		other	0
+EL-16C	102	Video	1C.mpeg	3392898	0	1			0		other	0
+EL-16C	102	Response	2	3413212	20314	1
+EL-16C	104	Video	23A.mpeg	3424996	0	1			0		other	0
+EL-16C	105	Video	23C.mpeg	3469131	0	1			0		other	0
+EL-16C	105	Response	2	3495714	26583	2
+EL-16C	107	Video	17A.mpeg	3507414	0	1			0		other	0
+EL-16C	108	Video	17C.mpeg	3545865	0	1			0		other	0
+EL-16C	108	Response	2	3575205	29340	2
+EL-16C	110	Video	5A.mpeg	3586823	0	2			0		other	0
+EL-16C	111	Video	5C.mpeg	3613906	0	1			0		other	0
+EL-16C	111	Response	2	3643100	29194	2
+EL-16C	113	Video	60A.mpeg	3656202	0	1			0		other	0
+EL-16C	114	Video	60C.mpeg	3707191	0	2			0		other	0
+EL-16C	114	Response	2	3814365	107174	2
+EL-16C	116	Video	54A.mpeg	3827894	0	1			0		other	0
+EL-16C	117	Video	54C.mpeg	3906968	0	2			0		other	0
+EL-16C	117	Response	2	3923045	16077	18
+EL-16C	119	Video	3A.mpeg	3934218	0	2			0		other	0
+EL-16C	120	Video	3C.mpeg	3962806	0	1			0		other	0
+EL-16C	120	Response	2	3986939	24133	2
+EL-16C	122	Video	15A.mpeg	3998415	0	1			0		other	0
+EL-16C	123	Video	15C.mpeg	4025330	0	1			0		other	0
+EL-16C	123	Response	2	4053839	28509	2
+EL-16C	125	Video	59A.mpeg	4066456	0	1			0		other	0
+EL-16C	126	Video	59C.mpeg	4185821	0	1			0		other	0
+EL-16C	126	Response	2	4218372	32551	44
+EL-16C	128	Video	48A.mpeg	4231126	0	1			0		other	0
+EL-16C	129	Video	48C.mpeg	4300337	0	1			0		other	0
+EL-16C	129	Response	2	4357815	57478	2
+EL-16C	131	Video	57A.mpeg	4371220	0	2			0		other	0
+EL-16C	132	Video	57C.mpeg	4474035	0	1			0		other	0
+EL-16C	132	Response	2	4505697	31662	1
+EL-16C	134	Video	56A.mpeg	4516665	0	1			0		other	0
+EL-16C	135	Video	56C.mpeg	4538565	0	1			0		other	0
+EL-16C	135	Response	2	4559003	20438	2
+EL-16C	137	Video	6A.mpeg	4570830	0	2			0		other	0
+EL-16C	138	Video	6C.mpeg	4603764	0	2			0		other	0
+EL-16C	138	Response	2	4648764	45000	2
+EL-16C	140	Video	11A.mpeg	4660939	0	1			0		other	0
+EL-16C	141	Video	11C.mpeg	4698387	0	1			0		other	0
+EL-16C	141	Response	2	4713246	14859	1
+EL-16C	143	Video	33A.mpeg	4725135	0	1			0		other	0
+EL-16C	144	Video	33C.mpeg	4781976	0	1			0		other	0
+EL-16C	144	Response	2	4803852	21876	2
+EL-16C	146	Video	50A.mpeg	4815913	0	1			0		other	0
+EL-16C	147	Video	50C.mpeg	4850017	0	1			0		other	0
+EL-16C	147	Response	2	4884580	34563	19
+EL-16C	149	Video	55A.mpeg	4896492	0	1			0		other	0
+EL-16C	150	Video	55C.mpeg	4942800	0	1			0		other	0
+EL-16C	150	Response	2	4963487	20687	1
+EL-16C	152	Video	16A.mpeg	4976069	0	1			0		other	0
+EL-16C	153	Video	16C.mpeg	5054308	0	1			0		other	0
+EL-16C	153	Response	2	5073573	19265	2
+EL-16C	155	Response	2	5120814	35579	1
+EL-16C	157	Video	38A.mpeg	5126194	0	1			0		other	0
+EL-16C	158	Video	38C.mpeg	5165815	0	1			0		other	0
+EL-16C	158	Response	2	5200879	35064	2
+EL-16C	160	Video	9A.mpeg	5213628	0	1			0		other	0
+EL-16C	161	Video	9C.mpeg	5258933	0	1			0		other	0
+EL-16C	161	Response	2	5297247	38314	2
+EL-16C	163	Video	28A.mpeg	5308919	0	1			0		other	0
+EL-16C	164	Video	28C.mpeg	5338844	0	1			0		other	0
+EL-16C	164	Response	2	5364923	26079	19
+EL-16C	166	Video	31A.mpeg	5377963	0	1			0		other	0
+EL-16C	167	Video	31C.mpeg	5481948	0	1			0		other	0
+EL-16C	167	Response	2	5496313	14365	2
+EL-16C	169	Video	29A.mpeg	5508529	0	1			0		other	0
+EL-16C	170	Video	29C.mpeg	5576403	0	1			0		other	0
+EL-16C	170	Response	2	5608063	31660	1
+EL-16C	172	Video	20A.mpeg	5619033	0	1			0		other	0
+EL-16C	173	Video	20C.mpeg	5644611	0	2			0		other	0
+EL-16C	173	Response	2	5660878	16267	2
+EL-16C	175	Video	10A.mpeg	5673199	0	1			0		other	0
+EL-16C	176	Video	10C.mpeg	5723686	0	2			0		other	0
+EL-16C	176	Response	2	5756203	32517	1
+EL-16C	178	Video	41A.mpeg	5767988	0	2			0		other	0
+EL-16C	179	Video	41C.mpeg	5800922	0	2			0		other	0
+EL-16C	179	Response	2	5822785	21863	44
+EL-16C	181	Video	32A.mpeg	5833856	0	2			0		other	0
+EL-16C	182	Video	32C.mpeg	5864116	0	1			0		other	0
+EL-16C	182	Response	2	5876048	11932	1
+EL-16C	184	Video	13A.mpeg	5888189	0	1			0		other	0
+EL-16C	185	Video	13C.mpeg	5944361	0	1			0		other	0
+EL-16C	185	Response	2	5958304	13943	2
+EL-16C	187	Video	39A.mpeg	5970273	0	1			0		other	0
+EL-16C	187	Response	2	6005872	35599	2
+EL-16C	188	Video	39C.mpeg	6021597	0	1			0		other	0
+EL-16C	188	Response	2	6040510	18913	1
+EL-16C	190	Video	34A.mpeg	6052525	0	1			0		other	0
+EL-16C	191	Video	34C.mpeg	6114715	0	1			0		other	0
+EL-16C	191	Response	2	6151220	36505	2
+EL-16C	193	Video	53A.mpeg	6163865	0	1			0		other	0
+EL-16C	194	Video	53C.mpeg	6222878	0	2			0		other	0
+EL-16C	194	Response	2	6237414	14536	2
+EL-16C	196	Video	51A.mpeg	6248791	0	1			0		other	0
+EL-16C	197	Video	51C.mpeg	6292926	0	1			0		other	0
+EL-16C	197	Response	2	6311120	18194	2
+EL-16C	199	Video	27A.mpeg	6322683	0	2			0		other	0
+EL-16C	200	Video	27C.mpeg	6393232	0	2			0		other	0
+EL-16C	200	Response	2	6416718	23486	2
+EL-16C	202	Video	40A.mpeg	6428674	0	1			0		other	0
+EL-16C	203	Video	40C.mpeg	6475317	0	1			0		other	0
+EL-16C	203	Response	2	6498342	23025	3
+EL-16C	205	Video	12A.mpeg	6510424	0	1			0		other	0
+EL-16C	206	Video	12C.mpeg	6541853	0	1			0		other	0
+EL-16C	206	Response	2	6572024	30171	19
+EL-16C	208	Video	36A.mpeg	6583815	0	1			0		other	0
+EL-16C	209	Video	36C.mpeg	6635640	0	1			0		other	0
+EL-16C	209	Response	2	6648626	12986	30
+EL-16C	211	Video	21A.mpeg	6660549	0	1			0		other	0
+EL-16C	212	Video	21C.mpeg	6715551	0	1			0		other	0
+EL-16C	212	Response	2	6746615	31064	1
+EL-16C	214	Video	44A.mpeg	6758515	0	1			0		other	0
+EL-16C	215	Video	44C.mpeg	6796966	0	1			0		other	0
+EL-16C	215	Response	2	6816503	19537	2
+EL-16C	217	Video	45A.mpeg	6828730	0	1			0		other	0
+EL-16C	218	Video	45C.mpeg	6884901	0	2			0		other	0
+EL-16C	218	Response	2	6908763	23862	2
+EL-16C	220	Video	19A.mpeg	6920845	0	1			0		other	0
+EL-16C	221	Video	19C.mpeg	6977852	0	1			0		other	0
+EL-16C	221	Response	2	6991723	13871	2
+EL-16C	223	Video	24A.mpeg	7003597	0	2			0		other	0
+EL-16C	224	Video	24C.mpeg	7049237	0	1			0		other	0
+EL-16C	224	Response	2	7072124	22887	1
+EL-16C	226	Video	35A.mpeg	7084344	0	1			0		other	0
+EL-16C	227	Video	35C.mpeg	7128813	0	2			0		other	0
+EL-16C	227	Response	2	7162441	33628	2
+EL-16C	229	Video	42A.mpeg	7174954	0	2			0		other	0
+EL-16C	230	Video	42C.mpeg	7211733	0	2			0		other	0
+EL-16C	230	Response	2	7241937	30204	1
+EL-16C	232	Video	52A.mpeg	7254364	0	1			0		other	0
+EL-16C	233	Video	52C.mpeg	7302176	0	2			0		other	0
+EL-16C	233	Response	2	7335988	33812	1
+EL-16C	235	Video	43A.mpeg	7347816	0	1			0		other	0
+EL-16C	236	Video	43C.mpeg	7385097	0	1			0		other	0
+EL-16C	236	Response	2	7415881	30784	1
+EL-16C	238	Video	37A.mpeg	7427727	0	1			0		other	0
+EL-16C	239	Video	37C.mpeg	7467515	0	1			0		other	0
+EL-16C	239	Response	2	7480969	13454	44
+EL-16C	241	Video	26A.mpeg	7493428	0	1			0		other	0
+EL-16C	242	Video	26C.mpeg	7566150	0	1			0		other	0
+EL-16C	242	Response	2	7585271	19121	2
+EL-16C	244	Video	4A.mpeg	7596910	0	2			0		other	0
+EL-16C	245	Video	4C.mpeg	7615969	0	1			0		other	0
+EL-16C	245	Response	2	7668877	52908	1

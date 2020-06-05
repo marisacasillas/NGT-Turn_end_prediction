@@ -1,0 +1,70 @@
+Scenario - Test trials
+Logfile written - 01/08/2015 11:25:39
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+EL-12B	1	Video	instructions	-5151	0	1			0		other	0
+EL-12B	1	Response	2	19960	25111	2
+EL-12B	2	Response	2	78887	57959	1
+EL-12B	3	Video	P5A.mpeg	85459	0	1			0		other	0
+EL-12B	3	Response	2	162944	77485	34
+EL-12B	4	Video	P5C.mpeg	174565	0	1			0		other	0
+EL-12B	6	Video	P10A.mpeg	225387	0	2			0		other	0
+EL-12B	6	Response	2	270005	44618	1
+EL-12B	7	Video	P10C.mpeg	303460	0	1			0		other	0
+EL-12B	9	Video	P20A.mpeg	350270	0	1			0		other	0
+EL-12B	10	Video	P20C.mpeg	387050	0	1			0		other	0
+EL-12B	10	Response	2	388712	1662	2
+EL-12B	12	Video	P13A.mpeg	399254	0	1			0		other	0
+EL-12B	13	Video	P13C.mpeg	416640	0	1			0		other	0
+EL-12B	13	Response	2	453770	37130	2
+EL-12B	15	Video	P6A.mpeg	466961	0	1			0		other	0
+EL-12B	16	Video	P6C.mpeg	566265	0	2			0		other	0
+EL-12B	16	Response	2	589437	23172	1
+EL-12B	18	Video	P15A.mpeg	601875	0	1			0		other	0
+EL-12B	19	Video	P15C.mpeg	695495	0	1			0		other	0
+EL-12B	21	Video	P19A.mpeg	747822	0	1			0		other	0
+EL-12B	22	Video	P19C.mpeg	854482	0	1			0		other	0
+EL-12B	23	Response	2	907296	5001	3619
+EL-12B	24	Video	P14A.mpeg	913830	0	2			0		other	0
+EL-12B	25	Video	P14C.mpeg	949105	0	1			0		other	0
+EL-12B	25	Response	2	1004222	55117	2
+EL-12B	27	Video	P16A.mpeg	1016645	0	2			0		other	0
+EL-12B	28	Video	P16C.mpeg	1087195	0	1			0		other	0
+EL-12B	28	Response	2	1138011	50816	2
+EL-12B	30	Video	P3A.mpeg	1150054	0	2			0		other	0
+EL-12B	31	Video	P3C.mpeg	1180481	0	1			0		other	0
+EL-12B	31	Response	2	1205851	25370	1
+EL-12B	33	Video	P9A.mpeg	1218431	0	1			0		other	0
+EL-12B	33	Response	2	1257517	39086	18
+EL-12B	34	Video	P9C.mpeg	1295333	0	1			0		other	0
+EL-12B	34	Response	2	1325137	29804	1
+EL-12B	36	Video	P1A.mpeg	1336292	0	1			0		other	0
+EL-12B	37	Video	P1C.mpeg	1367721	0	2			0		other	0
+EL-12B	37	Response	2	1391475	23754	18
+EL-12B	39	Video	P18A.mpeg	1402662	0	1			0		other	0
+EL-12B	40	Video	P18C.mpeg	1425231	0	1			0		other	0
+EL-12B	40	Response	2	1457054	31823	1
+EL-12B	42	Video	P11A.mpeg	1468530	0	1			0		other	0
+EL-12B	43	Video	P11C.mpeg	1495446	0	1			0		other	0
+EL-12B	43	Response	2	1550508	55062	2
+EL-12B	45	Video	P17A.mpeg	1563321	0	1			0		other	0
+EL-12B	46	Video	P17C.mpeg	1620830	0	2			0		other	0
+EL-12B	46	Response	2	1654839	34009	1
+EL-12B	48	Video	P2A.mpeg	1667473	0	1			0		other	0
+EL-12B	49	Video	P2C.mpeg	1713949	0	1			0		other	0
+EL-12B	49	Response	2	1775521	61572	2
+EL-12B	51	Video	P7A.mpeg	1786839	0	1			0		other	0
+EL-12B	52	Video	P7C.mpeg	1805897	0	2			0		other	0
+EL-12B	52	Response	2	1839914	34017	1
+EL-12B	54	Video	P12A.mpeg	1852707	0	2			0		other	0
+EL-12B	55	Video	P12C.mpeg	1894335	0	1			0		other	0
+EL-12B	55	Response	2	1967765	73430	2
+EL-12B	57	Video	P8A.mpeg	1981101	0	1			0		other	0
+EL-12B	58	Video	P8C.mpeg	2078566	0	1			0		other	0
+EL-12B	58	Response	2	2154134	75568	1
+EL-12B	60	Video	P4A.mpeg	2165667	0	1			0		other	0
+EL-12B	61	Video	P4C.mpeg	2189072	0	1			0		other	0
+EL-12B	61	Response	2	2224680	35608	2
+EL-12B	63	Video	instructions	2235046	0	1			0		other	0
+EL-12B	64	Quit		3065652	292290

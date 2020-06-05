@@ -1,0 +1,252 @@
+Scenario - Test trials
+Logfile written - 12/15/2014 18:47:25
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+EL-9A	1	Video	instructions	-4984	0	1			0		other	0
+EL-9A	1	Response	2	5624	10608	2
+EL-9A	2	Response	2	224726	218343	1
+EL-9A	3	Video	P19A.mpeg	231234	0	2			0		other	0
+EL-9A	4	Video	P19C.mpeg	337893	0	1			0		other	0
+EL-9A	4	Response	2	368939	31046	2
+EL-9A	6	Video	P16A.mpeg	381693	0	1			0		other	0
+EL-9A	7	Video	P16C.mpeg	452241	0	1			0		other	0
+EL-9A	7	Response	2	492281	40040	2
+EL-9A	9	Video	P11A.mpeg	504567	0	1			0		other	0
+EL-9A	10	Video	P11C.mpeg	531483	0	1			0		other	0
+EL-9A	10	Response	2	586620	55137	2
+EL-9A	12	Video	P7A.mpeg	598186	0	1			0		other	0
+EL-9A	13	Video	P7C.mpeg	617244	0	1			0		other	0
+EL-9A	13	Response	2	652356	35112	1
+EL-9A	15	Video	P20A.mpeg	664722	0	1			0		other	0
+EL-9A	16	Video	P20C.mpeg	701334	0	1			0		other	0
+EL-9A	16	Response	2	750278	48944	2
+EL-9A	18	Video	P8A.mpeg	763523	0	1			0		other	0
+EL-9A	19	Video	P8C.mpeg	860819	0	2			0		other	0
+EL-9A	19	Response	2	934558	73739	1
+EL-9A	21	Video	P1A.mpeg	946414	0	1			0		other	0
+EL-9A	22	Video	P1C.mpeg	977843	0	1			0		other	0
+EL-9A	22	Response	2	1001128	23285	2
+EL-9A	24	Video	P17A.mpeg	1014120	0	1			0		other	0
+EL-9A	25	Video	P17C.mpeg	1071796	0	1			0		other	0
+EL-9A	25	Response	2	1103384	31588	2
+EL-9A	27	Video	P10A.mpeg	1114927	0	1			0		other	0
+EL-9A	28	Video	P10C.mpeg	1192998	0	1			0		other	0
+EL-9A	28	Response	2	1207272	14274	1
+EL-9A	30	Video	P3A.mpeg	1218576	0	1			0		other	0
+EL-9A	31	Video	P3C.mpeg	1249002	0	1			0		other	0
+EL-9A	31	Response	2	1271075	22073	1
+EL-9A	33	Video	P6A.mpeg	1283441	0	1			0		other	0
+EL-9A	34	Video	P6C.mpeg	1382910	0	1			0		other	0
+EL-9A	34	Response	2	1403348	20438	2
+EL-9A	36	Video	P15A.mpeg	1416011	0	1			0		other	0
+EL-9A	37	Video	P15C.mpeg	1509797	0	1			0		other	0
+EL-9A	37	Response	2	1531634	21837	2
+EL-9A	39	Video	P4A.mpeg	1543399	0	1			0		other	0
+EL-9A	40	Video	P4C.mpeg	1566971	0	1			0		other	0
+EL-9A	40	Response	2	1597179	30208	4
+EL-9A	42	Video	P13A.mpeg	1608431	0	1			0		other	0
+EL-9A	43	Video	P13C.mpeg	1625817	0	1			0		other	0
+EL-9A	43	Response	2	1646971	21154	2
+EL-9A	45	Video	P9A.mpeg	1659419	0	2			0		other	0
+EL-9A	46	Video	P9C.mpeg	1735986	0	1			0		other	0
+EL-9A	46	Response	2	1756533	20547	2
+EL-9A	48	Video	P18A.mpeg	1767415	0	1			0		other	0
+EL-9A	49	Video	P18C.mpeg	1789984	0	1			0		other	0
+EL-9A	49	Response	2	1813564	23580	2
+EL-9A	51	Video	P2A.mpeg	1825258	0	1			0		other	0
+EL-9A	52	Video	P2C.mpeg	1871900	0	1			0		other	0
+EL-9A	52	Response	2	1909826	37926	2
+EL-9A	54	Video	P5A.mpeg	1922387	0	2			0		other	0
+EL-9A	55	Video	P5C.mpeg	2011492	0	1			0		other	0
+EL-9A	55	Response	2	2035488	23996	1
+EL-9A	57	Video	P12A.mpeg	2048104	0	1			0		other	0
+EL-9A	58	Video	P12C.mpeg	2089563	0	2			0		other	0
+EL-9A	58	Response	2	2145894	56331	1
+EL-9A	60	Video	P14A.mpeg	2157771	0	1			0		other	0
+EL-9A	61	Video	P14C.mpeg	2193213	0	1			0		other	0
+EL-9A	61	Response	2	2240797	47584	1
+EL-9A	63	Video	instructions	2251390	0	1			0		other	0
+EL-9A	64	Response	2	3180046	390349	1
+EL-9A	65	Video	54A.mpeg	3186907	0	1			0		other	0
+EL-9A	66	Video	54C.mpeg	3265814	0	1			0		other	0
+EL-9A	66	Response	2	3302519	36705	2
+EL-9A	68	Video	33A.mpeg	3314797	0	1			0		other	0
+EL-9A	69	Video	33C.mpeg	3371637	0	1			0		other	0
+EL-9A	69	Response	2	3386118	14481	2
+EL-9A	71	Video	47A.mpeg	3398385	0	1			0		other	0
+EL-9A	72	Video	47C.mpeg	3438674	0	1			0		other	0
+EL-9A	72	Response	2	3462208	23534	2
+EL-9A	74	Video	30A.mpeg	3474617	0	1			0		other	0
+EL-9A	75	Video	30C.mpeg	3532293	0	1			0		other	0
+EL-9A	75	Response	2	3549998	17705	1
+EL-9A	77	Video	25A.mpeg	3562552	0	1			0		other	0
+EL-9A	78	Video	25C.mpeg	3634437	0	1			0		other	0
+EL-9A	78	Response	2	3650881	16444	2
+EL-9A	80	Video	51A.mpeg	3662021	0	1			0		other	0
+EL-9A	81	Video	51C.mpeg	3706323	0	1			0		other	0
+EL-9A	81	Response	2	3725603	19280	18
+EL-9A	83	Video	12A.mpeg	3737752	0	1			0		other	0
+EL-9A	84	Video	12C.mpeg	3769014	0	1			0		other	0
+EL-9A	84	Response	2	3782108	13094	2
+EL-9A	86	Video	18A.mpeg	3794258	0	1			0		other	0
+EL-9A	87	Video	18C.mpeg	3850261	0	2			0		other	0
+EL-9A	87	Response	2	3886653	36392	2
+EL-9A	89	Video	22A.mpeg	3899077	0	1			0		other	0
+EL-9A	90	Video	22C.mpeg	3951236	0	1			0		other	0
+EL-9A	90	Response	2	3968075	16839	2
+EL-9A	92	Video	6A.mpeg	3979990	0	1			0		other	0
+EL-9A	93	Video	6C.mpeg	4012924	0	1			0		other	0
+EL-9A	93	Response	2	4056255	43331	1
+EL-9A	95	Video	19A.mpeg	4068426	0	1			0		other	0
+EL-9A	96	Video	19C.mpeg	4125266	0	1			0		other	0
+EL-9A	96	Response	2	4161056	35790	2
+EL-9A	98	Video	5A.mpeg	4173078	0	2			0		other	0
+EL-9A	99	Video	5C.mpeg	4199994	0	1			0		other	0
+EL-9A	99	Response	2	4226576	26582	2
+EL-9A	101	Video	49A.mpeg	4238444	0	1			0		other	0
+EL-9A	102	Video	49C.mpeg	4296120	0	1			0		other	0
+EL-9A	102	Response	2	4313976	17856	11
+EL-9A	104	Video	41A.mpeg	4325376	0	1			0		other	0
+EL-9A	105	Video	41C.mpeg	4358310	0	1			0		other	0
+EL-9A	105	Response	2	4380095	21785	1
+EL-9A	107	Video	34A.mpeg	4391912	0	1			0		other	0
+EL-9A	108	Video	34C.mpeg	4453934	0	1			0		other	0
+EL-9A	108	Response	2	4485527	31593	2
+EL-9A	110	Video	38A.mpeg	4497567	0	1			0		other	0
+EL-9A	111	Video	38C.mpeg	4537188	0	1			0		other	0
+EL-9A	111	Response	2	4572297	35109	2
+EL-9A	113	Video	8A.mpeg	4585000	0	1			0		other	0
+EL-9A	114	Video	8C.mpeg	4647357	0	1			0		other	0
+EL-9A	114	Response	2	4685613	38256	3
+EL-9A	116	Video	24A.mpeg	4698011	0	1			0		other	0
+EL-9A	117	Video	24C.mpeg	4743817	0	2			0		other	0
+EL-9A	117	Response	2	4762011	18194	35
+EL-9A	119	Video	9A.mpeg	4774076	0	1			0		other	0
+EL-9A	120	Video	9C.mpeg	4819381	0	1			0		other	0
+EL-9A	120	Response	2	4855065	35684	2
+EL-9A	122	Video	36A.mpeg	4867026	0	1			0		other	0
+EL-9A	123	Video	36C.mpeg	4918684	0	1			0		other	0
+EL-9A	123	Response	2	4931671	12987	2
+EL-9A	125	Video	50A.mpeg	4943593	0	1			0		other	0
+EL-9A	126	Video	50C.mpeg	4977530	0	1			0		other	0
+EL-9A	126	Response	2	4992036	14506	18
+EL-9A	128	Video	15A.mpeg	5003943	0	2			0		other	0
+EL-9A	129	Video	15C.mpeg	5031026	0	1			0		other	0
+EL-9A	129	Response	2	5054298	23272	1
+EL-9A	131	Video	40A.mpeg	5066300	0	1			0		other	0
+EL-9A	132	Video	40C.mpeg	5113109	0	1			0		other	0
+EL-9A	132	Response	2	5129881	16772	2
+EL-9A	134	Video	11A.mpeg	5141362	0	1			0		other	0
+EL-9A	135	Video	11C.mpeg	5178809	0	2			0		other	0
+EL-9A	135	Response	2	5192188	13379	2
+EL-9A	137	Video	58A.mpeg	5204555	0	1			0		other	0
+EL-9A	138	Video	58C.mpeg	5333949	0	1			0		other	0
+EL-9A	138	Response	2	5371625	37676	2
+EL-9A	140	Video	7A.mpeg	5384770	0	2			0		other	0
+EL-9A	141	Video	7C.mpeg	5437598	0	1			0		other	0
+EL-9A	141	Response	2	5455765	18167	18
+EL-9A	143	Video	20A.mpeg	5467021	0	1			0		other	0
+EL-9A	144	Video	20C.mpeg	5492432	0	1			0		other	0
+EL-9A	144	Response	2	5511436	19004	41
+EL-9A	146	Video	17A.mpeg	5522858	0	1			0		other	0
+EL-9A	147	Video	17C.mpeg	5560974	0	1			0		other	0
+EL-9A	147	Response	2	5579810	18836	2
+EL-9A	149	Video	53A.mpeg	5591902	0	1			0		other	0
+EL-9A	150	Video	53C.mpeg	5650748	0	1			0		other	0
+EL-9A	150	Response	2	5662907	12159	2
+EL-9A	152	Video	55A.mpeg	5674319	0	1			0		other	0
+EL-9A	153	Video	55C.mpeg	5720627	0	1			0		other	0
+EL-9A	153	Response	2	5740292	19665	2
+EL-9A	155	Response	2	7118727	1366504	1
+EL-9A	157	Video	42A.mpeg	7124237	0	1			0		other	0
+EL-9A	158	Video	42C.mpeg	7161016	0	1			0		other	0
+EL-9A	158	Response	2	7194018	33002	2
+EL-9A	160	Video	28A.mpeg	7205652	0	1			0		other	0
+EL-9A	161	Video	28C.mpeg	7235576	0	2			0		other	0
+EL-9A	161	Response	2	7259508	23932	2
+EL-9A	163	Video	52A.mpeg	7271519	0	1			0		other	0
+EL-9A	164	Video	52C.mpeg	7319332	0	1			0		other	0
+EL-9A	164	Response	2	7352026	32694	2
+EL-9A	166	Video	10A.mpeg	7363968	0	1			0		other	0
+EL-9A	167	Video	10C.mpeg	7414622	0	1			0		other	0
+EL-9A	167	Response	2	7445997	31375	2
+EL-9A	169	Video	48A.mpeg	7458255	0	1			0		other	0
+EL-9A	170	Video	48C.mpeg	7527800	0	1			0		other	0
+EL-9A	170	Response	2	7579547	51747	1
+EL-9A	172	Video	4A.mpeg	7591829	0	1			0		other	0
+EL-9A	173	Video	4C.mpeg	7610887	0	1			0		other	0
+EL-9A	173	Response	2	7659583	48696	1
+EL-9A	175	Video	14A.mpeg	7671404	0	2			0		other	0
+EL-9A	176	Video	14C.mpeg	7705007	0	1			0		other	0
+EL-9A	176	Response	2	7727482	22475	1
+EL-9A	178	Video	37A.mpeg	7738776	0	1			0		other	0
+EL-9A	179	Video	37C.mpeg	7778397	0	1			0		other	0
+EL-9A	179	Response	2	7792120	13723	1
+EL-9A	181	Video	16A.mpeg	7804476	0	2			0		other	0
+EL-9A	182	Video	16C.mpeg	7882548	0	1			0		other	0
+EL-9A	182	Response	2	7899819	17271	2
+EL-9A	184	Video	57A.mpeg	7912639	0	2			0		other	0
+EL-9A	185	Video	57C.mpeg	8015285	0	2			0		other	0
+EL-9A	185	Response	2	8046957	31672	2
+EL-9A	187	Video	2A.mpeg	8058751	0	1			0		other	0
+EL-9A	188	Video	2C.mpeg	8091518	0	1			0		other	0
+EL-9A	188	Response	2	8109371	17853	2
+EL-9A	190	Video	1A.mpeg	8120941	0	1			0		other	0
+EL-9A	191	Video	1C.mpeg	8155881	0	1			0		other	0
+EL-9A	191	Response	2	8173808	17927	2
+EL-9A	193	Video	27A.mpeg	8185471	0	1			0		other	0
+EL-9A	194	Video	27C.mpeg	8256019	0	1			0		other	0
+EL-9A	194	Response	2	8299218	43199	2
+EL-9A	196	Video	43A.mpeg	8311187	0	1			0		other	0
+EL-9A	197	Video	43C.mpeg	8348634	0	2			0		other	0
+EL-9A	197	Response	2	8382749	34115	2
+EL-9A	199	Video	35A.mpeg	8395277	0	1			0		other	0
+EL-9A	200	Video	35C.mpeg	8439913	0	1			0		other	0
+EL-9A	200	Response	2	8479366	39453	2
+EL-9A	202	Video	39A.mpeg	8491236	0	1			0		other	0
+EL-9A	203	Video	39C.mpeg	8542559	0	1			0		other	0
+EL-9A	203	Response	2	8560713	18154	1
+EL-9A	205	Video	56A.mpeg	8571982	0	1			0		other	0
+EL-9A	206	Video	56C.mpeg	8593715	0	1			0		other	0
+EL-9A	206	Response	2	8612893	19178	2
+EL-9A	208	Video	44A.mpeg	8624141	0	1			0		other	0
+EL-9A	208	Response	2	8661313	37172	1
+EL-9A	209	Video	44C.mpeg	8662424	0	1			0		other	0
+EL-9A	209	Response	2	8694326	31902	3
+EL-9A	211	Video	29A.mpeg	8705890	0	1			0		other	0
+EL-9A	212	Video	29C.mpeg	8773596	0	1			0		other	0
+EL-9A	212	Response	2	8806308	32712	2
+EL-9A	214	Video	46A.mpeg	8819402	0	1			0		other	0
+EL-9A	215	Video	46C.mpeg	8879084	0	1			0		other	0
+EL-9A	215	Response	2	8906536	27452	1
+EL-9A	217	Video	31A.mpeg	8918370	0	2			0		other	0
+EL-9A	218	Video	31C.mpeg	9022521	0	1			0		other	0
+EL-9A	218	Response	2	9038076	15555	2
+EL-9A	220	Video	3A.mpeg	9049604	0	1			0		other	0
+EL-9A	221	Video	3C.mpeg	9078358	0	1			0		other	0
+EL-9A	221	Response	2	9091905	13547	3
+EL-9A	223	Video	23A.mpeg	9103434	0	2			0		other	0
+EL-9A	224	Video	23C.mpeg	9147569	0	1			0		other	0
+EL-9A	224	Response	2	9171959	24390	1
+EL-9A	226	Video	32A.mpeg	9183010	0	1			0		other	0
+EL-9A	227	Video	32C.mpeg	9213102	0	1			0		other	0
+EL-9A	227	Response	2	9227361	14259	2
+EL-9A	229	Video	59A.mpeg	9239850	0	1			0		other	0
+EL-9A	230	Video	59C.mpeg	9359214	0	44			0		other	0
+EL-9A	230	Response	2	9377531	18317	2
+EL-9A	232	Video	21A.mpeg	9389473	0	1			0		other	0
+EL-9A	233	Video	21C.mpeg	9444473	0	2			0		other	0
+EL-9A	233	Response	2	9475022	30549	19
+EL-9A	235	Video	26A.mpeg	9487103	0	2			0		other	0
+EL-9A	236	Video	26C.mpeg	9559825	0	1			0		other	0
+EL-9A	236	Response	2	9583728	23903	2
+EL-9A	238	Video	13A.mpeg	9595601	0	1			0		other	0
+EL-9A	239	Video	13C.mpeg	9651939	0	1			0		other	0
+EL-9A	239	Response	2	9664362	12423	1
+EL-9A	241	Video	60A.mpeg	9677183	0	1			0		other	0
+EL-9A	242	Video	60C.mpeg	9728004	0	1			0		other	0
+EL-9A	242	Response	2	9833424	105420	2
+EL-9A	244	Video	45A.mpeg	9846198	0	1			0		other	0
+EL-9A	245	Video	45C.mpeg	9902369	0	1			0		other	0
+EL-9A	245	Response	2	9920044	17675	1

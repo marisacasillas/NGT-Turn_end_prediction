@@ -1,0 +1,255 @@
+Scenario - Test trials
+Logfile written - 09/24/2017 20:17:19
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+HD-51	1	Video	instructions	-4817	0	1			0		other	0
+HD-51	2	Response	1	1208441	85660	1
+HD-51	3	Video	P20A.mpeg	1214393	0	1			0		other	0
+HD-51	4	Video	P20C.mpeg	1267722	0	1			0		other	0
+HD-51	4	Response	1	1308498	40776	2
+HD-51	6	Video	P7A.mpeg	1320048	0	1			0		other	0
+HD-51	7	Video	P7C.mpeg	1362678	0	1			0		other	0
+HD-51	7	Response	1	1395905	33227	1
+HD-51	9	Video	P3A.mpeg	1408317	0	1			0		other	0
+HD-51	10	Video	P3C.mpeg	1500598	0	1			0		other	0
+HD-51	10	Response	1	1528155	27557	2
+HD-51	12	Video	P16A.mpeg	1539550	0	1			0		other	0
+HD-51	13	Video	P16C.mpeg	1569474	0	1			0		other	0
+HD-51	13	Response	1	1592329	22855	46
+HD-51	15	Video	P8A.mpeg	1603578	0	1			0		other	0
+HD-51	16	Response	1	1629823	81	2
+HD-51	16	Video	P8C.mpeg	1629824	82	315			0		other	0
+HD-51	18	Video	P12A.mpeg	1641527	0	1			0		other	0
+HD-51	19	Video	P12C.mpeg	1695190	0	1			0		other	0
+HD-51	19	Response	1	1751923	56733	2
+HD-51	21	Video	P11A.mpeg	1763899	0	1			0		other	0
+HD-51	22	Video	P11C.mpeg	1808869	0	1			0		other	0
+HD-51	22	Response	1	1853684	44815	2
+HD-51	24	Video	P19A.mpeg	1865375	0	1			0		other	0
+HD-51	25	Video	P19C.mpeg	1919038	0	1			0		other	0
+HD-51	25	Response	1	1949494	30456	2
+HD-51	27	Video	P6A.mpeg	1960665	0	1			0		other	0
+HD-51	28	Video	P6C.mpeg	1998279	0	1			0		other	0
+HD-51	28	Response	1	2018884	20605	2
+HD-51	30	Video	P17A.mpeg	2030878	0	2			0		other	0
+HD-51	31	Video	P17C.mpeg	2066152	0	2			0		other	0
+HD-51	31	Response	1	2114690	48538	2
+HD-51	33	Video	P9A.mpeg	2126336	0	1			0		other	0
+HD-51	33	Response	1	2192851	66515	2
+HD-51	34	Video	P9C.mpeg	2195212	0	1			0		other	0
+HD-51	34	Response	1	2225086	29874	2
+HD-51	36	Video	P5A.mpeg	2238176	0	1			0		other	0
+HD-51	37	Video	P5C.mpeg	2295852	0	1			0		other	0
+HD-51	37	Response	1	2321846	25994	1
+HD-51	39	Video	P14A.mpeg	2333968	0	1			0		other	0
+HD-51	40	Video	P14C.mpeg	2419394	0	2			0		other	0
+HD-51	40	Response	1	2436635	17241	1
+HD-51	42	Video	P13A.mpeg	2449152	0	1			0		other	0
+HD-51	43	Video	P13C.mpeg	2489608	0	1			0		other	0
+HD-51	43	Response	1	2562434	72826	2
+HD-51	45	Video	P15A.mpeg	2574533	0	1			0		other	0
+HD-51	46	Video	P15C.mpeg	2621510	0	1			0		other	0
+HD-51	46	Response	1	2662350	40840	2
+HD-51	48	Video	P10A.mpeg	2675340	0	1			0		other	0
+HD-51	49	Video	P10C.mpeg	2788685	0	1			0		other	0
+HD-51	49	Response	1	2836606	47921	2
+HD-51	51	Video	P18A.mpeg	2848701	0	1			0		other	0
+HD-51	52	Video	P18C.mpeg	2973916	0	1			0		other	0
+HD-51	52	Response	1	2995116	21200	2
+HD-51	54	Video	P1A.mpeg	3006849	0	1			0		other	0
+HD-51	54	Response	1	3139525	132676	2
+HD-51	55	Video	P1C.mpeg	3141091	0	1			0		other	0
+HD-51	55	Response	1	3178609	37518	2
+HD-51	57	Video	P2A.mpeg	3190408	0	1			0		other	0
+HD-51	58	Video	P2C.mpeg	3292552	0	1			0		other	0
+HD-51	58	Response	1	3324266	31714	2
+HD-51	60	Video	P4A.mpeg	3336185	0	1			0		other	0
+HD-51	61	Video	P4C.mpeg	3476445	0	1			0		other	0
+HD-51	61	Response	1	3507274	30829	2
+HD-51	63	Video	instructions	3517236	0	1			0		other	0
+HD-51	64	Response	1	4148352	93647	1
+HD-51	65	Video	23A.mpeg	4154175	0	1			0		other	0
+HD-51	66	Video	23C.mpeg	4271365	0	1			0		other	0
+HD-51	66	Response	1	4294200	22835	2
+HD-51	68	Video	19A.mpeg	4306806	0	1			0		other	0
+HD-51	69	Video	19C.mpeg	4472310	0	1			0		other	0
+HD-51	69	Response	1	4496406	24096	43
+HD-51	71	Video	2A.mpeg	4509423	0	1			0		other	0
+HD-51	72	Video	2C.mpeg	4624273	0	1			0		other	0
+HD-51	72	Response	1	4656006	31733	2
+HD-51	74	Video	51A.mpeg	4668073	0	1			0		other	0
+HD-51	75	Video	51C.mpeg	4730262	0	1			0		other	0
+HD-51	75	Response	1	4776746	46484	1
+HD-51	77	Video	35A.mpeg	4788940	0	2			0		other	0
+HD-51	78	Video	35C.mpeg	4856814	0	1			0		other	0
+HD-51	78	Response	1	4890014	33200	1
+HD-51	80	Video	4A.mpeg	4902787	0	1			0		other	0
+HD-51	81	Video	4C.mpeg	5026497	0	1			0		other	0
+HD-51	81	Response	1	5069590	43093	2
+HD-51	83	Video	9A.mpeg	5083002	0	1			0		other	0
+HD-51	84	Video	9C.mpeg	5129310	0	1			0		other	0
+HD-51	84	Response	1	5177675	48365	2
+HD-51	86	Video	43A.mpeg	5189493	0	1			0		other	0
+HD-51	87	Video	43C.mpeg	5227776	0	1			0		other	0
+HD-51	87	Response	1	5248160	20384	2
+HD-51	89	Video	12A.mpeg	5260041	0	1			0		other	0
+HD-51	90	Video	12C.mpeg	5297488	0	2			0		other	0
+HD-51	90	Response	1	5325341	27853	1
+HD-51	92	Video	30A.mpeg	5336942	0	1			0		other	0
+HD-51	93	Video	30C.mpeg	5382246	0	2			0		other	0
+HD-51	93	Response	1	5404100	21854	44
+HD-51	95	Video	50A.mpeg	5416517	0	2			0		other	0
+HD-51	96	Video	50C.mpeg	5458646	0	1			0		other	0
+HD-51	96	Response	1	5482616	23970	2
+HD-51	98	Video	40A.mpeg	5494923	0	1			0		other	0
+HD-51	99	Video	40C.mpeg	5579012	0	1			0		other	0
+HD-51	99	Response	1	5621284	42272	1
+HD-51	101	Video	11A.mpeg	5633846	0	1			0		other	0
+HD-51	102	Video	11C.mpeg	5693193	0	1			0		other	0
+HD-51	102	Response	1	5746438	53245	2
+HD-51	104	Video	49A.mpeg	5757054	0	1			0		other	0
+HD-51	105	Video	49C.mpeg	5774440	0	2			0		other	0
+HD-51	105	Response	1	5799128	24688	2
+HD-51	107	Video	45A.mpeg	5811386	0	1			0		other	0
+HD-51	108	Video	45C.mpeg	5849001	0	1			0		other	0
+HD-51	108	Response	1	5912118	63117	2
+HD-51	110	Video	7A.mpeg	5924397	0	1			0		other	0
+HD-51	111	Video	7C.mpeg	6004641	0	1			0		other	0
+HD-51	111	Response	1	6053357	48716	2
+HD-51	113	Video	13A.mpeg	6065827	0	1			0		other	0
+HD-51	113	Response	1	6114354	48527	2
+HD-51	114	Video	13C.mpeg	6115646	0	1			0		other	0
+HD-51	114	Response	1	6143105	27459	2
+HD-51	116	Video	38A.mpeg	6154932	0	1			0		other	0
+HD-51	117	Video	38C.mpeg	6200236	0	2			0		other	0
+HD-51	117	Response	1	6236434	36198	44
+HD-51	119	Video	15A.mpeg	6248216	0	1			0		other	0
+HD-51	120	Video	15C.mpeg	6302381	0	1			0		other	0
+HD-51	120	Response	1	6327881	25500	3
+HD-51	122	Video	8A.mpeg	6339159	0	1			0		other	0
+HD-51	122	Response	1	6376864	37705	1
+HD-51	122	Response	1	6413976	74817	1
+HD-51	123	Video	8C.mpeg	6417063	0	1			0		other	0
+HD-51	123	Response	1	6447455	30392	2
+HD-51	125	Video	20A.mpeg	6460027	0	1			0		other	0
+HD-51	126	Video	20C.mpeg	6541107	0	2			0		other	0
+HD-51	126	Response	1	6571396	30289	2
+HD-51	128	Video	18A.mpeg	6584071	0	2			0		other	0
+HD-51	129	Video	18C.mpeg	6681033	0	2			0		other	0
+HD-51	129	Response	1	6716936	35903	42
+HD-51	131	Video	42A.mpeg	6728511	0	1			0		other	0
+HD-51	132	Video	42C.mpeg	6795047	0	1			0		other	0
+HD-51	132	Response	1	6817129	22082	2
+HD-51	134	Video	46A.mpeg	6828984	0	1			0		other	0
+HD-51	135	Video	46C.mpeg	6877966	0	1			0		other	0
+HD-51	135	Response	1	6906501	28535	43
+HD-51	137	Video	33A.mpeg	6917921	0	1			0		other	0
+HD-51	138	Video	33C.mpeg	6966903	0	2			0		other	0
+HD-51	138	Response	1	6985242	18339	1
+HD-51	140	Video	5A.mpeg	6997162	0	1			0		other	0
+HD-51	141	Video	5C.mpeg	7064032	0	2			0		other	0
+HD-51	141	Response	1	7084538	20506	1
+HD-51	143	Video	56A.mpeg	7097133	0	1			0		other	0
+HD-51	144	Video	56C.mpeg	7206132	0	12			0		other	0
+HD-51	144	Response	1	7227356	21224	2
+HD-51	146	Video	60A.mpeg	7239734	0	1			0		other	0
+HD-51	147	Video	60C.mpeg	7306604	0	1			0		other	0
+HD-51	147	Response	1	7328954	22350	1
+HD-51	149	Video	59A.mpeg	7340875	0	1			0		other	0
+HD-51	150	Video	59C.mpeg	7388687	0	1			0		other	0
+HD-51	150	Response	1	7429216	40529	1
+HD-51	152	Video	39A.mpeg	7442016	0	1			0		other	0
+HD-51	153	Video	39C.mpeg	7512230	0	1			0		other	0
+HD-51	153	Response	1	7568247	56017	2
+HD-51	155	Response	1	7862544	282441	2
+HD-51	157	Video	31A.mpeg	7867980	0	1			0		other	0
+HD-51	158	Video	31C.mpeg	7940868	0	1			0		other	0
+HD-51	158	Response	1	7970198	29330	2
+HD-51	160	Video	34A.mpeg	7982996	0	2			0		other	0
+HD-51	161	Video	34C.mpeg	8083134	0	2			0		other	0
+HD-51	161	Response	1	8123896	40762	2
+HD-51	163	Video	21A.mpeg	8136296	0	1			0		other	0
+HD-51	164	Video	21C.mpeg	8221222	0	1			0		other	0
+HD-51	164	Response	1	8242168	20946	1
+HD-51	166	Video	53A.mpeg	8254155	0	1			0		other	0
+HD-51	167	Video	53C.mpeg	8285083	0	1			0		other	0
+HD-51	167	Response	1	8318282	33199	2
+HD-51	169	Video	25A.mpeg	8330554	0	1			0		other	0
+HD-51	170	Video	25C.mpeg	8438717	0	1			0		other	0
+HD-51	170	Response	1	8472796	34079	1
+HD-51	172	Video	26A.mpeg	8484523	0	1			0		other	0
+HD-51	173	Video	26C.mpeg	8512609	0	1			0		other	0
+HD-51	173	Response	1	8531029	18420	1
+HD-51	175	Video	14A.mpeg	8544372	0	1			0		other	0
+HD-51	176	Video	14C.mpeg	8631303	0	1			0		other	0
+HD-51	176	Response	1	8658256	26953	1
+HD-51	178	Video	28A.mpeg	8670757	0	1			0		other	0
+HD-51	179	Video	28C.mpeg	8725590	0	1			0		other	0
+HD-51	179	Response	1	8773007	47417	2
+HD-51	181	Video	37A.mpeg	8784603	0	1			0		other	0
+HD-51	182	Video	37C.mpeg	8817202	0	20			0		other	0
+HD-51	182	Response	1	8850192	32990	1
+HD-51	184	Video	10A.mpeg	8862173	0	1			0		other	0
+HD-51	185	Video	10C.mpeg	8896611	0	1			0		other	0
+HD-51	185	Response	1	8920049	23438	18
+HD-51	187	Video	16A.mpeg	8932888	0	1			0		other	0
+HD-51	188	Video	16C.mpeg	9030685	0	2			0		other	0
+HD-51	188	Response	1	9078222	47537	2
+HD-51	190	Video	57A.mpeg	9090701	0	2			0		other	0
+HD-51	191	Video	57C.mpeg	9139684	0	1			0		other	0
+HD-51	191	Response	1	9154381	14697	1
+HD-51	193	Video	3A.mpeg	9166766	0	1			0		other	0
+HD-51	194	Video	3C.mpeg	9254199	0	1			0		other	0
+HD-51	194	Response	1	9277166	22967	46
+HD-51	196	Video	22A.mpeg	9289139	0	1			0		other	0
+HD-51	197	Video	22C.mpeg	9336784	0	1			0		other	0
+HD-51	197	Response	1	9355585	18801	2
+HD-51	199	Video	29A.mpeg	9367377	0	1			0		other	0
+HD-51	200	Video	29C.mpeg	9415189	0	1			0		other	0
+HD-51	200	Response	1	9441882	26693	1
+HD-51	202	Video	48A.mpeg	9454308	0	1			0		other	0
+HD-51	203	Video	48C.mpeg	9483731	0	1			0		other	0
+HD-51	203	Response	1	9512868	29137	2
+HD-51	205	Video	47A.mpeg	9525859	0	2			0		other	0
+HD-51	206	Video	47C.mpeg	9574507	0	2			0		other	0
+HD-51	206	Response	1	9603453	28946	2
+HD-51	208	Video	58A.mpeg	9614964	0	1			0		other	0
+HD-51	209	Video	58C.mpeg	9644721	0	1			0		other	0
+HD-51	209	Response	1	9662388	17667	1
+HD-51	211	Video	17A.mpeg	9675816	0	1			0		other	0
+HD-51	212	Video	17C.mpeg	9727139	0	1			0		other	0
+HD-51	212	Response	1	9772849	45710	2
+HD-51	214	Video	1A.mpeg	9785316	0	1			0		other	0
+HD-51	215	Video	1C.mpeg	9899162	0	2			0		other	0
+HD-51	215	Response	1	9916214	17052	2
+HD-51	217	Video	36A.mpeg	9928585	0	1			0		other	0
+HD-51	218	Video	36C.mpeg	9979908	0	1			0		other	0
+HD-51	218	Response	1	10034538	54630	3
+HD-51	220	Video	44A.mpeg	10047447	0	1			0		other	0
+HD-51	221	Video	44C.mpeg	10112311	0	1			0		other	0
+HD-51	221	Response	1	10137824	25513	1
+HD-51	223	Video	32A.mpeg	10149424	0	1			0		other	0
+HD-51	224	Video	32C.mpeg	10174166	0	1			0		other	0
+HD-51	224	Response	1	10197858	23692	2
+HD-51	226	Video	41A.mpeg	10210109	0	1			0		other	0
+HD-51	227	Video	41C.mpeg	10270125	0	1			0		other	0
+HD-51	227	Response	1	10292559	22434	2
+HD-51	229	Video	55A.mpeg	10306569	0	1			0		other	0
+HD-51	230	Video	55C.mpeg	10399686	0	1			0		other	0
+HD-51	230	Response	1	10460809	61123	2
+HD-51	232	Video	24A.mpeg	10473243	0	1			0		other	0
+HD-51	233	Video	24C.mpeg	10523061	0	2			0		other	0
+HD-51	233	Response	1	10550207	27146	2
+HD-51	235	Video	52A.mpeg	10562515	0	1			0		other	0
+HD-51	236	Video	52C.mpeg	10630388	0	1			0		other	0
+HD-51	236	Response	1	10664415	34027	1
+HD-51	238	Video	27A.mpeg	10676696	0	1			0		other	0
+HD-51	239	Video	27C.mpeg	10738718	0	1			0		other	0
+HD-51	239	Response	1	10769039	30321	2
+HD-51	241	Video	6A.mpeg	10780679	0	1			0		other	0
+HD-51	242	Video	6C.mpeg	10829661	0	2			0		other	0
+HD-51	242	Response	1	10850280	20619	2
+HD-51	244	Video	54A.mpeg	10862929	0	27			0		other	0
+HD-51	245	Video	54C.mpeg	10938493	0	1			0		other	0
+HD-51	245	Response	1	10939599	1106	1

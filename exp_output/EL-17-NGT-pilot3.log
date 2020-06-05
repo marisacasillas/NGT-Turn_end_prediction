@@ -1,0 +1,250 @@
+Scenario - Test trials
+Logfile written - 01/10/2015 11:32:13
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+EL-17	1	Video	instructions	-4817	0	1			0		other	0
+EL-17	2	Response	2	1296803	173173	1
+EL-17	3	Video	P6A.mpeg	1303012	0	1			0		other	0
+EL-17	4	Video	P6C.mpeg	1340961	0	1			0		other	0
+EL-17	4	Response	2	1358766	17805	2
+EL-17	6	Video	P15A.mpeg	1370551	0	1			0		other	0
+EL-17	7	Video	P15C.mpeg	1417528	0	1			0		other	0
+EL-17	7	Response	2	1453132	35604	2
+EL-17	9	Video	P10A.mpeg	1465843	0	1			0		other	0
+EL-17	10	Video	P10C.mpeg	1579356	0	1			0		other	0
+EL-17	10	Response	2	1623313	43957	1
+EL-17	12	Video	P12A.mpeg	1635695	0	1			0		other	0
+EL-17	13	Video	P12C.mpeg	1689192	0	1			0		other	0
+EL-17	13	Response	2	1736106	46914	1
+EL-17	15	Video	P20A.mpeg	1748874	0	1			0		other	0
+EL-17	16	Video	P20C.mpeg	1802037	0	1			0		other	0
+EL-17	16	Response	2	1829938	27901	2
+EL-17	18	Video	P4A.mpeg	1842995	0	1			0		other	0
+EL-17	19	Video	P4C.mpeg	1983257	0	1			0		other	0
+EL-17	19	Response	2	2013967	30710	1
+EL-17	21	Video	P7A.mpeg	2026054	0	2			0		other	0
+EL-17	22	Video	P7C.mpeg	2068517	0	2			0		other	0
+EL-17	22	Response	2	2098797	30280	2
+EL-17	24	Video	P1A.mpeg	2111649	0	1			0		other	0
+EL-17	25	Video	P1C.mpeg	2246060	0	1			0		other	0
+EL-17	25	Response	2	2263772	17712	1
+EL-17	27	Video	P2A.mpeg	2276152	0	1			0		other	0
+EL-17	28	Video	P2C.mpeg	2378464	0	2			0		other	0
+EL-17	28	Response	2	2412215	33751	18
+EL-17	30	Video	P18A.mpeg	2424940	0	1			0		other	0
+EL-17	31	Video	P18C.mpeg	2550156	0	1			0		other	0
+EL-17	31	Response	2	2570695	20539	17
+EL-17	33	Video	P9A.mpeg	2583424	0	1			0		other	0
+EL-17	34	Video	P9C.mpeg	2652468	0	2			0		other	0
+EL-17	34	Response	2	2681034	28566	3
+EL-17	36	Video	P5A.mpeg	2693761	0	1			0		other	0
+EL-17	37	Video	P5C.mpeg	2751437	0	2			0		other	0
+EL-17	37	Response	2	2769220	17783	41
+EL-17	39	Video	P11A.mpeg	2781529	0	2			0		other	0
+EL-17	40	Video	P11C.mpeg	2826667	0	2			0		other	0
+EL-17	40	Response	2	2858673	32006	2
+EL-17	42	Video	P8A.mpeg	2870301	0	1			0		other	0
+EL-17	43	Video	P8C.mpeg	2896548	0	1			0		other	0
+EL-17	43	Response	2	2914627	18079	2
+EL-17	45	Video	P17A.mpeg	2927308	0	1			0		other	0
+EL-17	46	Video	P17C.mpeg	2962583	0	1			0		other	0
+EL-17	46	Response	2	3004886	42303	2
+EL-17	48	Video	P13A.mpeg	3017417	0	1			0		other	0
+EL-17	49	Video	P13C.mpeg	3057874	0	1			0		other	0
+EL-17	49	Response	2	3128054	70180	2
+EL-17	51	Video	P19A.mpeg	3140794	0	1			0		other	0
+EL-17	52	Video	P19C.mpeg	3194292	0	1			0		other	0
+EL-17	52	Response	2	3215373	21081	45
+EL-17	54	Video	P16A.mpeg	3226890	0	2			0		other	0
+EL-17	55	Video	P16C.mpeg	3256815	0	1			0		other	0
+EL-17	55	Response	2	3274597	17782	2
+EL-17	57	Video	P14A.mpeg	3286907	0	1			0		other	0
+EL-17	58	Video	P14C.mpeg	3372335	0	1			0		other	0
+EL-17	58	Response	2	3390311	17976	2
+EL-17	60	Video	P3A.mpeg	3402594	0	1			0		other	0
+EL-17	61	Video	P3C.mpeg	3494876	0	1			0		other	0
+EL-17	61	Response	2	3520521	25645	2
+EL-17	63	Video	instructions	3530464	0	38			0		other	0
+EL-17	64	Response	2	4080062	11266	2
+EL-17	65	Video	51A.mpeg	4087019	0	1			0		other	0
+EL-17	66	Video	51C.mpeg	4149209	0	1			0		other	0
+EL-17	66	Response	2	4179217	30008	1
+EL-17	68	Video	52A.mpeg	4191672	0	1			0		other	0
+EL-17	69	Video	52C.mpeg	4259546	0	1			0		other	0
+EL-17	69	Response	2	4294117	34571	43
+EL-17	71	Video	21A.mpeg	4306690	0	1			0		other	0
+EL-17	72	Video	21C.mpeg	4391783	0	1			0		other	0
+EL-17	72	Response	2	4412367	20584	33
+EL-17	74	Video	3A.mpeg	4425219	0	1			0		other	0
+EL-17	75	Video	3C.mpeg	4512653	0	1			0		other	0
+EL-17	75	Response	2	4538897	26244	1
+EL-17	77	Video	16A.mpeg	4551772	0	1			0		other	0
+EL-17	78	Video	16C.mpeg	4649404	0	1			0		other	0
+EL-17	78	Response	2	4695954	46550	2
+EL-17	80	Video	43A.mpeg	4707916	0	1			0		other	0
+EL-17	81	Video	43C.mpeg	4746367	0	1			0		other	0
+EL-17	81	Response	2	4766740	20373	2
+EL-17	83	Video	28A.mpeg	4780137	0	1			0		other	0
+EL-17	84	Video	28C.mpeg	4834971	0	1			0		other	0
+EL-17	84	Response	2	4867569	32598	17
+EL-17	86	Video	27A.mpeg	4880276	0	1			0		other	0
+EL-17	87	Video	27C.mpeg	4942466	0	1			0		other	0
+EL-17	87	Response	2	4971732	29266	1
+EL-17	89	Video	35A.mpeg	4984762	0	1			0		other	0
+EL-17	90	Video	35C.mpeg	5052636	0	1			0		other	0
+EL-17	90	Response	2	5086816	34180	2
+EL-17	92	Video	11A.mpeg	5099446	0	1			0		other	0
+EL-17	93	Video	11C.mpeg	5158794	0	1			0		other	0
+EL-17	93	Response	2	5208534	49740	2
+EL-17	95	Video	26A.mpeg	5220649	0	2			0		other	0
+EL-17	96	Video	26C.mpeg	5248401	0	1			0		other	0
+EL-17	96	Response	2	5271013	22612	2
+EL-17	98	Video	4A.mpeg	5284010	0	1			0		other	0
+EL-17	99	Video	4C.mpeg	5407721	0	1			0		other	0
+EL-17	99	Response	2	5450586	42865	1
+EL-17	101	Video	13A.mpeg	5462722	0	2			0		other	0
+EL-17	102	Video	13C.mpeg	5512708	0	2			0		other	0
+EL-17	102	Response	2	5533943	21235	2
+EL-17	104	Video	1A.mpeg	5546980	0	1			0		other	0
+EL-17	105	Video	1C.mpeg	5660661	0	1			0		other	0
+EL-17	105	Response	2	5676741	16080	2
+EL-17	107	Video	7A.mpeg	5689415	0	1			0		other	0
+EL-17	108	Video	7C.mpeg	5769660	0	1			0		other	0
+EL-17	108	Response	2	5815571	45911	1
+EL-17	110	Video	12A.mpeg	5827336	0	2			0		other	0
+EL-17	111	Video	12C.mpeg	5864617	0	1			0		other	0
+EL-17	111	Response	2	5892284	27667	1
+EL-17	113	Video	10A.mpeg	5903904	0	1			0		other	0
+EL-17	114	Video	10C.mpeg	5938510	0	1			0		other	0
+EL-17	114	Response	2	5962940	24430	1
+EL-17	116	Video	22A.mpeg	5974787	0	1			0		other	0
+EL-17	117	Video	22C.mpeg	6022600	0	1			0		other	0
+EL-17	117	Response	2	6038830	16230	2
+EL-17	119	Video	57A.mpeg	6051020	0	1			0		other	0
+EL-17	120	Video	57C.mpeg	6100003	0	1			0		other	0
+EL-17	120	Response	2	6115014	15011	17
+EL-17	122	Video	24A.mpeg	6127086	0	1			0		other	0
+EL-17	123	Video	24C.mpeg	6176905	0	1			0		other	0
+EL-17	123	Response	2	6201827	24922	2
+EL-17	125	Video	60A.mpeg	6214687	0	1			0		other	0
+EL-17	126	Video	60C.mpeg	6281558	0	1			0		other	0
+EL-17	126	Response	2	6305099	23541	2
+EL-17	128	Video	53A.mpeg	6317668	0	1			0		other	0
+EL-17	129	Video	53C.mpeg	6348930	0	2			0		other	0
+EL-17	129	Response	2	6379187	30257	2
+EL-17	131	Video	54A.mpeg	6391895	0	1			0		other	0
+EL-17	132	Video	54C.mpeg	6467794	0	1			0		other	0
+EL-17	132	Response	2	6507241	39447	2
+EL-17	134	Video	29A.mpeg	6519117	0	1			0		other	0
+EL-17	135	Video	29C.mpeg	6566595	0	2			0		other	0
+EL-17	135	Response	2	6590093	23498	1
+EL-17	137	Video	48A.mpeg	6602037	0	1			0		other	0
+EL-17	138	Video	48C.mpeg	6631126	0	1			0		other	0
+EL-17	138	Response	2	6660107	28981	2
+EL-17	140	Video	34A.mpeg	6673422	0	1			0		other	0
+EL-17	141	Video	34C.mpeg	6773561	0	1			0		other	0
+EL-17	141	Response	2	6814313	40752	2
+EL-17	143	Video	42A.mpeg	6826389	0	2			0		other	0
+EL-17	144	Video	42C.mpeg	6893093	0	1			0		other	0
+EL-17	144	Response	2	6918260	25167	2
+EL-17	146	Video	49A.mpeg	6929538	0	1			0		other	0
+EL-17	147	Video	49C.mpeg	6947259	0	1			0		other	0
+EL-17	147	Response	2	6962361	15102	2
+EL-17	149	Video	2A.mpeg	6975010	0	1			0		other	0
+EL-17	150	Video	2C.mpeg	7089694	0	1			0		other	0
+EL-17	150	Response	2	7097902	8208	2
+EL-17	152	Video	30A.mpeg	7109588	0	1			0		other	0
+EL-17	153	Video	30C.mpeg	7154893	0	1			0		other	0
+EL-17	153	Response	2	7176012	21119	3
+EL-17	155	Response	2	8050375	861378	1
+EL-17	157	Video	36A.mpeg	8055813	0	1			0		other	0
+EL-17	158	Video	36C.mpeg	8107136	0	1			0		other	0
+EL-17	158	Response	2	8161383	54247	18
+EL-17	160	Video	9A.mpeg	8174509	0	1			0		other	0
+EL-17	161	Video	9C.mpeg	8221151	0	1			0		other	0
+EL-17	161	Response	2	8283742	62591	1
+EL-17	163	Video	59A.mpeg	8296381	0	1			0		other	0
+EL-17	164	Video	59C.mpeg	8344027	0	1			0		other	0
+EL-17	164	Response	2	8378295	34268	2
+EL-17	166	Video	15A.mpeg	8390168	0	1			0		other	0
+EL-17	167	Video	15C.mpeg	8444333	0	1			0		other	0
+EL-17	167	Response	2	8466499	22166	2
+EL-17	169	Video	5A.mpeg	8478939	0	1			0		other	0
+EL-17	170	Video	5C.mpeg	8546144	0	1			0		other	0
+EL-17	170	Response	2	8565060	18916	2
+EL-17	172	Video	17A.mpeg	8577072	0	1			0		other	0
+EL-17	173	Video	17C.mpeg	8628563	0	1			0		other	0
+EL-17	173	Response	2	8671926	43363	2
+EL-17	175	Video	38A.mpeg	8685069	0	1			0		other	0
+EL-17	176	Video	38C.mpeg	8730374	0	1			0		other	0
+EL-17	176	Response	2	8766014	35640	2
+EL-17	178	Video	18A.mpeg	8779023	0	1			0		other	0
+EL-17	179	Video	18C.mpeg	8876153	0	1			0		other	0
+EL-17	179	Response	2	8906734	30581	44
+EL-17	181	Video	46A.mpeg	8919452	0	1			0		other	0
+EL-17	182	Video	46C.mpeg	8968268	0	1			0		other	0
+EL-17	182	Response	2	8994645	26377	2
+EL-17	184	Video	44A.mpeg	9006886	0	1			0		other	0
+EL-17	185	Video	44C.mpeg	9071918	0	1			0		other	0
+EL-17	185	Response	2	9093498	21580	2
+EL-17	187	Video	31A.mpeg	9105687	0	2			0		other	0
+EL-17	188	Video	31C.mpeg	9178577	0	1			0		other	0
+EL-17	188	Response	2	9205964	27387	2
+EL-17	190	Video	47A.mpeg	9217864	0	1			0		other	0
+EL-17	191	Video	47C.mpeg	9266512	0	1			0		other	0
+EL-17	191	Response	2	9287793	21281	2
+EL-17	193	Video	50A.mpeg	9299781	0	1			0		other	0
+EL-17	194	Video	50C.mpeg	9341909	0	1			0		other	0
+EL-17	194	Response	2	9363621	21712	2
+EL-17	196	Video	6A.mpeg	9376013	0	2			0		other	0
+EL-17	197	Video	6C.mpeg	9424829	0	2			0		other	0
+EL-17	197	Response	2	9439132	14303	1
+EL-17	199	Video	25A.mpeg	9452581	0	1			0		other	0
+EL-17	200	Video	25C.mpeg	9560745	0	1			0		other	0
+EL-17	200	Response	2	9584257	23512	2
+EL-17	202	Video	39A.mpeg	9597189	0	2			0		other	0
+EL-17	203	Video	39C.mpeg	9667237	0	1			0		other	0
+EL-17	203	Response	2	9715059	47822	41
+EL-17	205	Video	33A.mpeg	9727253	0	2			0		other	0
+EL-17	206	Video	33C.mpeg	9776236	0	2			0		other	0
+EL-17	206	Response	2	9796798	20562	2
+EL-17	208	Video	14A.mpeg	9809170	0	2			0		other	0
+EL-17	209	Video	14C.mpeg	9896270	0	1			0		other	0
+EL-17	209	Response	2	9921093	24823	2
+EL-17	211	Video	55A.mpeg	9934721	0	1			0		other	0
+EL-17	212	Video	55C.mpeg	10028006	0	1			0		other	0
+EL-17	212	Response	2	10066290	38284	2
+EL-17	214	Video	19A.mpeg	10079496	0	2			0		other	0
+EL-17	215	Video	19C.mpeg	10245002	0	1			0		other	0
+EL-17	215	Response	2	10266788	21786	1
+EL-17	217	Video	40A.mpeg	10279441	0	1			0		other	0
+EL-17	218	Video	40C.mpeg	10363698	0	1			0		other	0
+EL-17	218	Response	2	10391648	27950	1
+EL-17	220	Video	8A.mpeg	10404155	0	1			0		other	0
+EL-17	221	Video	8C.mpeg	10482060	0	1			0		other	0
+EL-17	221	Response	2	10505415	23355	2
+EL-17	223	Video	32A.mpeg	10517000	0	1			0		other	0
+EL-17	224	Video	32C.mpeg	10541742	0	1			0		other	0
+EL-17	224	Response	2	10561849	20107	2
+EL-17	226	Video	23A.mpeg	10574509	0	1			0		other	0
+EL-17	227	Video	23C.mpeg	10692035	0	1			0		other	0
+EL-17	227	Response	2	10706020	13985	1
+EL-17	229	Video	20A.mpeg	10718783	0	1			0		other	0
+EL-17	230	Video	20C.mpeg	10800032	0	1			0		other	0
+EL-17	230	Response	2	10827093	27061	2
+EL-17	232	Video	58A.mpeg	10839318	0	1			0		other	0
+EL-17	233	Video	58C.mpeg	10869076	0	1			0		other	0
+EL-17	233	Response	2	10883959	14883	1
+EL-17	235	Video	37A.mpeg	10895490	0	1			0		other	0
+EL-17	236	Video	37C.mpeg	10928257	0	1			0		other	0
+EL-17	236	Response	2	10947481	19224	2
+EL-17	238	Video	56A.mpeg	10960856	0	1			0		other	0
+EL-17	239	Video	56C.mpeg	11069856	0	1			0		other	0
+EL-17	239	Response	2	11090168	20312	1
+EL-17	241	Video	41A.mpeg	11102623	0	1			0		other	0
+EL-17	242	Video	41C.mpeg	11162974	0	1			0		other	0
+EL-17	242	Response	2	11181339	18365	2
+EL-17	244	Video	45A.mpeg	11194069	0	1			0		other	0
+EL-17	245	Video	45C.mpeg	11231517	0	1			0		other	0
+EL-17	245	Response	2	11245548	14031	1

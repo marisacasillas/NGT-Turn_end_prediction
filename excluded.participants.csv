@@ -1,0 +1,33 @@
+"Subject","Reason.x","BP","HT","Practice","IncludeBP","Reason.y","Mean","Median"
+"EL-1","freq-late",-1,1,1,1,NA,322.7346939,317
+"EL-11","pre-analysis",-1,1,1,0,"Task misunderstanding",241.8163265,236
+"EL-12","pre-analysis",-1,1,2,0,"Not completed",446.9583333,423.5
+"EL-24","context-presses",1,-1,2,1,NA,253.4285714,250
+"EL-26","context-presses",-1,1,2,1,NA,294.4285714,274
+"EL-27","context-presses",-1,1,2,1,NA,347.5918367,332
+"EL-30","pre-analysis",1,-1,2,0,"Motor problems",677.2307692,693
+"EL-6","context-presses",1,-1,2,1,NA,326.0612245,305
+"EL-7","context-presses",-1,1,2,1,NA,267.5510204,253
+"HD-23","context-presses",-1,1,1,1,NA,317.4717,299.4
+"HD-25","freq-late",1,-1,2,1,NA,400.1739,370.1
+"HD-26","context-presses",-1,1,1,1,NA,352.813,318.6
+"HD-28","freq-late",1,-1,2,1,NA,272.3543,263.8
+"HD-30","context-presses",-1,1,2,1,NA,263.0565,255.15
+"HD-36","freq-late",-1,1,2,1,NA,254.437,241.5
+"HD-39","freq-late",1,-1,1,1,NA,512.9913,480.7
+"HD-4","pre-analysis",-1,-1,1,0,"Experimenter error",541.5098,346.4
+"HD-40","context-presses",1,-1,1,1,NA,303.3065,290
+"HD-42","pre-analysis",-1,1,1,0,"Experimenter error",244.0283,231.25
+"HD-43","pre-analysis",1,-1,1,0,"Experimenter error",283.0609,258.05
+"HD-44","pre-analysis",-1,1,1,0,"Experimenter error",274.1391,259.45
+"HD-45","pre-analysis",1,-1,1,0,"Experimenter error",249.2152,247.8
+"HD-46","pre-analysis",-1,1,1,0,"Experimenter error",311.4065,288.05
+"HD-5","pre-analysis",-1,-1,1,0,"Experimenter error",343.9471,248.5
+"HD-51","freq-late",1,-1,1,1,NA,299.2652,266.5
+"HD-52","pre-analysis",-1,1,2,0,"Not a native Dutch speaker",258.8457,241.3
+"HD-53","context-presses",1,-1,1,1,NA,298.063,284.95
+"LL-10","pre-analysis",-1,1,3,0,"Not completed",264.0408163,244
+"LL-2","context-presses",-1,1,1,1,NA,315.8367347,302
+"LL-5","pre-analysis",1,-1,1,0,"Not a fluent NGT signer",246.5918367,237
+"LL-8","pre-analysis",-1,1,2,0,"Task misunderstanding",376.5918367,346
+"LL-9","context-presses",-1,1,1,1,NA,353.1428571,319
