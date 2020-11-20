@@ -40,8 +40,10 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
     xlab("Age group (years)\n") +
     guides(alpha = guide_legend(title = "# People")) +
     scale_fill_manual(values = c("darkorange", "firebrick1")) +
-    theme(plot.title = element_text(size = 40, face = "bold"),
-      legend.position = "bottom") +
+    theme(
+      plot.title = element_text(size = 40, face = "bold"),
+      legend.position = "bottom",
+      strip.background = element_blank()) +
     plot.style
   
   # EL vs. LL groups
@@ -56,8 +58,10 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
     ylab("Highest education level") +
     xlab("Age group (years)") +
     scale_fill_manual(values = c("darkorange", "firebrick1")) +
-    theme(legend.position = "none",
-      plot.title = element_text(size = 40, face = "bold")) +
+    theme(
+      legend.position = "none",
+      plot.title = element_text(size = 40, face = "bold"),
+      strip.background = element_blank()) +
     plot.style
   
   # B: Auditory status and input type across EL and LL groups
@@ -81,7 +85,8 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
     scale_fill_manual(values = rev(c("darkslateblue", "slateblue", "slateblue1",
       "seagreen3", "palegreen", "olivedrab1", "navy"))) +
     guides(fill = guide_legend(title = "NGT input type", reverse = TRUE)) +
-    plot.style
+    plot.style +
+    theme(strip.background = element_blank())
   
   # C: Age of sign onset across EL and LL groups
   age.sign.onset <- subset(all.sub.info, Group != 0) %>%
@@ -110,7 +115,7 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
       legend.background = element_blank()) +
     plot.style
   
-  layout <- c(
+  layout.SM.plot1 <- c(
     area(t = 1, l = 1, b = 3, r = 5),
     area(t = 4, l = 1, b = 5, r = 5),
     area(t = 6, l = 1, b = 8, r = 3),
@@ -121,9 +126,9 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
     EL.LL.matching +
     EL.LL.hearing.and.input +
     EL.LL.NGTonset +
-    plot_layout(design = layout)
+    plot_layout(design = layout.SM.plot1)
 
-  ggsave("test.png", dpi = 300, units = "cm", width = 90, height = 80)
+  ggsave("Demographic-overview.png", dpi = 300, units = "cm", width = 90, height = 80)
   
 }
 
@@ -155,9 +160,13 @@ plottable.items <- bound.item.info %>%
   filter(!grepl("^[PR]", Code)) %>%
   select(Dyad, Signer, Code, MultiUnit, Feature, Value,
     Gramm.Q.Assoc.s, MGest.Q.Assoc.s, Duration) %>%
-  mutate(MultiUnit = ifelse(MultiUnit == 1, "Multi-unit", "Single-unit")) %>%
-  arrange(Gramm.Q.Assoc.s, MGest.Q.Assoc.s, Duration)
+  mutate(
+    MultiUnit = ifelse(MultiUnit == 1, "Multi-unit", "Single-unit"),
+    TidyVidName = str_extract(Code, "\\d+"),
+    Clip = as.factor(paste(Dyad, TidyVidName))) %>%
+  arrange(Dyad, Gramm.Q.Assoc.s, MGest.Q.Assoc.s, -Duration)
 
+## Set orders of x and y labels
 plottable.items$Feature <- factor(plottable.items$Feature, levels = c(
   # Conventionalized, NGT-only question signs
   "QS.ann", "HOE.ann", "HOE..LANG.ann", "WAAROM.ann", "WAT.ann", "HOEVEEL.ann",
@@ -188,42 +197,106 @@ plottable.items$Feature <- factor(plottable.items$Feature, levels = c(
   "Lexical_cues", "Question_words", "NonWHQuestion_words", "Tag_cues"
 ))
 
+plottable.items$Feature <- factor(plottable.items$Feature, labels = c(
+  # Conventionalized, NGT-only question signs
+  "QS", "HOE", "HOE-LANG", "WAAROM", "WAT", "HOEVEEL",
+  # Gesture-associated question signs
+  "PO", "JIJ", "JULLIE-TWEE", "PO-JIJ.ann",
+  # Brow frowning and raising
+  "AU1+2", "AU1+2+4", "AU4", "AU4+9", "AU5", "AU4+5",
+  # Blinks and tags
+  "blink", "tag1", "tag2","tag3",  "tag4", 
+  # Head tilts
+  "HPb", "HT", "HPf",
+  # Other head movements
+  "HS", "Wiggle",
+  # Backchannels
+  "NM-BC", "NM", "nod",
+  # Manual prosodic cues
+  "lengthening", "fold-hands", "self-groom", "hold",
+  # Other
+  "repetition", "JA",
+  # Categories...
+  "MultiUnit", "DurationSec", "UtteranceType",
+  # Relevant for last analysis
+  "NGT-only Q marker", "NGT & Dutch manual Q marker", "NGT & Dutch Q marker", 
+  # Other
+  "Brow raise", "Brown lowering", "Brow movement",
+  "Head tilt", "Blink", "Head/face movement",
+  "Backchannel", "Nonmanual prosodic cue", "Manual prosodic cue",
+  "Lexical cues", "Question sign", "Non-WH question sign", "Tag"
+))
+
+plottable.items$Clip <- factor(plottable.items$Clip, levels = rev(unique(plottable.items$Clip)))
+
 category.list <- c("MultiUnit", "DurationSec", "UtteranceType",
-  "Gramm.Q.Assoc.s", "MGest.Q.Assoc.s",
-  "Brows_summary_raises", "Brows_summary_frowns",
-  "Head_summary_tilts", "Head_summary_blinks",
-  "Backchannel", "Nonmanual_prosodic_cues", "Manual_prosodic_cues",
-  "Tag_cues")
+  "NGT-only Q marker", "NGT & Dutch manual Q marker",
+  "Brow raise", "Brown lowering",
+  "Head tilt", "Blink",
+  "Backchannel", "Nonmanual prosodic cue", "Manual prosodic cue",
+  "Tag")
 
 categories.plottable.items <- filter(
   plottable.items, Feature %in% category.list)
 
+categories.plottable.items <- filter(categories.plottable.items, Feature != "MultiUnit") %>%
+  mutate(
+    Value.text = case_when(
+      Feature == "DurationSec" ~ as.character(Value),
+      Feature == "UtteranceType" & Value == 1 ~ "polar",
+      Feature == "UtteranceType" & Value == 2 ~ "alt.",
+      Feature == "UtteranceType" & Value == 3 ~ "wh",
+      Feature == "UtteranceType" & Value == 0 ~ "",
+      TRUE ~ ""
+    ))
+categories.plottable.items$MultiUnit <- factor(categories.plottable.items$MultiUnit,
+  levels = c("Single-unit", "Multi-unit"))
+
 # Single unit
-plottable.STCU <- subset(categories.plottable.items, MultiUnit == "Single-unit") %>%
-  filter(Feature != "MultiUnit")
-ggplot(plottable.STCU) +
-  geom_tile(aes(x = Feature, y = Code, alpha = Value), fill = "blue") +
-  facet_wrap(~ Dyad, ncol = 1, scales = "free") +
+item.overview.STCU <- ggplot(
+  subset(categories.plottable.items, MultiUnit == "Single-unit"),
+  aes(x = Feature, y = Clip, alpha = Value, label = Value.text)) +
+  geom_tile(fill = "blue") +
+  geom_text(alpha = 1, size = 10) +
   scale_alpha(range = c(0, 1)) +
+  ggtitle("Single-unit") +
   theme(
-    axis.text.x = element_text(angle = 90, hjust = 1)
-  )
+    axis.text.x = element_text(angle = 90, hjust = 1),
+    legend.position = "none",
+    panel.background = element_rect(fill = "transparent"),
+    plot.background = element_rect(fill = "transparent", color = NA),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    strip.background = element_blank(),
+    plot.title = element_text(size = 40, face = "bold")
+  ) +
+  plot.style
 
 # Multi unit
-plottable.MTCU <- subset(categories.plottable.items, MultiUnit == "Multi-unit") %>%
-  filter(Feature != "MultiUnit")
-ggplot(plottable.MTCU) +
-  geom_tile(aes(x = Feature, y = Code, alpha = Value), fill = "blue") +
-  facet_wrap(~ Dyad, ncol = 1, scales = "free") +
+item.overview.MTCU <- ggplot(
+  subset(categories.plottable.items, MultiUnit == "Multi-unit"),
+  aes(x = Feature, y = Clip, alpha = Value, label = Value.text)) +
+  geom_tile(fill = "blue") +
+  geom_text(alpha = 1, size = 10) +
   scale_alpha(range = c(0, 1)) +
+  ggtitle("Multi-unit") +
   theme(
-    axis.text.x = element_text(angle = 90, hjust = 1)
-  )
+    axis.text.x = element_text(angle = 90, hjust = 1),
+    legend.position = "none",
+    panel.background = element_rect(fill = "transparent"),
+    plot.background = element_rect(fill = "transparent", color = NA),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    strip.background = element_blank(),
+    plot.title = element_text(size = 40, face = "bold")
+  ) +
+  plot.style
 
-# To do next:
-# - Sort by UttType, GrammQAssoc and MGestQAssoc
-# - Rename axis labels and levels
-# - Add numeric duration info
-# - Remove legend
-# - Make background transparent
-# - Make strip prettier
+layout.SM.plot2 <- c(
+  area(t = 1, l = 1, b = 6, r = 2),
+  area(t = 1, l = 3, b = 2, r = 4)
+)
+
+item.overview.STCU + item.overview.MTCU + plot_layout(design = layout.SM.plot2)
+
+ggsave("Item-overview.png", dpi = 300, units = "cm", width = 100, height = 120)
