@@ -126,3 +126,104 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
   ggsave("test.png", dpi = 300, units = "cm", width = 90, height = 80)
   
 }
+
+# Create visual overview of stimuli
+item.basic.info <- read_csv("supp_info/items.codes.all.csv")[2:9]
+item.features <- read_csv("supp_info/items.codes.all.csv")[74:124]
+bound.item.info <- bind_cols(item.basic.info, item.features)
+plottable.items <- bound.item.info %>%
+  mutate(
+    UniqueItem = paste(Code, DyadCode, sep = "_"),
+    UtteranceType = case_when(
+      QuestionType == "polar" ~ 1,
+      QuestionType == "alternative" ~ 2,
+      QuestionType == "wh" ~ 3,
+      TRUE ~ 0),
+    DurationSec = Duration/1000) %>%
+  select(-Code, -DyadCode, -Signer, -Duration, -Question, -QuestionType, -SpeakerOnLeft) %>%
+  pivot_longer(!UniqueItem, names_to = "Feature", values_to = "Value") %>%
+  rowwise() %>%
+  mutate(
+    Code = unlist(strsplit(UniqueItem, "_"))[1],
+    DyadCode = unlist(strsplit(UniqueItem, "_"))[2]
+  ) %>%
+  left_join(select(item.basic.info, c("Code", "Signer", "DyadCode", "MultiUnit", "Duration")),
+    by = c("Code", "DyadCode")) %>%
+  left_join(select(bound.item.info, c("Code", "DyadCode", "Gramm.Q.Assoc.s", "MGest.Q.Assoc.s")),
+    by = c("Code", "DyadCode")) %>%
+  rename("Dyad" = DyadCode) %>%
+  filter(!grepl("^[PR]", Code)) %>%
+  select(Dyad, Signer, Code, MultiUnit, Feature, Value,
+    Gramm.Q.Assoc.s, MGest.Q.Assoc.s, Duration) %>%
+  mutate(MultiUnit = ifelse(MultiUnit == 1, "Multi-unit", "Single-unit")) %>%
+  arrange(Gramm.Q.Assoc.s, MGest.Q.Assoc.s, Duration)
+
+plottable.items$Feature <- factor(plottable.items$Feature, levels = c(
+  # Conventionalized, NGT-only question signs
+  "QS.ann", "HOE.ann", "HOE..LANG.ann", "WAAROM.ann", "WAT.ann", "HOEVEEL.ann",
+  # Gesture-associated question signs
+  "PO.ann", "JIJ.ann", "JULLIE..TWEE.ann", "PO..JIJ.ann",
+  # Brow frowning and raising
+  "AU1..2.ann", "AU1..2..4.ann", "AU4.ann", "AU4..9.ann", "AU5.ann", "AU4..5.ann",
+  # Blinks and tags
+  "blink.ann", "tag1.ann", "tag2.ann","tag3.ann",  "tag4.ann", 
+  # Head tilts
+  "HPb.ann", "HT.ann", "HPf.ann",
+  # Other head movements
+  "HS.ann", "Wiggle.ann",
+  # Backchannels
+  "NM..BC.ann", "NM.ann", "nod.ann",
+  # Manual prosodic cues
+  "lenghtening.ann", "fold..hands.ann", "self..groom.ann", "hold.ann",
+  # Other
+  "repetition.ann", "JA.ann",
+  # Categories...
+  "MultiUnit", "DurationSec", "UtteranceType",
+  # Relevant for last analysis
+  "Gramm.Q.Assoc.s", "MGest.Q.Assoc.s", "Gest.Q.Assoc.s", 
+  # Other
+  "Brows_summary_raises", "Brows_summary_frowns", "Brows_summary_raiseandfrown",
+  "Head_summary_tilts", "Head_summary_blinks", "Head_summary_mvmts",
+  "Backchannel", "Nonmanual_prosodic_cues", "Manual_prosodic_cues",
+  "Lexical_cues", "Question_words", "NonWHQuestion_words", "Tag_cues"
+))
+
+category.list <- c("MultiUnit", "DurationSec", "UtteranceType",
+  "Gramm.Q.Assoc.s", "MGest.Q.Assoc.s",
+  "Brows_summary_raises", "Brows_summary_frowns",
+  "Head_summary_tilts", "Head_summary_blinks",
+  "Backchannel", "Nonmanual_prosodic_cues", "Manual_prosodic_cues",
+  "Tag_cues")
+
+categories.plottable.items <- filter(
+  plottable.items, Feature %in% category.list)
+
+# Single unit
+plottable.STCU <- subset(categories.plottable.items, MultiUnit == "Single-unit") %>%
+  filter(Feature != "MultiUnit")
+ggplot(plottable.STCU) +
+  geom_tile(aes(x = Feature, y = Code, alpha = Value), fill = "blue") +
+  facet_wrap(~ Dyad, ncol = 1, scales = "free") +
+  scale_alpha(range = c(0, 1)) +
+  theme(
+    axis.text.x = element_text(angle = 90, hjust = 1)
+  )
+
+# Multi unit
+plottable.MTCU <- subset(categories.plottable.items, MultiUnit == "Multi-unit") %>%
+  filter(Feature != "MultiUnit")
+ggplot(plottable.MTCU) +
+  geom_tile(aes(x = Feature, y = Code, alpha = Value), fill = "blue") +
+  facet_wrap(~ Dyad, ncol = 1, scales = "free") +
+  scale_alpha(range = c(0, 1)) +
+  theme(
+    axis.text.x = element_text(angle = 90, hjust = 1)
+  )
+
+# To do next:
+# - Sort by UttType, GrammQAssoc and MGestQAssoc
+# - Rename axis labels and levels
+# - Add numeric duration info
+# - Remove legend
+# - Make background transparent
+# - Make strip prettier
