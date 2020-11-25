@@ -4,7 +4,7 @@ library(patchwork)
 source("0-NGTButtonPress-helper.R")
 i.have.access.to.nonanon.subject.info <- "N"
 
-# Create visual overview of participant pool
+# Create visual overview of participant pool ----
 if (i.have.access.to.nonanon.subject.info == "Y") {
   all.sub.info <- read_csv(paste0(info.path, "SubjectInfo-non-anon.csv"))
 
@@ -132,7 +132,7 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
   
 }
 
-# Create visual overview of stimuli
+# Create visual overview of stimuli ----
 item.basic.info <- read_csv("supp_info/items.codes.all.csv")[2:9]
 item.features <- read_csv("supp_info/items.codes.all.csv")[74:124]
 bound.item.info <- bind_cols(item.basic.info, item.features)
@@ -300,3 +300,51 @@ layout.SM.plot2 <- c(
 item.overview.STCU + item.overview.MTCU + plot_layout(design = layout.SM.plot2)
 
 ggsave("Item-overview.png", dpi = 300, units = "cm", width = 100, height = 120)
+
+
+# Create visual overview of exclusions ----
+# exclusion 1 is exclusion on the basis of a priori issues noted -- no need to visualize
+# exclusion 2 is Response > 3 (i.e., >5%; 3/60 trials)
+# NB: 0.5 added to vlines below so that the line appears on the
+# right edge of the relevant bar
+excl2.data <- read_csv("exclusion2.allptcps.csv")
+excl2.fig <- ggplot(excl2.data) +
+  geom_histogram(aes(x = Response), binwidth = 1) +
+  geom_vline(xintercept = 3.5, color = "red", lwd = 2) +
+  annotate(geom = "text", label = "5%", x = 5, y = 25, color = "red", size = 15) +
+  geom_vline(xintercept = 6.5, color = "red", lty = "dashed", lwd = 2) +
+  annotate(geom = "text", label = "10%", x = 8, y = 15, color = "red", size = 15) +
+  geom_vline(xintercept = 9.5, color = "red", lty = "dotted", lwd = 2) +
+  annotate(geom = "text", label = "15%", x = 11, y = 5, color = "red", size = 15) +
+  ggtitle("Button presses during context videos") +
+  ylim(0,30) +
+  xlim(0,40) +
+  ylab("# Participants") +
+  xlab("# Trials with responses during context videos") +
+  plot.style +
+  theme(plot.title = element_text(size = 40, face = "bold"))
+
+# exclusion 3 is VeryLate > 6 (i.e., >10%; 6/60 trials)
+# NB: 0.5 added to vlines below so that the line appears on the
+# right edge of the relevant bar
+excl3.data <- read_csv("exclusion3.allptcps.csv")
+excl3.fig <- ggplot(excl3.data) +
+  geom_histogram(aes(x = VeryLate), binwidth = 1) +
+  geom_vline(xintercept = 6.5, color = "red", lwd = 2) +
+  annotate(geom = "text", label = "10%", x = 7.5, y = 25, color = "red", size = 15) +
+  geom_vline(xintercept = 9.5, color = "red", lty = "dashed", lwd = 2) +
+  annotate(geom = "text", label = "15%", x = 10.5, y = 15, color = "red", size = 15) +
+  geom_vline(xintercept = 12.5, color = "red", lty = "dotted", lwd = 2) +
+  annotate(geom = "text", label = "20%", x = 13.5, y = 5, color = "red", size = 15) +
+  ggtitle("Late button presses") +
+  ylim(0,30) +
+  xlim(0,20) +
+  ylab("# Participants") +
+  xlab("# Trials with late responses") +
+  plot.style +
+  theme(plot.title = element_text(size = 40, face = "bold"))
+
+excl2.fig + excl3.fig
+
+ggsave("Exclusions-overview.png", dpi = 300, units = "cm", width = 90, height = 45)
+

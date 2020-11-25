@@ -68,6 +68,7 @@ unwantedbps <- aggregate(Response ~ Subject, test.contexts, FUN=sum)
 excluded.set2 <- as.character(subset(unwantedbps, Response > 3)$Subject)
 all.data.sbp <- all.data.sbp[!all.data.sbp$Subject %in% excluded.set2,]
 all.data.sbp$IncludeBP <- NULL
+write.csv(unwantedbps, "exclusion2.allptcps.csv")
 
 # Subset out the important trials (test block, target stimulus)
 test.targets <- subset(all.data.sbp, Block == "Test" &
@@ -329,12 +330,14 @@ test.targets$RTms[which(test.targets$Response == 0)] <- 0
 # button late (>10%; 6/60 trials):
 test.targets$VeryLate <- ifelse(
 	test.targets$RTms - test.targets$Duration > 500,1,0)
-excluded.set3 <- subset(aggregate(
-	VeryLate ~ Subject, test.targets, sum), VeryLate > 6)$Subject
+late.presses.summary <- aggregate(
+  VeryLate ~ Subject, test.targets, sum)
+excluded.set3 <- subset(late.presses.summary, VeryLate > 6)$Subject
 test.targets <- test.targets[!test.targets$Subject %in% excluded.set3,]
 write.csv(test.targets, paste0(
   processed.data.path, "prepped.data.for.analysis.csv"),
   row.names = FALSE)
+write.csv(late.presses.summary, "exclusion3.allptcps.csv")
 
 # Output a summary of the excluded participants
 excluded <- c(as.character(excluded.set1),
