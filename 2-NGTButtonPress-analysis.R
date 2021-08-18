@@ -321,6 +321,8 @@ summary(Q3.STCU.noLad.LL)
 
 # -- RT ----
 
+# --- Accuracy ---
+
 # Prediction: Signers > Non-signers
 Q3.STCU.Lad.RT <- lmer(
   Accuracy ~ Group +
@@ -344,6 +346,29 @@ Q3.STCU.noLad.RT <- lmer(
   data = no.L.advantage.data.noLad)
 summary(Q3.STCU.noLad.RT)
 
+# --- RTms relative to stroke turn offset ---
+
+Q3.STCU.Lad.RT2 <- lmer(
+  RelRTms ~ Group +
+    DurSec + Trial + BP +
+    (1|Subject) + (1|Item),
+  data = L.advantage.data)
+summary(Q3.STCU.Lad.RT2)
+
+Q3.STCU.Lpad.RT2 <- lmer(
+  RelRTms ~ Group +
+    DurSec + Trial + BP +
+    (1|Subject) + (1|Item),
+  data = L.p.advantage.data)
+summary(Q3.STCU.Lpad.RT2)
+
+# Signers ~> Non-signers
+Q3.STCU.noLad.RT2 <- lmer(
+  RelRTms ~ Group +
+    DurSec + Trial + BP +
+    (1|Subject) + (1|Item),
+  data = no.L.advantage.data.noLad)
+summary(Q3.STCU.noLad.RT2)
 
 
 #---- PLOTS ----
