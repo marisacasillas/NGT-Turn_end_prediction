@@ -36,13 +36,12 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
   signer.nonsigner.matching <- ggplot(
     matched.characteristics.summary) +
     geom_raster(aes(x = Age.bin, y = Education.code,
-      alpha = n_ptcps, fill = Gender)) +
+      alpha = n_ptcps), fill = "royalblue") +
     facet_wrap(. ~ Signer * Gender, ncol = 2) +
     ggtitle("A) Signing vs. non-signing participants\n") +
     ylab("Highest education level") +
     xlab("Age group (years)\n") +
     guides(alpha = guide_legend(title = "# People")) +
-    scale_fill_manual(values = c("darkorange", "firebrick1")) +
     theme(
       plot.title = element_text(size = 40, face = "bold"),
       legend.position = "bottom",
@@ -55,12 +54,11 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
   EL.LL.matching <- ggplot(
     subset(matched.characteristics.summary, Signer == "Signer")) +
     geom_raster(aes(x = Age.bin, y = Education.code,
-      alpha = n_ptcps, fill = Gender)) +
+      alpha = n_ptcps), fill = "royalblue") +
     facet_wrap(. ~ Group * Gender, ncol = 4) +
     ggtitle("\n\nB) Early vs. late NGT learners\n") +
     ylab("Highest education level") +
     xlab("Age group (years)") +
-    scale_fill_manual(values = c("darkorange", "firebrick1")) +
     theme(
       legend.position = "none",
       plot.title = element_text(size = 40, face = "bold"),
@@ -136,16 +134,16 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
   EL.LL.NGTonset <- ggplot(
     subset(all.sub.info, Group != 0)) +
     geom_density(aes(x = Age.of.sign.onset, fill = SignerGroup), alpha = 0.3) +
-    scale_fill_manual(values = c("gray10", "gray80")) +
+    scale_fill_manual(values = c("skyblue1", "blue4")) +
     guides(fill = guide_legend(title = "")) +
     geom_vline(data = age.sign.onset,
-      aes(xintercept = mean), lty = "solid", color = "red", lwd = 2) +
+      aes(xintercept = mean), lty = "solid", color = "black", lwd = 2) +
     geom_vline(data = age.sign.onset,
-      aes(xintercept = median), lty = "dashed", color = "red", lwd = 2) +
+      aes(xintercept = median), lty = "dashed", color = "black", lwd = 2) +
     annotate("text", label = paste0("Mean = ", round(age.sign.onset$mean[1],1)),
-      x = age.sign.onset$mean[1] + 6, y = 0.2, size = 10, color = "red") +
+      x = age.sign.onset$mean[1] + 6, y = 0.2, size = 10, color = "black") +
     annotate("text", label = paste0("Mean = ", round(age.sign.onset$mean[2],1)),
-      x = age.sign.onset$mean[2] + 6, y = 0.2, size = 10, color = "red") +
+      x = age.sign.onset$mean[2] + 6, y = 0.2, size = 10, color = "black") +
     ylab("\nDensity\n") +
     xlab("Age of NGT onset") +
     theme(legend.position = c(0.9,0.9),
