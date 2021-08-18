@@ -1,8 +1,11 @@
 library(tidyverse)
 library(patchwork)
+library(ggpattern)
 
 source("0-NGTButtonPress-helper.R")
 i.have.access.to.nonanon.subject.info <- "N"
+# File stored at: https://uchicago.box.com/s/u44dg82vw9c1k5eg6eiglh3y4kt1bhfp
+# (access requires an invitation on Box)
 
 # Create visual overview of participant pool ----
 if (i.have.access.to.nonanon.subject.info == "Y") {
@@ -75,6 +78,7 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
   all.sub.info$Input.Code <- factor(all.sub.info$Input.Code, levels = c(
     "Secondary school", "Other", "Prim. school + other",
     "Primary school", "Home + other", "Home + prim. school", "At home"))
+  # Previous (color dependent) version
   EL.LL.hearing.and.input <- ggplot(
     subset(all.sub.info, Group != 0)) +
     geom_bar(aes(y = Status, fill = Input.Code)) +
@@ -83,10 +87,44 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
     ylab("Auditory status\n") +
     xlab("# People") +
     scale_fill_manual(values = rev(c("darkslateblue", "slateblue", "slateblue1",
-      "seagreen3", "palegreen", "olivedrab1", "navy"))) +
+                                     "seagreen3", "palegreen", "olivedrab1", "navy"))) +
     guides(fill = guide_legend(title = "NGT input type", reverse = TRUE)) +
     plot.style +
     theme(strip.background = element_blank())
+
+  # New patterned version
+  input.summary.barplot <- subset(all.sub.info, Group != 0) %>%
+    group_by(Status, Input.Code, SignerGroup) %>%
+    summarize(n = n())
+  EL.LL.hearing.and.input.patterns <- ggplot(input.summary.barplot, aes(x = n, y = Status,
+                                         pattern_fill = Input.Code,
+                                         pattern_colour = Input.Code,
+                                         fill = Input.Code)) +
+    geom_col_pattern(
+      aes(pattern = Input.Code, pattern_angle = Input.Code),
+      colour          = 'black',
+      pattern_density = 0.5,
+      pattern_spacing = 0.05
+    ) +
+    scale_fill_manual(values = c('gray80', 'yellow', 'palegreen', 'blue', 'navy', 'red', 'palegreen')) +
+    scale_pattern_fill_manual(values = c('blue', 'red', 'yellow', 'darkgreen', 'palegreen', 'navy', 'gray80')) +
+    facet_grid(. ~ SignerGroup) +
+    ggtitle("") +
+    ylab("Auditory status\n") +
+    xlab("# People") +
+    guides(fill = guide_legend(title = "NGT input type", reverse = TRUE),
+           pattern = guide_legend(title = "NGT input type", reverse = TRUE),
+           pattern_fill = guide_legend(title = "NGT input type", reverse = TRUE),
+           pattern_colour = guide_legend(title = "NGT input type", reverse = TRUE),
+           pattern_angle = guide_legend(title = "NGT input type", reverse = TRUE)) +
+    plot.style +
+    theme(
+      strip.background = element_blank(),
+      legend.key.size = unit(2, 'cm'))
+  ggexport(EL.LL.hearing.and.input.patterns,
+           filename = "input.patterns.png",
+           width = 7500, height = 4000, res = 300)
+
   
   # C: Age of sign onset across EL and LL groups
   age.sign.onset <- subset(all.sub.info, Group != 0) %>%
@@ -124,7 +162,7 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
   
   signer.nonsigner.matching +
     EL.LL.matching +
-    EL.LL.hearing.and.input +
+    EL.LL.hearing.and.input.patterns +
     EL.LL.NGTonset +
     plot_layout(design = layout.SM.plot1)
 
@@ -348,3 +386,4 @@ excl2.fig + excl3.fig
 
 ggsave("Exclusions-overview.png", dpi = 300, units = "cm", width = 90, height = 45)
 
+# grayscale versions made in ColorSync Utility > Match to Profile > Display > Generic Gray Profile
