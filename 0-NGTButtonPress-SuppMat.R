@@ -164,7 +164,10 @@ if (i.have.access.to.nonanon.subject.info == "Y") {
     EL.LL.NGTonset +
     plot_layout(design = layout.SM.plot1)
 
-  ggsave("Demographic-overview.png", dpi = 300, units = "cm", width = 90, height = 80)
+  ggsave("Demographic-overview.png", dpi = 300,
+         units = "cm", width = 90, height = 80)
+  ggsave("Demographic-overview.pdf", device = "pdf",
+         units = "cm", width = 90, height = 80)
   
 }
 
@@ -335,7 +338,10 @@ layout.SM.plot2 <- c(
 
 item.overview.STCU + item.overview.MTCU + plot_layout(design = layout.SM.plot2)
 
-ggsave("Item-overview.png", dpi = 300, units = "cm", width = 100, height = 120)
+ggsave("Item-overview.png", dpi = 300,
+       units = "cm", width = 100, height = 120)
+ggsave("Item-overview.pdf", device = "pdf",
+       units = "cm", width = 100, height = 120)
 
 
 # Create visual overview of exclusions ----
@@ -382,6 +388,9 @@ excl3.fig <- ggplot(excl3.data) +
 
 excl2.fig + excl3.fig
 
-ggsave("Exclusions-overview.png", dpi = 300, units = "cm", width = 90, height = 45)
+ggsave("Exclusions-overview.png", dpi = 300,
+       units = "cm", width = 90, height = 45)
+ggsave("Exclusions-overview.pdf", device = "pdf",
+       units = "cm", width = 90, height = 45)
 
 # grayscale versions made in ColorSync Utility > Match to Profile > Display > Generic Gray Profile

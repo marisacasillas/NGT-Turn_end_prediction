@@ -389,8 +389,13 @@ question.group.plot <- ggplot(
   geom_violin(fill = "gray80") +
   geom_boxplot(width = 0.1) +
   geom_jitter(width = 0.2, alpha = 0.3) +
-  ylab("Average proportion anticipations")
-
+  ylab("Average proportion anticipations") +
+  theme(text = element_text(size = 20))
+ggsave("Question-Group-Effects.pdf", plot = question.group.plot,
+       device = "pdf", width = 25 , height = 12.5, units = "cm")
+ggsave("Question-Group-Effects.png", plot = question.group.plot,
+       device = "png", width = 25 , height = 12.5, units = "cm",
+       dpi = 300)
 
 
 
